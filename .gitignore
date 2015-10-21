@@ -1,0 +1,8 @@
+www/
+node_modules/
+.DS_Store
+public/episodes/media/
+
+# temp:
+assets/
+public/

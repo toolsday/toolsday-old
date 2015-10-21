@@ -1,0 +1,31 @@
+{
+  "name": "toolsday",
+  "version": "1.0.0",
+  "description": "A 20-minute weekly podcast hosted by Una Kravets and Chris Dhanaraj about tech tooling!",
+  "main": "gulpfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "harp": "^0.15.2"
+  },
+  "devDependencies": {
+    "browser-sync": "^2.6.4",
+    "gulp": "^3.8.11"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/una/toolsday"
+  },
+  "keywords": [
+    "podcast",
+    "front-end",
+    "web",
+    "tools"
+  ],
+  "author": "Rebecca Murphey, Una Kravets",
+  "license": "CC-BY-NC-SA 4.0",
+  "bugs": {
+    "url": "https://github.com/una/toolsday/issues"
+  }
+}
