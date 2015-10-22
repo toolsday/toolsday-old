@@ -1,0 +1,14 @@
+.about-page {
+  @extend %max-680;
+  padding: 2em;
+  height: 85%;
+  line-height: 2;
+
+  h2 {
+    margin-top: 1em;
+  }
+
+  p {
+    margin-bottom: 2.5em;
+  }
+}

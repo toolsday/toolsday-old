@@ -1,0 +1,71 @@
+$breakpoints: (
+  bp-1: 860px,
+  bp-2: 560px
+);
+
+
+// breakpoint mixin
+@mixin breakpoint($name) {
+  @if not map-has-key($breakpoints, $name) {
+    @warn "Invalid breakpoint `#{$name}`.";
+  }
+
+  @else {
+    @media screen and (max-width: map-get($breakpoints, $name)) {
+      @content;
+    }
+  }
+}
+
+%max-1200 {
+  margin: 0 auto;
+  max-width: 1200px;
+}
+
+%max-800 {
+  margin: 0 auto;
+  max-width: 800px;
+  padding: 0 2em;
+
+  @include breakpoint(bp-2) {
+    padding: 0 1em;
+  }
+}
+
+%max-680 {
+  margin: 0 auto;
+  max-width: 680px;
+}
+
+%max-980 {
+  margin: 0 auto;
+  max-width: 980px;
+  width: 100%;
+}
+
+.main-container {
+  @extend %max-1200;
+}
+
+.header-container {
+  @extend %max-1200;
+  position: relative;
+  display: block;
+}
+
+.max-contain {
+  @extend %max-1200;
+}
+
+.med-contain {
+  @extend %max-800;
+}
+
+%flex-container {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-content: stretch;
+  align-items: flex-start;
+}

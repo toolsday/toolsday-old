@@ -1,0 +1,15 @@
+html, body, header, nav, div, section, h1, h2, p, h3, h4, h5, ol, aside {
+  box-sizing: border-box;
+  display: block;
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+}
+*, *:before, *:after {
+  box-sizing: inherit;
+}
+
+ul, ol {
+  padding: 0;
+  margin: 0;
+}

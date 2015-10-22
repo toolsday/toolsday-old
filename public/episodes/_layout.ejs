@@ -1,0 +1,38 @@
+<html>
+  <meta charset="utf-8" />
+  <head>
+    <title><%= title %></title>
+    <meta name="description" content="<%= description %>" />
+    <%- partial("../_partials/_head") %>
+  </head>
+  <body>
+    <%- partial("../_partials/_header") %>
+    <main class="episode-page">
+      <div class="episode--image">
+        <img class="episode--image--main" src="<%= image %>">
+      </div>
+      <div class="episode--meta-data">
+        <h1><%= title %></h1>
+
+        <p><%= date %></p>
+        <p><%= duration %></p>
+        <p><%= description %></p>
+
+        <audio controls src="<%= audio %>"></audio>
+        <br>
+        <a class="download-link" href="<%= audio %>">Download the mp3</a>
+      </div>
+      <article class="transcript">
+        <%- yield %>
+      </article>
+      <button class="transcript-expand-button"> Read More ⤓</button>
+    </main>
+    <%- partial("../_partials/_footer") %>
+  </body>
+  <script>
+    document.querySelector('.transcript-expand-button').addEventListener('click', function(e){
+      document.querySelector('.transcript').setAttribute('class', 'transcript js--open');
+      document.querySelector('.transcript-expand-button').remove();
+    }, false);
+  </script>
+</html>

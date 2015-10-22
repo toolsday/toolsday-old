@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd"
+	xmlns:media="http://search.yahoo.com/mrss/"
+>
+
+<channel>
+	<title>TTL Podcast</title>
+	<atom:link href="http://ttlpodcast.com/rss.xml" rel="self" type="application/rss+xml" />
+	<link>http://ttlpodcast.com</link>
+	<description>The TTL Podcast features conversations with experienced front-end developers at organizations facing interesting challenges in terms of the scale and complexity of their web applications. Hosted by Rebecca Murphey.</description>
+	<lastBuildDate><%= Date() %></lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>hourly</sy:updatePeriod>
+	<sy:updateFrequency>1</sy:updateFrequency>
+	<generator>http://harpjs.com</generator>
+	<copyright>Copyright © Rebecca Murphey 2015</copyright>
+	<managingEditor>rmurphey+ttlpodcast@gmail.com</managingEditor>
+	<webMaster>rmurphey+ttlpodcast@gmail.com</webMaster>
+	<category>Web, Development</category>
+	<ttl>1440</ttl>
+	<image>
+		<url>http://ttlpodcast.com/img/logo-1400-1400.png</url>
+		<title>TTL Podcast</title>
+		<link>http://ttlpodcast.com</link>
+		<width>1400</width>
+		<height>1400</height>
+	</image>
+	<itunes:subtitle>Hosted by Rebecca Murphey.</itunes:subtitle>
+	<itunes:summary>The TTL Podcast focuses features conversations with experienced front-end developers at organizations facing interesting challenges in terms of the scale and complexity of their web applications. Hosted by Rebecca Murphey.</itunes:summary>
+	<itunes:keywords>ttlpodcast, frontend, web, development, web performance</itunes:keywords>
+	<itunes:category text="Technology">
+		<itunes:category text="Tech News" />
+	</itunes:category>
+	<itunes:category text="Technology" />
+	<itunes:author>TTL Podcast</itunes:author>
+	<itunes:owner>
+		<itunes:name>TTL Podcast</itunes:name>
+		<itunes:email>rmurphey+ttlpodcast@gmail.com</itunes:email>
+	</itunes:owner>
+	<itunes:block>no</itunes:block>
+	<itunes:explicit>no</itunes:explicit>
+	<itunes:image href="http://ttlpodcast.com/img/logo-1400-1400.png" />
+
+	<% for (var slug in public.episodes._data) { %>
+	<% if (public.episodes._data[slug].audio && public.episodes._data[slug].filesize) { %>
+	<item>
+		<title><%= public.episodes._data[slug].title %></title>
+		<link>http://ttlpodcast.com/episodes/<%= slug %>.html</link>
+		<pubDate><%= new Date(public.episodes._data[slug].date).toString() %></pubDate>
+		<dc:creator><![CDATA[Rebecca Murphey]]></dc:creator>
+		<guid isPermaLink="true">http://ttlpodcast.com/episodes/<%= slug %>.html</guid>
+		<description><![CDATA[<%= public.episodes._data[slug].description %>]]></description>
+		<itunes:summary><%= public.episodes._data[slug].description %></itunes:summary>
+
+		<enclosure url="http://ttlpodcast.com<%= public.episodes._data[slug].audio %>" length="<%= public.episodes._data[slug].filesize %>" type="audio/mpeg" />
+
+		<itunes:duration><%= public.episodes._data[slug].duration %></itunes:duration>
+		<itunes:subtitle><%= public.episodes._data[slug].guest %></itunes:subtitle>
+		<itunes:author>TTL Podcast</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:block>no</itunes:block>
+	</item>
+	<% } %>
+	<% } %>
+</channel>
+</rss>
