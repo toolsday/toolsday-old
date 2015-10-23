@@ -1,0 +1,36 @@
+.header {
+  &__container {
+    @extend %max-1200;
+    position: relative;
+    display: block;
+  }
+
+  &__logo {
+    max-width: 200px;
+    margin: -2.5em 0 0;
+  }
+}
+
+.global-nav {
+  position: absolute;
+  display: block;
+  right: 1em;
+  top: 3em;
+
+  &__item {
+    list-style: none;
+    display: inline-block;
+    margin: 1em;
+    @extend %transition-duration;
+
+    a {
+      color: dimgrey;
+      text-decoration: none;
+      border-bottom: 1px solid currentColor;
+
+      &:hover {
+        color: black;
+      }
+    }
+  }
+}

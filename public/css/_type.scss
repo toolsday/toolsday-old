@@ -1,0 +1,15 @@
+%type--headers {
+  font-family: 'Oswald', sans-serif;
+}
+
+%type--body {
+  font-family: 'Lora', sans-serif;
+}
+
+body {
+  @extend %type--body;
+}
+
+h1, h2, h3, a {
+  @extend %type--headers;
+}

@@ -1,10 +1,10 @@
+// Vars
 $breakpoints: (
   bp-1: 860px,
   bp-2: 560px
 );
 
-
-// breakpoint mixin
+// Mixins
 @mixin breakpoint($name) {
   @if not map-has-key($breakpoints, $name) {
     @warn "Invalid breakpoint `#{$name}`.";
@@ -16,6 +16,8 @@ $breakpoints: (
     }
   }
 }
+
+// Extends
 
 %max-1200 {
   margin: 0 auto;
@@ -43,24 +45,6 @@ $breakpoints: (
   width: 100%;
 }
 
-.main-container {
-  @extend %max-1200;
-}
-
-.header-container {
-  @extend %max-1200;
-  position: relative;
-  display: block;
-}
-
-.max-contain {
-  @extend %max-1200;
-}
-
-.med-contain {
-  @extend %max-800;
-}
-
 %flex-container {
   display: flex;
   flex-direction: row;
@@ -68,4 +52,18 @@ $breakpoints: (
   justify-content: center;
   align-content: stretch;
   align-items: flex-start;
+}
+
+// Helper Classes
+
+.main-container {
+  @extend %max-1200;
+}
+
+.max-contain {
+  @extend %max-1200;
+}
+
+.med-contain {
+  @extend %max-980;
 }
