@@ -3,7 +3,7 @@
     "title": "Task Runners",
     "date": "October 20, 2015",
     "description": "Grunt, Gulp, Broccoli, Brunch, Mimosa, oh my! So many task runners, so little time. In this weeks episode, we explore each of these delectable breakfast items/task runners.",
-    "audio": "/audio/ep01-task-tunners.mp3",
+    "audio": "audio/ep01-task-runners.mp3",
     "duration": "0:25:09",
     "filesize": 36219719,
     "image": "http://blog.aftercollege.com/wp-content/uploads/2013/05/coding_illustration_smaller1-608x400.jpg"
@@ -11,7 +11,7 @@
   "module-loaders": {
     "title": "Module Loaders",
     "date": "October 27, 2015",
-    "description": "We'll talk about module loaders -- the two most popular being Browserify and Webpack.",
+    "description": "We'll talk about modules and module loaders! Everything from AMD to common.js and spend a bit of time going over Browserify and Webpack.",
     "audio": "",
     "filesize": "",
     "image": "http://ruben.verborgh.org/images/blog/window-or-loader.jpg"

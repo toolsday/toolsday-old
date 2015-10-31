@@ -1,24 +1,36 @@
-<ul class="home__post-list">
-  <% var n = 0;
-    for(var slug in public.episodes._data){
-    n++ %>
-  <% if (public.episodes._data[slug].upcoming !== true) { %>
-    <li class="home__ep">
-        <img src="<%= public.episodes._data[slug].image %>" alt="<%= public.episodes._data[slug].description %>">
-        <div class="home__ep-info">
-        <h2 class="home--post-list--title">
-        <audio controls src="<%= public.episodes._data[slug].audio %>"></audio>
-          <a href="/episodes/<%= slug %>.html">
-            <%= public.episodes._data[slug].title %>
-          </a>
-        </h2>
-        <p class="home__ep-date">
-          <%= public.episodes._data[slug].date %>
-        </p>
-        <p class="home__ep-description">
-          <%= public.episodes._data[slug].description %>
-        </p>
-    </li>
-  <% } %>
-<% }; %>
-</ul>
+<section class="about-page">
+  <section class="about__intro">
+    <img class="about__main-img" src="../img/in-studio.jpg" alt="Chris and Una in the studio">
+
+    <p class="about__main-desc">Toolsday is a 20-minute podcast about the latest in tech tools, tips, and tricks on Tuesdays at 2! (Our alliteration game is so strong). The prodast is brought to you by <a href="http://twitter.com/chrisdhanaraj">Chris Dhanaraj</a> and <a href="http://twitter.com/una">Una Kravets</a>, and recorded live on IBM radio. After the show, we collect resources and post our episodes here and onto iTunes.</p>
+  </section>
+</section>
+
+<section class="episodes">
+  <h1>Episodes:</h1>
+
+  <ul class="home__post-list">
+    <% var n = 0;
+      for(var slug in public.episodes._data){
+      n++ %>
+    <% if (public.episodes._data[slug].upcoming !== true) { %>
+      <li class="home__ep">
+          <img src="<%= public.episodes._data[slug].image %>" alt="<%= public.episodes._data[slug].description %>">
+          <div class="home__ep-info">
+          <h2 class="home--post-list--title">
+          <audio controls src="<%= public.episodes._data[slug].audio %>"></audio>
+            <a href="/episodes/<%= slug %>.html">
+              <%= public.episodes._data[slug].title %>
+            </a>
+          </h2>
+          <p class="home__ep-date">
+            <%= public.episodes._data[slug].date %>
+          </p>
+          <p class="home__ep-description">
+            <%= public.episodes._data[slug].description %>
+          </p>
+      </li>
+    <% } %>
+  <% }; %>
+  </ul>
+</section>
