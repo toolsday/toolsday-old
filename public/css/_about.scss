@@ -1,7 +1,6 @@
 .about {
-  &-page {
-    @extend %max-980;
-    // min-height: 85%;
+  &-section {
+    @extend %max-1100;
   }
 
   &__main-img {

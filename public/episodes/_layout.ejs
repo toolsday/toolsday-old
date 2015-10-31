@@ -11,20 +11,20 @@
       <div class="episode--image">
         <img class="episode--image--main" src="<%= image %>">
       </div>
-      <div class="episode--meta-data">
+      <div class="episode--info">
         <h1><%= title %></h1>
 
         <p><%= date %></p>
-        <p><%= duration %></p>
         <p><%= description %></p>
 
-        <audio controls src="<%= audio %>"></audio>
+        <audio controls src="../<%= audio %>"></audio>
         <br>
         <a class="download-link" href="<%= audio %>">Download the mp3</a>
+        <div class="episode--resources">
+          <h2>Resources:</h2>
+          <%- yield %>
+        </div>
       </div>
-      <article class="transcript">
-        <%- yield %>
-      </article>
     </main>
     <%- partial("../_partials/_footer") %>
   </body>

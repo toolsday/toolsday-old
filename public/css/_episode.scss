@@ -1,0 +1,35 @@
+.episode {
+  &-page {
+    @extend %max-1100;
+  }
+
+  &--image {
+    max-width: 500px;
+    float: left;
+    margin: 0 2em 2em 0;
+
+    img {
+      width: 100%;
+    }
+  }
+
+  &--resources {
+
+    h2 {
+      color: dimgrey;
+    }
+
+    display: block;
+    margin-top: 1em;
+    color: $accent;
+  }
+
+  &--info {
+    display: block;
+    overflow: hidden;
+
+    ul {
+      margin: 1em 2em;
+    }
+  }
+}

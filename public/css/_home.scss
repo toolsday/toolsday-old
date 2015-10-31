@@ -1,8 +1,16 @@
-.home {
-  &__post-list {
-    @extend %max-980;
-  }
+.episodes {
+  @extend %max-1100;
+  margin-bottom: 4em;
+  display: block;
+  overflow: hidden;
 
+  h1 {
+    margin: 1em 0;
+    font-size: 2.4em;
+  }
+}
+
+.home {
   &__ep {
     display: block;
     width: 32%;
@@ -26,9 +34,9 @@
     &-description {
       display: block; /* Fallback for non-webkit */
       display: -webkit-box;
-      height: 7em;
+      height: 5em;
       margin: 0 auto;
-      -webkit-line-clamp: 4;
+      -webkit-line-clamp: 3;
       -webkit-box-orient: vertical;
       overflow: hidden;
       text-overflow: ellipsis;
@@ -42,6 +50,7 @@
 
     img {
       height: 220px;
+      min-width: 100%;
     }
   }
 }
