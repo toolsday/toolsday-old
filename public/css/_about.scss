@@ -22,7 +22,13 @@
     bottom: -6em; right: -4em;
     max-width: 40em;
     padding: 2em;
-    background-color: lightgrey;
+    background-color: $lightgrey;
+
+    a {
+      &:hover {
+        color: mix(black, $accent, 50%)
+      }
+    }
   }
 }
 

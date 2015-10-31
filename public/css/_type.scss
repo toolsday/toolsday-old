@@ -12,4 +12,11 @@ body {
 
 h1, h2, h3, a {
   @extend %type--headers;
+  color: $accent;
+}
+
+a {
+  transition-duration: .25s;
+  text-decoration: none;
+  border-bottom: 1px solid currentColor;
 }
