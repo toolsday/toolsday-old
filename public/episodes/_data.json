@@ -1,13 +1,4 @@
 {
-  "intro": {
-    "title": "Intro to Toolsday",
-    "date": "October 20, 2015",
-    "description": "What is Toolsday? This episide is just a quick intro to the series, a way for us to say hello to you!",
-    "audio": "",
-    "filesize": "",
-    "image": "http://placehold.it/400x300",
-    "duration": ""
-  },
   "task-runners": {
     "title": "Task Runners",
     "date": "October 20, 2015",
@@ -15,15 +6,14 @@
     "audio": "/audio/ep01-task-tunners.mp3",
     "duration": "0:25:09",
     "filesize": 36219719,
-    "image": "http://placehold.it/400x300"
+    "image": "http://blog.aftercollege.com/wp-content/uploads/2013/05/coding_illustration_smaller1-608x400.jpg"
   },
   "module-loaders": {
-    "upcoming": true,
     "title": "Module Loaders",
     "date": "October 27, 2015",
     "description": "We'll talk about module loaders -- the two most popular being Browserify and Webpack.",
     "audio": "",
     "filesize": "",
-    "image": "http://placehold.it/400x300"
+    "image": "http://ruben.verborgh.org/images/blog/window-or-loader.jpg"
   }
 }

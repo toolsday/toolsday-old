@@ -23,12 +23,6 @@
     max-width: 40em;
     padding: 2em;
     background-color: $lightgrey;
-
-    a {
-      &:hover {
-        color: mix(black, $accent, 50%)
-      }
-    }
   }
 }
 

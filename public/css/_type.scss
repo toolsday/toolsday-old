@@ -19,4 +19,8 @@ a {
   transition-duration: .25s;
   text-decoration: none;
   border-bottom: 1px solid currentColor;
+
+  &:hover {
+    color: mix(black, $accent, 50%)
+  }
 }

@@ -1,5 +1,47 @@
 .home {
-  &__ep-container {
+  &__post-list {
     @extend %max-980;
+  }
+
+  &__ep {
+    display: block;
+    width: 32%;
+    float: left;
+    overflow: hidden;
+
+    audio {
+      width: 100%;
+      margin-top: -.5em;
+    }
+
+    &:not(:nth-child(3n)) {
+      margin-right: 2%;
+    }
+
+    &-date {
+      font-weight: 800;
+      font-size: 1.2em;
+    }
+
+    &-description {
+      display: block; /* Fallback for non-webkit */
+      display: -webkit-box;
+      height: 7em;
+      margin: 0 auto;
+      -webkit-line-clamp: 4;
+      -webkit-box-orient: vertical;
+      overflow: hidden;
+      text-overflow: ellipsis;
+      opacity: .8;
+    }
+
+    a {
+      width: 100%;
+      display: block;
+    }
+
+    img {
+      height: 220px;
+    }
   }
 }

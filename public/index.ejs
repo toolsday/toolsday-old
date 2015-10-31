@@ -1,35 +1,23 @@
-<ul class="home--post-list">
+<ul class="home__post-list">
   <% var n = 0;
     for(var slug in public.episodes._data){
     n++ %>
   <% if (public.episodes._data[slug].upcoming !== true) { %>
-    <li>
-      <div class="home__ep-container">
+    <li class="home__ep">
         <img src="<%= public.episodes._data[slug].image %>" alt="<%= public.episodes._data[slug].description %>">
         <div class="home__ep-info">
         <h2 class="home--post-list--title">
+        <audio controls src="<%= public.episodes._data[slug].audio %>"></audio>
           <a href="/episodes/<%= slug %>.html">
             <%= public.episodes._data[slug].title %>
           </a>
         </h2>
-        <h3 class="home--post-list--guest">
-          <% if (public.episodes._data[slug].guest) { %>
-            with <% public.episodes._data[slug].guest %>
-          <% } %>
-          <% if (public.episodes._data[slug].twitter) { %>
-            <% public.episodes._data[slug].twitter.forEach(function (twitterUsername) { %>
-              <a class="guest-twitter-link" target="_blank" href="https://twitter.com/<%= twitterUsername %>"></a>
-            <% }); %>
-          <% } %>
-        </h3>
-        <p class="home--post-list--date">
+        <p class="home__ep-date">
           <%= public.episodes._data[slug].date %>
         </p>
-        <p class="home--post-list--description">
+        <p class="home__ep-description">
           <%= public.episodes._data[slug].description %>
         </p>
-        <audio controls src="<%= public.episodes._data[slug].audio %>"></audio>
-      </div>
     </li>
   <% } %>
 <% }; %>
