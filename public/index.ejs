@@ -11,23 +11,24 @@
 
   <ul class="home__post-list">
     <% var n = 0;
-      for(var slug in public.episodes._data){
+      for(var key in public.episodes._data){
       n++ %>
       <li class="home__ep">
-          <img src="<%= public.episodes._data[slug].image %>" alt="<%= public.episodes._data[slug].description %>">
+          <img src="<%= public.episodes._data[key].image %>" alt="<%= public.episodes._data[key].description %>">
           <div class="home__ep-info">
           <h2 class="home--post-list--title">
-          <audio controls src="<%= public.episodes._data[slug].audio %>"></audio>
-            <a href="/episodes/<%= slug %>.html">
-              <%= public.episodes._data[slug].title %>
+          <audio controls src="<%= public.episodes._data[key].audio %>"></audio>
+            <a href="/episodes/<%= key %>.html">
+              <%= public.episodes._data[key].title %>
             </a>
           </h2>
           <p class="home__ep-date">
-            <%= public.episodes._data[slug].date %>
+            <%= public.episodes._data[key].date %>
           </p>
           <p class="home__ep-description">
-            <%= public.episodes._data[slug].description %>
+            <%= public.episodes._data[key].description %>
           </p>
+          <a class="more-link" href="/episodes/<%= key %>.html">See Show Notes &rarr; </a>
       </li>
     <% } %>
   </ul>

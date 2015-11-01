@@ -2,3 +2,4 @@ $lightgrey: #eee;
 $orange: #e93b1b;
 
 $accent: $orange;
+$accent--lighter:  mix(lemonchiffon, $accent, 30%);

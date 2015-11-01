@@ -1,6 +1,7 @@
 .episode {
   &-page {
     @extend %max-1100;
+    min-height: 72vh;
   }
 
   &--image {

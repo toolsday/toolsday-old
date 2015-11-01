@@ -23,4 +23,11 @@ a {
   &:hover {
     color: mix(black, $accent, 50%)
   }
+
+  &.more-link {
+    border-bottom: none;
+    margin-top: .5em;
+    text-align: right;
+    color: $accent--lighter;
+  }
 }

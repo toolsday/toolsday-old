@@ -1,0 +1,4 @@
+- [Require JS and AMD](http://requirejs.org/docs/whyamd.html)
+- [Writing Modular JavaScript With AMD, CommonJS & ES Harmony](http://addyosmani.com/writing-modular-js/)
+- [Browserify](http://browserify.org/)
+- [Webpack](https://webpack.github.io/)
