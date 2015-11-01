@@ -1,0 +1,12 @@
+footer {
+  text-align: center;
+  padding: 1em;
+  width: 100%;
+  background: $lightgrey;
+
+  small {
+    max-width: 38em;
+    display: block;
+    margin: 0 auto;
+  }
+}
