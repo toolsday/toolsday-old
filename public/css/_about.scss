@@ -5,11 +5,15 @@
 
   &__main-img {
     width: 100%;
+    height: 250px;
+    background-image: url('../img/in-studio.jpg');
+    background-size: cover;
+    background-position: 50%;
   }
 
   &__intro {
     position: relative;
-    margin-bottom: 6em;
+    margin-bottom: 4em;
   }
 
   &__header {
@@ -18,37 +22,10 @@
 
   &__main-desc {
     position: absolute;
-    bottom: -6em; right: -4em;
+    bottom: -8em;
+    right: -4em;
     max-width: 40em;
     padding: 2em;
     background-color: $lightgrey;
-  }
-}
-
-.host {
-  clear: both;
-  display: block;
-  margin-top: 4em;
-  overflow: hidden;
-  width: 100%;
-
-  &__section {
-    margin-top: 10em;
-    display: block;
-    clear: both;
-    float: none;
-  }
-
-  &__image {
-    max-width: 400px;
-    float: left;
-    margin: 0 2em 0 0;
-  }
-
-  &:nth-child(2n+1) {
-    .host__image {
-      float: right;
-      margin: 0 0 0 2em;
-    }
   }
 }

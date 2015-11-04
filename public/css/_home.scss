@@ -17,6 +17,10 @@
     float: left;
     overflow: hidden;
 
+    p {
+      color: black;
+    }
+
     audio {
       width: 100%;
       margin-top: -.5em;
@@ -24,6 +28,13 @@
 
     &:not(:nth-child(3n)) {
       margin-right: 2%;
+    }
+
+    &--color {
+      display: block;
+      width: 100%;
+      height: 50px;
+      background-color: currentColor;
     }
 
     &-date {
@@ -43,9 +54,18 @@
       opacity: .8;
     }
 
+    h2 {
+      color: currentColor;
+    }
+
     a {
       width: 100%;
       display: block;
+      color: currentColor;
+
+      &:hover {
+        opacity: .6;
+      }
     }
 
     img {
