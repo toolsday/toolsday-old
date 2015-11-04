@@ -1,6 +1,6 @@
 <section class="about-section">
   <section class="about__intro">
-    <img class="about__main-img" src="../img/in-studio.jpg" alt="Chris and Una in the studio">
+    <figure class="about__main-img">
 
     <p class="about__main-desc">Toolsday is a 20-minute podcast about the latest in tech tools, tips, and tricks on Tuesdays at 2! (Our alliteration game is so strong). The podast is brought to you by <a href="http://twitter.com/chrisdhanaraj">Chris Dhanaraj</a> and <a href="http://twitter.com/una">Una Kravets</a>, and recorded live on IBM radio. After the show, we collect resources and post our episodes here.</p>
   </section>
@@ -13,8 +13,8 @@
     <% var n = 0;
       for(var key in public.episodes._data){
       n++ %>
-      <li class="home__ep">
-          <img src="<%= public.episodes._data[key].image %>" alt="<%= public.episodes._data[key].description %>">
+      <li class="home__ep" style="color:<%= public.episodes._data[key].color %>">
+          <div class="home__ep--color"></div>
           <div class="home__ep-info">
           <h2 class="home--post-list--title">
           <audio controls src="<%= public.episodes._data[key].audio %>"></audio>
