@@ -1,7 +1,8 @@
 // Vars
 $breakpoints: (
-  bp-1: 860px,
-  bp-2: 560px
+  lg: 1150px,
+  md: 860px,
+  sm: 500px
 );
 
 // Mixins
@@ -29,7 +30,7 @@ $breakpoints: (
   max-width: 800px;
   padding: 0 2em;
 
-  @include breakpoint(bp-2) {
+  @include breakpoint(md) {
     padding: 0 1em;
   }
 }

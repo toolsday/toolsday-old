@@ -9,6 +9,12 @@
     background-image: url('../img/in-studio.jpg');
     background-size: cover;
     background-position: 50%;
+    margin: 0;
+
+    @include breakpoint(lg) {
+      height: auto;
+      margin-bottom: 8em;
+    }
   }
 
   &__intro {
@@ -27,5 +33,14 @@
     max-width: 40em;
     padding: 2em;
     background-color: $lightgrey;
+
+    @include breakpoint(lg) {
+      right: 0;
+      bottom: -8.4rem;
+      font-size: .9em;
+      margin: 0 auto;
+      position: relative;
+      display: block;
+    }
   }
 }

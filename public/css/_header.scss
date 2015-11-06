@@ -23,6 +23,16 @@
     margin: 1em;
     @extend %transition-duration;
 
+    @include breakpoint(sm) {
+      display: block;
+      margin: .5em;
+      text-align: right;
+
+      &:last-child {
+        display: none;
+      }
+    }
+
     a {
       color: dimgrey;
       text-decoration: none;

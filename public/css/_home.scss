@@ -16,6 +16,7 @@
     width: 32%;
     float: left;
     overflow: hidden;
+    margin-bottom: 2em;
 
     p {
       color: black;
@@ -29,6 +30,27 @@
     &:not(:nth-child(3n)) {
       margin-right: 2%;
     }
+
+    @include breakpoint(md) {
+      width: 49%;
+
+      &:not(:nth-child(3n)) {
+        margin-right: 0;
+      }
+
+      &:nth-child(2n-1) {
+        margin-right: 2%;
+      }
+    }
+
+    @include breakpoint(sm) {
+      width: 100%;
+
+      &:nth-child(2n-1) {
+        margin-right: 0;
+      }
+    }
+
 
     &--color {
       display: block;
