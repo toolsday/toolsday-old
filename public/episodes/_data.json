@@ -1,24 +1,4 @@
 {
-  "task-runners": {
-    "title": "Task Runners",
-    "date": "October 20, 2015",
-    "description": "Grunt, Gulp, Broccoli, Brunch, Mimosa, oh my! So many task runners, so little time. In this weeks episode, we explore each of these delectable breakfast items/task runners.",
-    "audio": "audio/ep01-task-runners.mp3",
-    "duration": "0:25:09",
-    "filesize": 36219719,
-    "color": "#c69",
-    "image": "http://blog.aftercollege.com/wp-content/uploads/2013/05/coding_illustration_smaller1-608x400.jpg"
-  },
-  "module-loaders": {
-    "title": "Module Loaders",
-    "date": "October 27, 2015",
-    "description": "We'll talk about modules and module loaders! Everything from AMD to common.js and spend a bit of time going over Browserify and Webpack.",
-    "audio": "audio/ep02-module-loaders.mp3",
-    "duration" : "0:27:28",
-    "filesize": "",
-    "color": "#16a",
-    "image": "http://ruben.verborgh.org/images/blog/window-or-loader.jpg"
-  },
   "learning-tools" : {
     "title": "Learning Tools",
     "date": "November 3, 2015",
@@ -28,5 +8,25 @@
     "filesize": "",
     "color": "#00b4a0",
     "image": "http://ruben.verborgh.org/images/blog/window-or-loader.jpg"
+  },
+    "module-loaders": {
+    "title": "Module Loaders",
+    "date": "October 27, 2015",
+    "description": "We'll talk about modules and module loaders! Everything from AMD to common.js and spend a bit of time going over Browserify and Webpack.",
+    "audio": "audio/ep02-module-loaders.mp3",
+    "duration" : "0:27:28",
+    "filesize": "",
+    "color": "#16a",
+    "image": "http://ruben.verborgh.org/images/blog/window-or-loader.jpg"
+  },
+  "task-runners": {
+    "title": "Task Runners",
+    "date": "October 20, 2015",
+    "description": "Grunt, Gulp, Broccoli, Brunch, Mimosa, oh my! So many task runners, so little time. In this weeks episode, we explore each of these delectable breakfast items/task runners.",
+    "audio": "audio/ep01-task-runners.mp3",
+    "duration": "0:25:09",
+    "filesize": 36219719,
+    "color": "#c69",
+    "image": "http://blog.aftercollege.com/wp-content/uploads/2013/05/coding_illustration_smaller1-608x400.jpg"
   }
 }
