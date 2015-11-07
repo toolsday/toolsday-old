@@ -1,14 +1,33 @@
 .episode {
   &-page {
-    @extend %max-1100;
+    @extend %max-600;
     min-height: 72vh;
 
     p {
-      color: black;
+      color: $black;
     }
 
-    h1, h2, h3, a {
+    .date {
+      font-weight: 800;
+      font-size: 1.25em;
+      color: $black;
+      margin-bottom: 1em;
+      display: block;
+    }
+
+    h1, a {
       color: currentColor;
+    }
+
+    h3 {
+      color: $dimgrey;
+      font-size: 1em;
+      margin-bottom: -1em;
+    }
+
+    audio {
+      margin-top: 2em;
+      width: 100%;
     }
   }
 
@@ -23,9 +42,11 @@
   }
 
   &--resources {
+    -webkit-column-count: 2;
+    -webkit-column-gap: 4em;
 
     h2 {
-      color: dimgrey;
+      color: $dimgrey;
     }
 
     display: block;
@@ -40,4 +61,13 @@
       margin: 1em 2em;
     }
   }
+}
+
+.resources-header {
+  margin-top: 2em;
+  color: $dimgrey;
+}
+
+.download-link {
+  float: right;
 }

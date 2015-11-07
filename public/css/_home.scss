@@ -13,9 +13,10 @@
 .home {
   &__ep {
     display: block;
-    width: 32%;
+    width: 30%;
     float: left;
     overflow: hidden;
+    margin-bottom: 2em;
 
     p {
       color: black;
@@ -27,8 +28,29 @@
     }
 
     &:not(:nth-child(3n)) {
-      margin-right: 2%;
+      margin-right: 5%;
     }
+
+    @include breakpoint(md) {
+      width: 45%;
+
+      &:not(:nth-child(3n)) {
+        margin-right: 0;
+      }
+
+      &:nth-child(2n-1) {
+        margin-right: 5%;
+      }
+    }
+
+    @include breakpoint(sm) {
+      width: 100%;
+
+      &:nth-child(2n-1) {
+        margin-right: 0;
+      }
+    }
+
 
     &--color {
       display: block;
