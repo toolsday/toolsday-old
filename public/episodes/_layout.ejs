@@ -8,13 +8,10 @@
   <body>
     <%- partial("../_partials/_header") %>
     <main class="episode-page">
-      <div class="episode--image">
-        <img class="episode--image--main" src="<%= image %>">
-      </div>
       <div class="episode--info" style="color: <%= color %>">
         <h1><%= title %></h1>
 
-        <p><%= date %></p>
+        <span class="date"><%= date %></span>
         <p><%= description %></p>
 
         <audio controls src="../<%= audio %>"></audio>

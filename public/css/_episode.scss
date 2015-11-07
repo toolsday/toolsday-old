@@ -1,14 +1,27 @@
 .episode {
   &-page {
-    @extend %max-1100;
+    @extend %max-600;
     min-height: 72vh;
 
     p {
       color: black;
     }
 
+    .date {
+      font-weight: 800;
+      font-size: 1.25em;
+      color: #222;
+      margin-bottom: 1em;
+      display: block;
+    }
+
     h1, h2, h3, a {
       color: currentColor;
+    }
+
+    audio {
+      margin-top: 2em;
+      width: 100%;
     }
   }
 

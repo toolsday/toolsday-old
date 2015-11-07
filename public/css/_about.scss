@@ -5,14 +5,14 @@
 
   &__main-img {
     width: 100%;
-    height: 250px;
+    min-height: 250px;
     background-image: url('../img/in-studio.jpg');
     background-size: cover;
     background-position: 50%;
     margin: 0;
 
     @include breakpoint(lg) {
-      height: auto;
+      // height: auto;
       margin-bottom: 8em;
     }
   }
@@ -20,6 +20,11 @@
   &__intro {
     position: relative;
     margin-bottom: 4em;
+
+    @include breakpoint(md) {
+      width: 120%;
+      margin-left: -10%;
+    }
   }
 
   &__header {
@@ -36,11 +41,15 @@
 
     @include breakpoint(lg) {
       right: 0;
-      bottom: -8.4rem;
+      bottom: -14em;
       font-size: .9em;
       margin: 0 auto;
       position: relative;
       display: block;
+    }
+
+    @include breakpoint(sm) {
+      bottom: -12em;
     }
   }
 }
