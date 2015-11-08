@@ -4,7 +4,7 @@ var gulp        = require('gulp'),
     harp        = require('harp');
 
 gulp.task('harp-server', function () {
-    harp.server(__dirname, {
+  harp.server(__dirname + '/_harp', {
         port: 4000
     }, function () {
         browserSync({
@@ -12,16 +12,16 @@ gulp.task('harp-server', function () {
             open: false
         });
 
-        gulp.watch("public/css/**/*.scss", function () {
+        gulp.watch("_harp/css/**/*.scss", function () {
             reload("main.css", {stream: true});
         });
 
         gulp.watch([
-            "public/**/*.ejs",
-            "public/**/*.jade",
-            "public/js/**/*.js",
-            "public/**/*.json",
-            "public/**/*.md"
+            "_harp/**/*.ejs",
+            "_harp/**/*.jade",
+            "_harp/js/**/*.js",
+            "_harp/**/*.json",
+            "_harp/**/*.md"
         ], function () {
             reload();
         });
