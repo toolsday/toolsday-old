@@ -13,7 +13,7 @@
 
 <channel>
 	<title>Toolsday</title>
-	<atom:link href="http://toolsday.io/rss.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://toolsday.io/feeds/rss.xml" rel="self" type="application/rss+xml" />
 	<link>http://toolsday.io</link>
 	<description>Toolsday is a 20-minute podcast about the latest in tech tools, tips, and tricks on Tuesdays at 2! (Our alliteration game is so strong). The podast is brought to you by Chris Dhanaraj and Una Kravets, and recorded live on IBM radio. After the show, we collect resources and post our episodes here.</description>
 	<lastBuildDate><%= Date() %></lastBuildDate>
@@ -59,7 +59,7 @@
 		<description><![CDATA[<%= public.episodes._data[slug].description %>]]></description>
 		<itunes:summary><%= public.episodes._data[slug].description %></itunes:summary>
 
-		<enclosure url="http://toolsday.io<%= public.episodes._data[slug].audio %>" length="<%= public.episodes._data[slug].filesize %>" type="audio/mpeg" />
+		<enclosure url="http://toolsday.io/<%= public.episodes._data[slug].audio %>" length="<%= public.episodes._data[slug].filesize %>" type="audio/mpeg" />
 
 		<itunes:duration><%= public.episodes._data[slug].duration %></itunes:duration>
 		<itunes:subtitle><%= public.episodes._data[slug].guest %></itunes:subtitle>
