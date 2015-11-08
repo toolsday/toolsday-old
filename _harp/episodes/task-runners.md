@@ -1,4 +1,4 @@
-# Taskrunners
+### Taskrunners
 
 - [Gulp](https://github.com/gulpjs/gulp)
 - [Grunt](https://github.com/gruntjs/grunt)
@@ -11,10 +11,10 @@
 - [Jake](https://github.com/jakejs/jake)
 - [Make](https://www.gnu.org/software/make/)
 
-# NPM as a build tool
+### NPM as a build tool
 - [Stop Using Grunt and Gulp](http://blog.keithcirkel.co.uk/why-we-should-stop-using-grunt/)
 - [How to use npm as a build tool](http://blog.keithcirkel.co.uk/how-to-use-npm-as-a-build-tool/)
 
-# NPM Shrinkwrap
+### NPM Shrinkwrap
 
 - [npm shrinkwrap](https://docs.npmjs.com/cli/shrinkwrap)
