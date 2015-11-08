@@ -5,7 +5,7 @@
     "description": "College? Where we're going, we don't need college (or do we?).",
     "audio": "audio/ep03-learning-tools.mp3",
     "duration" : "0:27:28",
-    "filesize": "",
+    "filesize": "46118307",
     "color": "#00b4a0",
     "image": "http://ruben.verborgh.org/images/blog/window-or-loader.jpg"
   },
@@ -15,9 +15,8 @@
     "description": "We'll talk about modules and module loaders! Everything from AMD to common.js and spend a bit of time going over Browserify and Webpack.",
     "audio": "audio/ep02-module-loaders.mp3",
     "duration" : "0:27:28",
-    "filesize": "",
-    "color": "#16a",
-    "image": "http://ruben.verborgh.org/images/blog/window-or-loader.jpg"
+    "filesize": "39562297",
+    "color": "#16a"
   },
   "task-runners": {
     "title": "Task Runners",
@@ -26,7 +25,6 @@
     "audio": "audio/ep01-task-runners.mp3",
     "duration": "0:25:09",
     "filesize": 36219719,
-    "color": "#c69",
-    "image": "http://blog.aftercollege.com/wp-content/uploads/2013/05/coding_illustration_smaller1-608x400.jpg"
+    "color": "#c69"
   }
 }
