@@ -4,7 +4,7 @@
   "description": "A 20-minute weekly podcast hosted by Una Kravets and Chris Dhanaraj about tech tooling!",
   "main": "gulpfile.js",
   "scripts": {
-    "deploy": "harp compile; surge ./www http://toolsday.surge.sh",
+    "deploy": "./node_modules/.bin/harp compile _harp --output ../www && ./node_modules/.bin/gh-pages -d www",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "dependencies": {
@@ -12,6 +12,7 @@
   },
   "devDependencies": {
     "browser-sync": "^2.6.4",
+    "gh-pages": "^0.5.0",
     "gulp": "^3.8.11"
   },
   "repository": {
