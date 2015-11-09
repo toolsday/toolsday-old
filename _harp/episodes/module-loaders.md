@@ -17,5 +17,5 @@
 - [CSSgram!](http://una.im/CSSgram/)
 - [Version History of JavaScript](https://en.wikipedia.org/wiki/JavaScript#Version_history)
 - [Yeoman](http://yeoman.io/)
-- [BrowserSync](browsersync.io)
+- [BrowserSync](http://www.browsersync.io/)
 - [Data URI](http://www.mobify.com/blog/data-uris-are-slow-on-mobile/)
