@@ -1,4 +1,13 @@
 {
+  "dev-environment": {
+    "title": "Developer Environment",
+    "date": "November 24, 2015",
+    "description": "Sublime or Atom? Wait, WEBSTORM? We talk about our favourite developer environment tips and tricks.",
+    "audio": "audio/ep05-dev-environment.mp3",
+    "duration": "0:27:51",
+    "filesize": "40110559",
+    "color": "#5596E6"
+  },
   "styleguides-at-scale": {
     "title": "Styleguides at Scale",
     "date": "November 17, 2015",
