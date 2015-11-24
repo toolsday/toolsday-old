@@ -3,26 +3,12 @@
 - [Sublime Text](http://www.sublimetext.com/3)
 - [Atom](https://atom.io)
 
-### Ignoring folders
-
-Chris was super wrong about this, there's a preference setting for this in Sublime
-
-```
-"binary_file_patterns":
-  [
-    "node_modules/**",
-    "bower_components/**"
-  ],
-```
-
-### Packages
-
-#### Atom
+### Atom Packages
 
 - [TernJS](https://atom.io/packages/atom-ternjs)
 - [ESLint](https://atom.io/packages/linter-eslint)
 
-#### Sublime
+### Sublime Packages
 
 - [AutoFileName](https://packagecontrol.io/packages/AutoFileName): Auto-completions for files in the project system
 - [Bracket Highlighter](https://packagecontrol.io/packages/BracketHighlighter): Shows where an enclosed block of code starts and ends
@@ -49,3 +35,8 @@ Chris was super wrong about this, there's a preference setting for this in Subli
 
 - [Homebrew](http://brew.sh/)
 - [Say](http://www.techradar.com/us/how-to/computing/apple/terminal-101-making-your-mac-talk-with-say-1305649)
+
+### Correction
+
+- Chris was super wrong about ignoring folders in Sublime for search, there's a preference setting for this in Sublime called `binary_file_patterns`
+
