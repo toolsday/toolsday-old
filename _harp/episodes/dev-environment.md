@@ -34,9 +34,10 @@
 ### Other
 
 - [Homebrew](http://brew.sh/)
+- [Chocolatey (apt-get for windows, thanks @getsetbro)](https://chocolatey.org/about)
 - [Say](http://www.techradar.com/us/how-to/computing/apple/terminal-101-making-your-mac-talk-with-say-1305649)
+
 
 ### Correction
 
 - Chris was super wrong about ignoring folders in Sublime for search, there's a preference setting for this in Sublime called `binary_file_patterns`
-
