@@ -34,7 +34,7 @@
 ### Other
 
 - [Homebrew](http://brew.sh/)
-- [Chocolatey (apt-get for windows, thanks @getsetbro)](https://chocolatey.org/about)
+- [Chocolatey](https://chocolatey.org/about): `apt-get` for windows, thanks @getsetbro
 - [Say](http://www.techradar.com/us/how-to/computing/apple/terminal-101-making-your-mac-talk-with-say-1305649)
 
 
