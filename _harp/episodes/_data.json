@@ -1,4 +1,13 @@
 {
+  "preprocessors": {
+    "title": "CSS Processors",
+    "date": "December 15, 2015",
+    "description": "This week's episode is about the past, present and future of CSS Pre and Post-processors.",
+    "audio": "audio/ep07-preprocessors.mp3",
+    "duration": "0:24:28",
+    "filesize": "35233657",
+    "color": "#eda035"
+  },
   "remote-collaboration": {
     "title": "Remote Collaboration",
     "date": "December 8, 2015",
