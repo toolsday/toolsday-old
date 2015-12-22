@@ -56,13 +56,13 @@
 		<link>http://toolsday.io/episodes/<%= slug %>.html</link>
 		<pubDate><%= new Date(public.episodes._data[slug].date).toUTCString() %></pubDate>
 		<guid isPermaLink="true">http://toolsday.io/episodes/<%= slug %>.html</guid>
-		<description><![CDATA[<%= public.episodes._data[slug].description %>]]></description>
-		<itunes:summary><%= public.episodes._data[slug].description %></itunes:summary>
+		<description><%= public.episodes._data[slug].description %></description>
 
 		<enclosure url="http://toolsday.io/<%= public.episodes._data[slug].audio %>" length="<%= public.episodes._data[slug].filesize %>" type="audio/mpeg" />
 
+		<itunes:summary><![CDATA[<%= public.episodes._data[slug].description %> See <a href="http://toolsday.io/episodes/<%= slug %>">show notes link</a> for resources.]]></itunes:summary>
 		<itunes:duration><%= public.episodes._data[slug].duration %></itunes:duration>
-		<itunes:subtitle><%= public.episodes._data[slug].guest %></itunes:subtitle>
+		<itunes:subtitle><%= public.episodes._data[slug].description %></itunes:subtitle>
 		<itunes:author>Una Kravets and Chris Dhanaraj</itunes:author>
 		<itunes:explicit>no</itunes:explicit>
 		<itunes:block>no</itunes:block>
