@@ -1,4 +1,13 @@
 {
+  "devtools": {
+    "title": "Chrome DevTools",
+    "date": "December 22, 2015",
+    "description": "Chrome DevTools, our most favouritest, awesomest web tool ever. Maybe.",
+    "audio": "audio/ep08-devtools.mp3",
+    "duration": "0:19:39",
+    "filesize": "28293651",
+    "color": "#5a6872"
+  },
   "preprocessors": {
     "title": "CSS Processors",
     "date": "December 15, 2015",
