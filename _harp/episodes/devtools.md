@@ -18,4 +18,4 @@
 - [Gone in 60 Frames Per Second](https://vimeo.com/75540354)
 - [Advanced Performance Tooling](https://www.youtube.com/watch?v=0xx_dkv9DEY)
 - [Mobile Reddit Perf Test](https://github.com/reddit/reddit-mobile/issues/247)
-- [Breaking the 1000ms Time to Glass Mobile Barrier](https://www.youtube.com/watch?v=Il4swGfTOSM)
+- [Breaking the 1000ms Time to Glass Mobile Barrier](https://www.youtube.com/watch?v=Il4swGfTOSM) <small>*Oops! Una's sorry she forgot the name of who gave this talk! :(</small>
