@@ -1,4 +1,13 @@
 {
+  "react": {
+    "title": "React",
+    "date": "January 05, 2016",
+    "description": "This week we talk about React and why it's so darn hard to get started with!",
+    "audio": "audio/ep09-react.mp3",
+    "duration": "0:25:11",
+    "filesize": "36292045",
+    "color": "#4acacf"
+  },
   "devtools": {
     "title": "Chrome DevTools",
     "date": "December 22, 2015",
