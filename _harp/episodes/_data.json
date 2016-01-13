@@ -1,5 +1,14 @@
 {
   "react": {
+    "title": "Ember",
+    "date": "January 12, 2016",
+    "description": "With frameworks being so hot right now, we talk to Iheanyi Ekechukwu about Ember",
+    "audio": "audio/ep10-ember.mp3",
+    "duration": "0:23:20",
+    "filesize": "33599479",
+    "color": "#0F3447"
+  },
+  "react": {
     "title": "React",
     "date": "January 05, 2016",
     "description": "This week we talk about React and why it's so darn hard to get started with!",
