@@ -50,6 +50,10 @@
     -webkit-column-count: 2;
     -webkit-column-gap: 4em;
 
+    @include breakpoint(md) {
+      -webkit-column-count: 1;
+    }
+
     h2 {
       color: $dimgrey;
     }
