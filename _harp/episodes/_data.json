@@ -1,4 +1,13 @@
 {
+  "express": {
+    "title": "Express & Middleware",
+    "date": "January 19, 2016",
+    "description": "Our guest Jon Ballands chats with us about the IBM Swift Sandbox, and building it with Node & Express.",
+    "audio": "audio/ep11-express.mp3",
+    "duration": "0:26:36",
+    "filesize": "38310899",
+    "color": "#af89d3"
+  },
   "ember": {
     "title": "Ember",
     "date": "January 12, 2016",
