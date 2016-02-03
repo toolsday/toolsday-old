@@ -1,4 +1,13 @@
 {
+  "es6": {
+    "title": "Solved by ES6 (ES2015)",
+    "date": "February 2, 2016",
+    "description": "We picked our top five ES6/7/2015/2016 upgrades and talk about how they make our lives so much easier.",
+    "audio": "audio/ep12-solved-by-es6.mp3",
+    "duration": "0:19:42",
+    "filesize": "28372521",
+    "color": "#b1987f"
+  },
   "express": {
     "title": "Express & Middleware",
     "date": "January 19, 2016",

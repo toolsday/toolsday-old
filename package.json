@@ -15,7 +15,9 @@
   "devDependencies": {
     "browser-sync": "^2.6.4",
     "gh-pages": "^0.5.0",
-    "gulp": "^3.8.11"
+    "gulp": "^3.8.11",
+    "harp": "^0.18.0",
+    "node-sass": "^3.4.2"
   },
   "repository": {
     "type": "git",
