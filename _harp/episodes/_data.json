@@ -1,4 +1,13 @@
 {
+  "static-site-gens": {
+    "title": "Static Site Generators",
+    "date": "February 9, 2016",
+    "description": "There are 412 options for static site generators. This week we discuss (mostly three) of them.",
+    "audio": "audio/ep13-static-site.mp3",
+    "duration": "0:23:14",
+    "filesize": "33454267",
+    "color": "#ec7400"
+  },
   "es6": {
     "title": "Solved by ES6 (ES2015)",
     "date": "February 2, 2016",
