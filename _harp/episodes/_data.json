@@ -1,4 +1,13 @@
 {
+  "performance": {
+    "title": "Performance",
+    "date": "February 16, 2016",
+    "description": "SOMETHING CLEVER HELP",
+    "audio": "audio/ep14-performance.mp3",
+    "duration": "0:20:33",
+    "filesize": "29614641",
+    "color": "#ec7400"
+  },
   "static-site-gens": {
     "title": "Static Site Generators",
     "date": "February 9, 2016",
