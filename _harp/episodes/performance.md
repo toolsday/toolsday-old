@@ -1,3 +1,7 @@
+### Guest
+
+- [Taylor Jones](https://twitter.com/tay1orjones)
+
 ### Tools
 
 - [Speedcurve](https://speedcurve.com/)
@@ -13,6 +17,6 @@
 
 - [Steve Souders Talk on Performance](https://www.youtube.com/watch?v=znjy4Kl3IfU)
 
-### Important card games
+### Important Card Games
 
 - [Euchre](https://en.wikipedia.org/wiki/Euchre)

@@ -1,12 +1,12 @@
 {
   "performance": {
-    "title": "Performance",
+    "title": "Performance Profiling",
     "date": "February 16, 2016",
-    "description": "SOMETHING CLEVER HELP",
+    "description": "We all agree performance testing is important, but how do you track it over time? This week Taylor Jones tells us how.",
     "audio": "audio/ep14-performance.mp3",
     "duration": "0:20:33",
     "filesize": "29614641",
-    "color": "#ec7400"
+    "color": "#d81e67"
   },
   "static-site-gens": {
     "title": "Static Site Generators",
