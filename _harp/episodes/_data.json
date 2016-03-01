@@ -1,4 +1,13 @@
 {
+  "css-layout": {
+    "title": "CSS Layout",
+    "date": "March 1, 2016",
+    "description": "This week we're talking CSS layout — from CSS 1 to current best practices to what's coming down the pipeline.",
+    "audio": "audio/ep15-css-layout.mp3",
+    "duration": "0:33:58",
+    "filesize": "48931469",
+    "color": "#1ed8a1"
+  },
   "performance": {
     "title": "Performance Profiling",
     "date": "February 16, 2016",
