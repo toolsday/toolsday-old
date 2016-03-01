@@ -11,7 +11,8 @@
 - [Flexbox Froggy](http://flexboxfroggy.com/)
 - [Flexbox in 5](http://flexboxin5.com/)
 - [Solved by Flexbox](https://philipwalton.github.io/solved-by-flexbox/)
+- [IE8 & 9 Flexbox Polyfill](https://github.com/10up/flexibility)
 
 ### Etc.
 
-[CSS Binary Writer by Jake Albaugh](http://codepen.io/jakealbaugh/full/zrVdME)
+- [CSS Binary Writer by Jake Albaugh](http://codepen.io/jakealbaugh/full/zrVdME)
