@@ -1,4 +1,13 @@
 {
+  "unittesting": {
+    "title": "Unit Testing",
+    "date": "March 22, 2016",
+    "description": "Today we discuss JavaScript unit testing with ColbyCheeze! Learn about spying, stubbing, and mocking this week.",
+    "audio": "audio/ep17-unit-testing.mp3",
+    "duration": "0:26:03",
+    "filesize": "37520009",
+    "color": "#7899c1"
+  },
   "gameengines": {
     "title": "Game Engines",
     "date": "March 8, 2016",
@@ -6,7 +15,7 @@
     "audio": "audio/ep16-game-engine.mp3",
     "duration": "0:26:23",
     "filesize": "38009099",
-    "color": "#C36CA8"
+    "color": "#c36ca8"
   },
   "css-layout": {
     "title": "CSS Layout",
