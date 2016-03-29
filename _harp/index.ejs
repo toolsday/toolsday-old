@@ -17,7 +17,7 @@
           <div class="home__ep--color"></div>
           <div class="home__ep-info">
           <h2 class="home--post-list--title">
-          <audio controls src="<%= public.episodes._data[key].audio %>"></audio>
+          <audio preload="meta" controls src="<%= public.episodes._data[key].audio %>"></audio>
             <a href="/episodes/<%= key %>.html">
               <%= public.episodes._data[key].title %>
             </a>
