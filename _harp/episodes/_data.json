@@ -2,10 +2,10 @@
   "animation": {
     "title": "(Mostly CSS) Animation",
     "date": "March 29, 2016",
-    "description": "Animation brings the web to life! Today we talk about (mostly CSS) animation &mdash; how it works, tools, and resources.",
-    "audio": "audio/ep17-unit-testing.mp3",
-    "duration": "0:26:03",
-    "filesize": "37520009",
+    "description": "Animation brings the web to life! Today we talk about (mostly CSS) animation — how it works, tools, and resources.",
+    "audio": "audio/ep18-css-animation.mp3",
+    "duration": "0:24:47",
+    "filesize": "35711627 ",
     "color": "#d0a808"
   },
   "unittesting": {
@@ -20,7 +20,7 @@
   "gameengines": {
     "title": "Game Engines",
     "date": "March 8, 2016",
-    "description": "Achieved in CryEngine 3 - wait no, Unity, wait no, Phaser?",
+    "description": "Achieved in CryEngine 3 — wait no, Unity, wait no, Phaser?",
     "audio": "audio/ep16-game-engine.mp3",
     "duration": "0:26:23",
     "filesize": "38009099",
