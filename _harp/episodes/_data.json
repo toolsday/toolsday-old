@@ -1,4 +1,13 @@
 {
+  "accessibility": {
+    "title": "Web Accessibility",
+    "date": "April 12, 2016",
+    "description": "This week we talk about web accessibility concerns &mdash; what the heck all those acronyms are, and how to test for compliance.",
+    "audio": "audio/ep19-a11y.mp3",
+    "duration": "0:25:08",
+    "filesize": "36207159 ",
+    "color": "#101808"
+  },
   "animation": {
     "title": "(Mostly CSS) Animation",
     "date": "March 29, 2016",
