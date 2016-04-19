@@ -1,4 +1,13 @@
 {
+  "topten": {
+    "title": "Top 10 Tools",
+    "date": "April 19, 2016",
+    "description": "For our 20th episode, we do a recap of our favourite tools that we use everyday.",
+    "audio": "audio/ep20-topten.mp3",
+    "duration": "0:27:16",
+    "filesize": "39272297 ",
+    "color": "#5F86FF"
+  },
   "accessibility": {
     "title": "Web Accessibility",
     "date": "April 12, 2016",
