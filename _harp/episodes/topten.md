@@ -12,7 +12,7 @@
 
 - [Webpack](https://webpack.github.io/)
 - [ESLint](http://eslint.org/)
-- [TernJS[(http://ternjs.net/)]
+- [TernJS](http://ternjs.net/)
 - [Atom](https://atom.io)
 - [iTerm2](https://www.iterm2.com/)
 - [Z](https://github.com/rupa/z)
