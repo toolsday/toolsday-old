@@ -1,4 +1,13 @@
 {
+  "systemtools": {
+    "title": "System Tools",
+    "date": "May 4, 2016",
+    "description": "Some of the things you'll need to set up a MacBook from scratch, and some fun quirks that will make your life easier day to day.",
+    "audio": "audio/ep21-systemtools.mp3",
+    "duration": "0:24:03",
+    "filesize": "34637413 ",
+    "color": "#FF5F5F"
+  },
   "topten": {
     "title": "Top 10 Tools",
     "date": "April 19, 2016",
