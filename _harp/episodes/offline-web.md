@@ -1,5 +1,3 @@
-### Offline Web Tools
-
 ### Gregor Martynus
 
 - [Twitter](https://twitter.com/gr2m)
