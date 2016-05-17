@@ -19,7 +19,7 @@
           <audio preload="none" controls src="<%= public.episodes._data[key].audio %>"></audio>
           <h2 class="home--post-list--title">
             <a href="/episodes/<%= key %>.html">
-              <%= public.episodes._data[key].title %>
+              <%= -1*(n - Object.keys(public.episodes._data).length) +1 %>: <%= public.episodes._data[key].title %>
             </a>
           </h2>
           <p class="home__ep-date">

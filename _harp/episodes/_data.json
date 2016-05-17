@@ -1,11 +1,20 @@
 {
+  "offline-web": {
+    "title": "Offline-first",
+    "date": "May 10, 2016",
+    "description": "How can we make sure people are able to access data on poor connections? Hear about offline-first this week with Hoodie's Gregor Martynus.",
+    "audio": "audio/ep22-offlinetools.mp3",
+    "duration": "0:26:02",
+    "filesize": "37498349",
+    "color": "#cd5fff"
+  },
   "systemtools": {
     "title": "System Tools",
     "date": "May 4, 2016",
     "description": "Some of the things you'll need to set up a MacBook from scratch, and some fun quirks that will make your life easier day to day.",
     "audio": "audio/ep21-systemtools.mp3",
     "duration": "0:24:03",
-    "filesize": "34637413 ",
+    "filesize": "34637413",
     "color": "#FF5F5F"
   },
   "topten": {
@@ -14,7 +23,7 @@
     "description": "For our 20th episode, we do a recap of our favourite tools that we use everyday.",
     "audio": "audio/ep20-topten.mp3",
     "duration": "0:27:16",
-    "filesize": "39272297 ",
+    "filesize": "39272297",
     "color": "#5F86FF"
   },
   "accessibility": {
@@ -23,7 +32,7 @@
     "description": "This week we talk about web accessibility concerns &mdash; what the heck all those acronyms are, and how to test for compliance.",
     "audio": "audio/ep19-a11y.mp3",
     "duration": "0:25:08",
-    "filesize": "36207159 ",
+    "filesize": "36207159",
     "color": "#101808"
   },
   "animation": {
@@ -32,7 +41,7 @@
     "description": "Animation brings the web to life! Today we talk about (mostly CSS) animation — how it works, tools, and resources.",
     "audio": "audio/ep18-css-animation.mp3",
     "duration": "0:24:47",
-    "filesize": "35711627 ",
+    "filesize": "35711627",
     "color": "#d0a808"
   },
   "unittesting": {
