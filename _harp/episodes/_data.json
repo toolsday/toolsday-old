@@ -1,4 +1,13 @@
 {
+  "serviceworkers": {
+    "title": "Service Workers",
+    "date": "May 17, 2016",
+    "description": "We poke around, ruminate, and explore Service Workers.",
+    "audio": "audio/ep23-serviceworker.mp3",
+    "duration": "0:21:09",
+    "filesize": "30470757",
+    "color": "#AC3232"
+  },
   "offline-web": {
     "title": "Offline-first",
     "date": "May 10, 2016",
