@@ -1,4 +1,13 @@
 {
+  "variety-show": {
+    "title": "The Variety Show",
+    "date": "June 7, 2016",
+    "description": "The tools we love and use that we forgot or just didn't fit into any other category.",
+    "audio": "audio/ep24-varietyshow.mp3",
+    "duration": "0:18:55",
+    "filesize": "27262501",
+    "color": "#83D069"
+  },
   "serviceworkers": {
     "title": "Service Workers",
     "date": "May 17, 2016",
