@@ -1,0 +1,158 @@
+<html>
+  <meta charset="utf-8" />
+  <head>
+    <title>Learning Tools</title>
+    <meta name="description" content="College? Where we&#39;re going, we don&#39;t need college (or do we?)." />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="keywords" content="Podcast, Front-End, Front End, Development, Web, Tooling">
+<meta name="description" content="20 minutes of tech tooling talk every Tuesday at 2 with Chris Dhanaraj and Una Kravets.">
+<meta name="author" content="Una Kravets">
+
+<link rel="stylesheet" href="/css/main.css">
+
+<link rel="icon" type="image/png" sizes="96x96" href="/favicon/favicon-96x96.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon/favicon-16x16.png">
+
+<!-- Google Fonts -->
+<script type="text/javascript">
+  WebFontConfig = {
+    google: { families: [ 'Oswald::latin', 'Lora:400,400italic:latin' ] }
+  };
+  (function() {
+    var wf = document.createElement('script');
+    wf.src = ('https:' == document.location.protocol ? 'https' : 'http') +
+      '://ajax.googleapis.com/ajax/libs/webfont/1/webfont.js';
+    wf.type = 'text/javascript';
+    wf.async = 'true';
+    var s = document.getElementsByTagName('script')[0];
+    s.parentNode.insertBefore(wf, s);
+  })();
+</script>
+
+<!-- Google Analytics -->
+<script>
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+
+  ga('create', 'UA-69860910-1', 'auto');
+  ga('send', 'pageview');
+</script>
+
+  </head>
+  <body>
+    <header>
+  <div class="header__container">
+    <a href="/" class="header__title">
+      <div class="header__logo"><svg version="1.1"
+   xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:a="http://ns.adobe.com/AdobeSVGViewerExtensions/3.0/"
+   x="0px" y="0px" width="527.4px" height="173.5px" viewBox="0 0 527.4 173.5" enable-background="new 0 0 527.4 173.5"
+   xml:space="preserve">
+<defs>
+</defs>
+<g id="XMLID_15_">
+  <path id="XMLID_33_" fill="#4D4D4D" d="M23.3,59.6C10.4,59.6,0,70.1,0,82.9c0,12.8,10.4,23.3,23.3,23.3c1,0,1.9-0.1,2.8-0.2
+    l48.7,0.6V59.2l-48.7,0.6C25.2,59.7,24.2,59.6,23.3,59.6z M18.9,82.9c0-2.4,1.9-4.3,4.3-4.3s4.3,1.9,4.3,4.3c0,2.4-1.9,4.3-4.3,4.3
+    S18.9,85.3,18.9,82.9z"/>
+  <path id="XMLID_32_" fill="#4D4D4D" d="M125.7,59H90.8c-1.3,0-2,0.9-2,2.3v7.6c0,1.3,0.7,2.1,2,2.1h9.5c1.4,0,2.5,0.6,2.5,2v31.9
+    c0,1.3,0.3,2.1,1.6,2.1h7.6c1.4,0,1.8-0.8,1.8-2.1V73c0-1.4,1-2,2.3-2h9.5c1.4,0,2.1-0.8,2.1-2.1v-7.6
+    C127.8,59.9,127.1,59,125.7,59z"/>
+  <path id="XMLID_29_" fill="#4D4D4D" d="M147.8,58c-16.2,0-17,12.1-17,16.6v17c0,4.5,0.8,16.6,17,16.6c16.2,0,17-12.1,17-16.6v-17
+    C164.8,70.1,164,58,147.8,58z M152.8,88c0,5.2-0.5,8.5-5.5,8.5s-5.5-3.2-5.5-8.5v-9.8c0-5.3,0.5-8.5,5.5-8.5s5.5,3.2,5.5,8.5V88z"
+    />
+  <path id="XMLID_26_" fill="#4D4D4D" d="M187.3,58c-16.2,0-17.5,12.1-17.5,16.6v17c0,4.5,1.3,16.6,17.5,16.6s17.5-12.1,17.5-16.6
+    v-17C204.8,70.1,203.5,58,187.3,58z M192.8,88c0,5.2-0.5,8.5-5.5,8.5s-5.5-3.2-5.5-8.5v-9.8c0-5.3,0.5-8.5,5.5-8.5s5.5,3.2,5.5,8.5
+    V88z"/>
+  <path id="XMLID_25_" fill="#4D4D4D" d="M239.5,95h-15.2c-1.3,0-2.5-0.5-2.5-1.8V61.3c0-1.4-0.3-2.3-1.6-2.3h-7.6
+    c-1.3,0-1.7,0.9-1.7,2.3v43.6c0,1.3,0.4,2.1,1.7,2.1h26.9c1.4,0,2.3-0.7,2.3-2.1v-7.6C241.8,95.9,240.9,95,239.5,95z"/>
+  <path id="XMLID_24_" fill="#4D4D4D" d="M257.4,73c-0.3-1.6,1.4-3.1,4-3.1c3.2,0,5.5,1.8,5.9,4.6c0.2,1.4,0.9,2,2.3,1.7l7.8-1.7
+    c1.2-0.3,1.8-1,1.8-2.3c-0.4-4.9-3.7-14-17.7-14c-15.3,0-16.5,12.1-16.4,14.1c0,15.7,20.5,14.4,21.8,20.2c0.4,1.8-2,3.8-5.4,3.8
+    c-3.2,0-5.7-1.9-6-5.2c-0.1-1.4-0.9-2-2.2-1.8l-7.7,1.7c-1.2,0.3-1.8,1-1.8,2.2c0.3,5.3,3.4,14.7,17.7,14.7
+    c16.2,0,18.5-12.1,18.5-14.1C279.9,78.2,258.3,78.3,257.4,73z"/>
+  <path id="XMLID_21_" fill="#4D4D4D" d="M302,59h-15.2c-1.4,0-2,1-2,2.3v43.6c0,1.3,0.7,2.1,2,2.1H302c12.8,0,16.8-5.3,16.8-16.5
+    V75.6C318.8,64.4,314.9,59,302,59z M306.8,90.6c0,4.1-1.3,4.4-4.6,4.4h-3.7c-1.3,0-1.7-0.5-1.7-1.8V73c0-1.4,0.4-2,1.7-2h3.7
+    c3.3,0,4.6,0.4,4.6,4.6C306.8,75.7,306.8,90.5,306.8,90.6z"/>
+  <path id="XMLID_18_" fill="#4D4D4D" d="M341.3,58c-15.3,0-16.5,9.1-16.5,17.7v28.9c0,1.5,0.8,2.4,2.1,2.4h7.6
+    c1.4,0,2.3-0.7,2.3-2.1V99c0-1.4,0.5-2,1.8-2h5.9c1.4,0,2.3,0.6,2.3,2v5.9c0,1.4,0.5,2.1,1.8,2.1h7.6c1.4,0,1.6-0.9,1.6-2.4V75.7
+    C357.8,67.1,356.7,58,341.3,58z M346.8,83.1c0,1.4-0.9,1.9-2.3,1.9h-5.9c-1.3,0-1.8-0.5-1.8-1.8v-7.4c0-3.3,0.5-4.9,5-4.9
+    c4.5,0,5,1.6,5,4.9V83.1z"/>
+  <path id="XMLID_17_" fill="#4D4D4D" d="M399.5,59h-9.8c-1.2,0-1.9,0.6-2.3,1.7l-5,12.7c-0.3,0.6-0.7,0.6-1,0l-5-12.8
+    c-0.4-1.1-1.2-1.7-2.3-1.7h-9.8c-1.6,0-2.3,1.1-1.6,2.5l12.2,27.3c0.1,0.3,0,0.6,0,0.9v15.2c0,1.3,1,2.1,2.3,2.1h9.5
+    c1.4,0,2.2-0.8,2.2-2.1V89.7c0-0.3-0.1-0.5,0.1-0.8l12.2-27.4C401.8,60.1,401.1,59,399.5,59z"/>
+  <path id="XMLID_16_" fill="#4D4D4D" d="M520.5,61.4c0,0-8.8-13.5-10.2-22.1c-1.4-8.6,15.5-10.1,15.5-10.1V0h-74v29.2
+    c0,0,22.2-4,22.2,8.9c0,9.7-6.4,17.9-9.6,21.4l-51.2,0.3l-0.6,46.1l39.3,0.5v0.4c0,0,2.4-0.3,5.6-0.3l3.4,0
+    c6.5,0.3,14,1.8,13.9,7.3c-1,33.4-23.2,59.2-23.2,59.2c34.5,5.8,70.5-43.2,74.8-67.6C530.6,81,520.5,61.4,520.5,61.4z"/>
+</g>
+</svg>
+</div>
+    </a>
+    <nav>
+      <ul class="global-nav">
+        <li class="global-nav__item"> <a href="/#episode-area">Episodes</a></li>
+        <li class="global-nav__item"> <a href="http://twitter.com/toolsday">Twitter</a></li>
+        <li class="global-nav__item"> <a href="/feeds/rss.xml">Subscribe</a></li>
+      </ul>
+    </nav>
+  </div>
+</header>
+
+    <main class="episode-page">
+      <div class="episode--info" style="color: #00b4a0">
+        <h1>Learning Tools</h1>
+
+        <span class="date">November 3, 2015</span>
+        <p>College? Where we&#39;re going, we don&#39;t need college (or do we?).</p>
+
+        <audio preload="auto" controls src="../audio/ep03-learning-tools.mp3"></audio>
+        <a class="download-link" href="/audio/ep03-learning-tools.mp3">Download the mp3</a>
+
+        <h2 class="resources-header">Resources:</h2>
+
+        <div class="episode--resources">
+          <h3>Dev Bootcamps</h3><ul>
+<li><a href="http://www.hackreactor.com/">Hack Reactor</a></li>
+<li><a href="http://www.galvanize.com/">Galvanize</a></li>
+<li><a href="http://theironyard.com/">The Iron Yard</a></li>
+</ul>
+<h3>Books</h3><ul>
+<li><a href="http://www.amazon.com/JavaScript-Good-Parts-Douglas-Crockford/dp/0596517742">Douglas Crockford, Javascript the Good Parts</a></li>
+<li><a href="http://shop.oreilly.com/product/0636920031123.do">CSS Secrets</a></li>
+<li><a href="http://www.amazon.com/Book-CSS3-Developers-Future-Design/dp/1593275803/ref=sr_1_fkmr0_1?s=books&amp;ie=UTF8&amp;qid=1446778795&amp;sr=1-1-fkmr0&amp;keywords=peter+gaston+book+of+css3">Peter Gasston, The Book of CSS3</a></li>
+<li><a href="https://github.com/getify/You-Dont-Know-JS">You Don&#39;t Know Javascript</a></li>
+</ul>
+<h3>Online courses</h3><ul>
+<li><a href="https://www.codecademy.com/">Codecademy</a></li>
+<li><a href="https://teamtreehouse.com/">Treehouse</a></li>
+<li><a href="https://www.udemy.com/">Udemy</a></li>
+<li><a href="https://www.codeschool.com/">Codeschool</a></li>
+<li><a href="https://www.coursera.org/">Coursera</a></li>
+</ul>
+<h3>Online Video Lessons</h3><ul>
+<li><a href="https://frontendmasters.com/">Frontend Masters</a></li>
+<li><a href="https://egghead.io/">Egghead.io</a></li>
+</ul>
+<h3>Online Tutorials / Code Examples</h3><ul>
+<li><a href="https://css-tricks.com/">CSS Tricks</a></li>
+<li><a href="http://tympanus.net/codrops/">codrops</a></li>
+<li><a href="https://github.com/explore">GitHub Explore</a></li>
+</ul>
+<h3>People to Follow</h3><ul>
+<li><a href="http://www.paulirish.com/">Paul Irish</a></li>
+<li><a href="https://addyosmani.com/">Addy Osmani</a></li>
+<li><a href="https://www.youtube.com/user/GoogleDevelopers">Google Developers YouTube</a></li>
+<li><a href="https://www.filamentgroup.com/">Filament Group</a></li>
+<li><a href="http://scottjehl.com/">Scott Jehl</a></li>
+</ul>
+<h3>Conferences</h3><ul>
+<li><a href="http://www.smashingmagazine.com/2015/06/upcoming-web-design-events-june-december-2015/">Upcoming Conferences</a></li>
+</ul>
+        </div>
+      </div>
+    </main>
+    <footer>
+  <small>Toolsday is brought to you by <a href="http://twitter.com/chrisdhanaraj">Chris Dhanaraj</a> and <a href="http://twitter.com/una">Una Kravets</a>. Please send requests to <a href="http://twitter.com/toolsday">@toolsday</a> and <a href="https://itunes.apple.com/us/podcast/toolsday/id1063765302?mt=2">rate us on iTunes</a> iff you like the show! (no that's not a typo &hearts;)</small>
+</footer>
+  </body>
+</html>
