@@ -1,4 +1,13 @@
 {
+  "firefoxdev": {
+    "title": "Firefox Dev Tools",
+    "date": "June 15, 2016",
+    "description": "We had Helen Holmes, UI designer of Firefox Dev tools to teach us some tricks we didn't know existed!",
+    "audio": "audio/ep25-firefoxdev.mp3",
+    "duration": "0:27:47",
+    "filesize": "40037195",
+    "color": "#ff9b35"
+  },
   "variety-show": {
     "title": "The Variety Show",
     "date": "June 7, 2016",
