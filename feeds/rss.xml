@@ -16,7 +16,7 @@
 	<atom:link href="http://toolsday.io/feeds/rss.xml" rel="self" type="application/rss+xml" />
 	<link>http://toolsday.io</link>
 	<description>Toolsday is a 20-minute podcast about the latest in tech tools, tips, and tricks on Tuesdays at 2! (Our alliteration game is so strong). The podast is brought to you by Chris Dhanaraj and Una Kravets, and recorded live on IBM radio. After the show, we collect resources and post our episodes here.</description>
-	<lastBuildDate>Tue, 07 Jun 2016 22:05:43 GMT</lastBuildDate>
+	<lastBuildDate>Thu, 16 Jun 2016 10:55:07 GMT</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -52,9 +52,28 @@
 	
 	
 	<item>
+		<title>Firefox Dev Tools</title>
+		<link>http://toolsday.io/episodes/firefoxdev.html</link>
+		<pubDate>Wed, 15 Jun 2016 04:00:00 GMT</pubDate>
+		<guid isPermaLink="true">http://toolsday.io/episodes/firefoxdev.html</guid>
+		<description>We had Helen Holmes, UI designer of Firefox Dev tools to teach us some tricks we didn&#39;t know existed!</description>
+
+		<enclosure url="http://toolsday.io/audio/ep25-firefoxdev.mp3" length="40037195" type="audio/mpeg" />
+
+		<itunes:summary><![CDATA[We had Helen Holmes, UI designer of Firefox Dev tools to teach us some tricks we didn&#39;t know existed! See <a href="http://toolsday.io/episodes/firefoxdev">show notes link</a> for resources.]]></itunes:summary>
+		<itunes:duration>0:27:47</itunes:duration>
+		<itunes:subtitle>We had Helen Holmes, UI designer of Firefox Dev tools to teach us some tricks we didn&#39;t know existed!</itunes:subtitle>
+		<itunes:author>Una Kravets and Chris Dhanaraj</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:block>no</itunes:block>
+	</item>
+	
+	
+	
+	<item>
 		<title>The Variety Show</title>
 		<link>http://toolsday.io/episodes/variety-show.html</link>
-		<pubDate>Tue, 07 Jun 2016 05:00:00 GMT</pubDate>
+		<pubDate>Tue, 07 Jun 2016 04:00:00 GMT</pubDate>
 		<guid isPermaLink="true">http://toolsday.io/episodes/variety-show.html</guid>
 		<description>The tools we love and use that we forgot or just didn&#39;t fit into any other category.</description>
 
@@ -73,7 +92,7 @@
 	<item>
 		<title>Service Workers</title>
 		<link>http://toolsday.io/episodes/serviceworkers.html</link>
-		<pubDate>Tue, 17 May 2016 05:00:00 GMT</pubDate>
+		<pubDate>Tue, 17 May 2016 04:00:00 GMT</pubDate>
 		<guid isPermaLink="true">http://toolsday.io/episodes/serviceworkers.html</guid>
 		<description>We poke around, ruminate, and explore Service Workers.</description>
 
@@ -92,7 +111,7 @@
 	<item>
 		<title>Offline-first</title>
 		<link>http://toolsday.io/episodes/offline-web.html</link>
-		<pubDate>Tue, 10 May 2016 05:00:00 GMT</pubDate>
+		<pubDate>Tue, 10 May 2016 04:00:00 GMT</pubDate>
 		<guid isPermaLink="true">http://toolsday.io/episodes/offline-web.html</guid>
 		<description>How can we make sure people are able to access data on poor connections? Hear about offline-first this week with Hoodie&#39;s Gregor Martynus.</description>
 
@@ -111,7 +130,7 @@
 	<item>
 		<title>System Tools</title>
 		<link>http://toolsday.io/episodes/systemtools.html</link>
-		<pubDate>Wed, 04 May 2016 05:00:00 GMT</pubDate>
+		<pubDate>Wed, 04 May 2016 04:00:00 GMT</pubDate>
 		<guid isPermaLink="true">http://toolsday.io/episodes/systemtools.html</guid>
 		<description>Some of the things you&#39;ll need to set up a MacBook from scratch, and some fun quirks that will make your life easier day to day.</description>
 
@@ -130,7 +149,7 @@
 	<item>
 		<title>Top 10 Tools</title>
 		<link>http://toolsday.io/episodes/topten.html</link>
-		<pubDate>Tue, 19 Apr 2016 05:00:00 GMT</pubDate>
+		<pubDate>Tue, 19 Apr 2016 04:00:00 GMT</pubDate>
 		<guid isPermaLink="true">http://toolsday.io/episodes/topten.html</guid>
 		<description>For our 20th episode, we do a recap of our favourite tools that we use everyday.</description>
 
@@ -149,7 +168,7 @@
 	<item>
 		<title>Web Accessibility</title>
 		<link>http://toolsday.io/episodes/accessibility.html</link>
-		<pubDate>Tue, 12 Apr 2016 05:00:00 GMT</pubDate>
+		<pubDate>Tue, 12 Apr 2016 04:00:00 GMT</pubDate>
 		<guid isPermaLink="true">http://toolsday.io/episodes/accessibility.html</guid>
 		<description>This week we talk about web accessibility concerns &amp;mdash; what the heck all those acronyms are, and how to test for compliance.</description>
 
@@ -168,7 +187,7 @@
 	<item>
 		<title>(Mostly CSS) Animation</title>
 		<link>http://toolsday.io/episodes/animation.html</link>
-		<pubDate>Tue, 29 Mar 2016 05:00:00 GMT</pubDate>
+		<pubDate>Tue, 29 Mar 2016 04:00:00 GMT</pubDate>
 		<guid isPermaLink="true">http://toolsday.io/episodes/animation.html</guid>
 		<description>Animation brings the web to life! Today we talk about (mostly CSS) animation — how it works, tools, and resources.</description>
 
@@ -187,7 +206,7 @@
 	<item>
 		<title>Unit Testing</title>
 		<link>http://toolsday.io/episodes/unittesting.html</link>
-		<pubDate>Tue, 22 Mar 2016 05:00:00 GMT</pubDate>
+		<pubDate>Tue, 22 Mar 2016 04:00:00 GMT</pubDate>
 		<guid isPermaLink="true">http://toolsday.io/episodes/unittesting.html</guid>
 		<description>Today we discuss JavaScript unit testing with ColbyCheeze! Learn about spying, stubbing, and mocking this week.</description>
 
@@ -206,7 +225,7 @@
 	<item>
 		<title>Game Engines</title>
 		<link>http://toolsday.io/episodes/gameengines.html</link>
-		<pubDate>Tue, 08 Mar 2016 06:00:00 GMT</pubDate>
+		<pubDate>Tue, 08 Mar 2016 05:00:00 GMT</pubDate>
 		<guid isPermaLink="true">http://toolsday.io/episodes/gameengines.html</guid>
 		<description>Achieved in CryEngine 3 — wait no, Unity, wait no, Phaser?</description>
 
@@ -225,7 +244,7 @@
 	<item>
 		<title>CSS Layout</title>
 		<link>http://toolsday.io/episodes/css-layout.html</link>
-		<pubDate>Tue, 01 Mar 2016 06:00:00 GMT</pubDate>
+		<pubDate>Tue, 01 Mar 2016 05:00:00 GMT</pubDate>
 		<guid isPermaLink="true">http://toolsday.io/episodes/css-layout.html</guid>
 		<description>This week we&#39;re talking CSS layout — from CSS 1 to current best practices to what&#39;s coming down the pipeline.</description>
 
@@ -244,7 +263,7 @@
 	<item>
 		<title>Performance Profiling</title>
 		<link>http://toolsday.io/episodes/performance.html</link>
-		<pubDate>Tue, 16 Feb 2016 06:00:00 GMT</pubDate>
+		<pubDate>Tue, 16 Feb 2016 05:00:00 GMT</pubDate>
 		<guid isPermaLink="true">http://toolsday.io/episodes/performance.html</guid>
 		<description>We all agree performance testing is important, but how do you track it over time? This week Taylor Jones tells us how.</description>
 
@@ -263,7 +282,7 @@
 	<item>
 		<title>Static Site Generators</title>
 		<link>http://toolsday.io/episodes/static-site-gens.html</link>
-		<pubDate>Tue, 09 Feb 2016 06:00:00 GMT</pubDate>
+		<pubDate>Tue, 09 Feb 2016 05:00:00 GMT</pubDate>
 		<guid isPermaLink="true">http://toolsday.io/episodes/static-site-gens.html</guid>
 		<description>There are 412 options for static site generators. This week we discuss (mostly three) of them.</description>
 
@@ -282,7 +301,7 @@
 	<item>
 		<title>Solved by ES6 (ES2015)</title>
 		<link>http://toolsday.io/episodes/es6.html</link>
-		<pubDate>Tue, 02 Feb 2016 06:00:00 GMT</pubDate>
+		<pubDate>Tue, 02 Feb 2016 05:00:00 GMT</pubDate>
 		<guid isPermaLink="true">http://toolsday.io/episodes/es6.html</guid>
 		<description>We picked our top five ES6/7/2015/2016 upgrades and talk about how they make our lives so much easier.</description>
 
@@ -301,7 +320,7 @@
 	<item>
 		<title>Express &amp; Middleware</title>
 		<link>http://toolsday.io/episodes/express.html</link>
-		<pubDate>Tue, 19 Jan 2016 06:00:00 GMT</pubDate>
+		<pubDate>Tue, 19 Jan 2016 05:00:00 GMT</pubDate>
 		<guid isPermaLink="true">http://toolsday.io/episodes/express.html</guid>
 		<description>Our guest Jon Ballands chats with us about the IBM Swift Sandbox, and building it with Node &amp; Express.</description>
 
@@ -320,7 +339,7 @@
 	<item>
 		<title>Ember</title>
 		<link>http://toolsday.io/episodes/ember.html</link>
-		<pubDate>Tue, 12 Jan 2016 06:00:00 GMT</pubDate>
+		<pubDate>Tue, 12 Jan 2016 05:00:00 GMT</pubDate>
 		<guid isPermaLink="true">http://toolsday.io/episodes/ember.html</guid>
 		<description>With frameworks being so hot right now, we talk to Iheanyi Ekechukwu about Ember</description>
 
@@ -339,7 +358,7 @@
 	<item>
 		<title>React</title>
 		<link>http://toolsday.io/episodes/react.html</link>
-		<pubDate>Tue, 05 Jan 2016 06:00:00 GMT</pubDate>
+		<pubDate>Tue, 05 Jan 2016 05:00:00 GMT</pubDate>
 		<guid isPermaLink="true">http://toolsday.io/episodes/react.html</guid>
 		<description>This week we talk about React and why it&#39;s so darn hard to get started with!</description>
 
@@ -358,7 +377,7 @@
 	<item>
 		<title>Chrome DevTools</title>
 		<link>http://toolsday.io/episodes/devtools.html</link>
-		<pubDate>Tue, 22 Dec 2015 06:00:00 GMT</pubDate>
+		<pubDate>Tue, 22 Dec 2015 05:00:00 GMT</pubDate>
 		<guid isPermaLink="true">http://toolsday.io/episodes/devtools.html</guid>
 		<description>Chrome DevTools is the topic of the week, which we&#39;ve simply deemed &#34;awesome&#34;.</description>
 
@@ -377,7 +396,7 @@
 	<item>
 		<title>CSS Processors</title>
 		<link>http://toolsday.io/episodes/preprocessors.html</link>
-		<pubDate>Tue, 15 Dec 2015 06:00:00 GMT</pubDate>
+		<pubDate>Tue, 15 Dec 2015 05:00:00 GMT</pubDate>
 		<guid isPermaLink="true">http://toolsday.io/episodes/preprocessors.html</guid>
 		<description>This week&#39;s episode is about the past, present and future of CSS Pre and Post-processors.</description>
 
@@ -396,7 +415,7 @@
 	<item>
 		<title>Remote Collaboration</title>
 		<link>http://toolsday.io/episodes/remote-collaboration.html</link>
-		<pubDate>Tue, 08 Dec 2015 06:00:00 GMT</pubDate>
+		<pubDate>Tue, 08 Dec 2015 05:00:00 GMT</pubDate>
 		<guid isPermaLink="true">http://toolsday.io/episodes/remote-collaboration.html</guid>
 		<description>Absence makes the heart grow fonder? Let&#39;s talk about remote collaboration and the tools that make it possible. </description>
 
@@ -415,7 +434,7 @@
 	<item>
 		<title>Developer Environment</title>
 		<link>http://toolsday.io/episodes/dev-environment.html</link>
-		<pubDate>Tue, 24 Nov 2015 06:00:00 GMT</pubDate>
+		<pubDate>Tue, 24 Nov 2015 05:00:00 GMT</pubDate>
 		<guid isPermaLink="true">http://toolsday.io/episodes/dev-environment.html</guid>
 		<description>Sublime or Atom? Wait, WEBSTORM? We talk about our favourite developer environment tips and tricks.</description>
 
@@ -434,7 +453,7 @@
 	<item>
 		<title>Styleguides at Scale</title>
 		<link>http://toolsday.io/episodes/styleguides-at-scale.html</link>
-		<pubDate>Tue, 17 Nov 2015 06:00:00 GMT</pubDate>
+		<pubDate>Tue, 17 Nov 2015 05:00:00 GMT</pubDate>
 		<guid isPermaLink="true">http://toolsday.io/episodes/styleguides-at-scale.html</guid>
 		<description>We discuss the challenges of creating scalable styleguides with guest Brian Han</description>
 
@@ -453,7 +472,7 @@
 	<item>
 		<title>Learning Tools</title>
 		<link>http://toolsday.io/episodes/learning-tools.html</link>
-		<pubDate>Tue, 03 Nov 2015 06:00:00 GMT</pubDate>
+		<pubDate>Tue, 03 Nov 2015 05:00:00 GMT</pubDate>
 		<guid isPermaLink="true">http://toolsday.io/episodes/learning-tools.html</guid>
 		<description>College? Where we&#39;re going, we don&#39;t need college (or do we?).</description>
 
@@ -472,7 +491,7 @@
 	<item>
 		<title>Module Loaders</title>
 		<link>http://toolsday.io/episodes/module-loaders.html</link>
-		<pubDate>Tue, 27 Oct 2015 05:00:00 GMT</pubDate>
+		<pubDate>Tue, 27 Oct 2015 04:00:00 GMT</pubDate>
 		<guid isPermaLink="true">http://toolsday.io/episodes/module-loaders.html</guid>
 		<description>We&#39;ll talk about modules and module loaders! Everything from AMD to common.js and spend a bit of time going over Browserify and Webpack.</description>
 
@@ -491,7 +510,7 @@
 	<item>
 		<title>Task Runners</title>
 		<link>http://toolsday.io/episodes/task-runners.html</link>
-		<pubDate>Tue, 20 Oct 2015 05:00:00 GMT</pubDate>
+		<pubDate>Tue, 20 Oct 2015 04:00:00 GMT</pubDate>
 		<guid isPermaLink="true">http://toolsday.io/episodes/task-runners.html</guid>
 		<description>Grunt, Gulp, Broccoli, Brunch, Mimosa, oh my! So many task runners, so little time. In this weeks episode, we explore each of these delectable breakfast items/task runners.</description>
 
