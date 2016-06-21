@@ -1,4 +1,13 @@
 {
+  "hardware": {
+    "title": "Our Hardware!",
+    "date": "June 21, 2016",
+    "description": "We chat about how we use completely different hardware to do our work",
+    "audio": "audio/ep26-hardware.mp3",
+    "duration": "0:20:53",
+    "filesize": "30074871",
+    "color": "#831D18"
+  },
   "firefoxdev": {
     "title": "Firefox Dev Tools",
     "date": "June 15, 2016",
