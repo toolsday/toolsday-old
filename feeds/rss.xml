@@ -16,7 +16,7 @@
 	<atom:link href="http://toolsday.io/feeds/rss.xml" rel="self" type="application/rss+xml" />
 	<link>http://toolsday.io</link>
 	<description>Toolsday is a 20-minute podcast about the latest in tech tools, tips, and tricks on Tuesdays at 2! (Our alliteration game is so strong). The podast is brought to you by Chris Dhanaraj and Una Kravets, and recorded live on IBM radio. After the show, we collect resources and post our episodes here.</description>
-	<lastBuildDate>Tue, 21 Jun 2016 18:38:51 GMT</lastBuildDate>
+	<lastBuildDate>Tue, 12 Jul 2016 19:14:12 GMT</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -48,7 +48,27 @@
 	<itunes:block>no</itunes:block>
 	<itunes:explicit>no</itunes:explicit>
 	<itunes:image href="http://toolsday.io/img/logo-1400-1400.png" />
+	<itunes:new-feed-url>http://toolsday.libsyn.com/rss</itunes:new-feed-url>
 
+	
+	
+	<item>
+		<title>CSS Frameworks</title>
+		<link>http://toolsday.io/episodes/cssframeworks.html</link>
+		<pubDate>Tue, 12 Jul 2016 05:00:00 GMT</pubDate>
+		<guid isPermaLink="true">http://toolsday.io/episodes/cssframeworks.html</guid>
+		<description>CSS frameworks / design systems/ pattern libraries — so many names, so little time! We revisit the topic with so much more knowledges.</description>
+
+		<enclosure url="http://toolsday.io/audio/ep27-cssframeworks.mp3" length="44795753" type="audio/mpeg" />
+
+		<itunes:summary><![CDATA[CSS frameworks / design systems/ pattern libraries — so many names, so little time! We revisit the topic with so much more knowledges. See <a href="http://toolsday.io/episodes/cssframeworks">show notes link</a> for resources.]]></itunes:summary>
+		<itunes:duration>0:31:06</itunes:duration>
+		<itunes:subtitle>CSS frameworks / design systems/ pattern libraries — so many names, so little time! We revisit the topic with so much more knowledges.</itunes:subtitle>
+		<itunes:author>Una Kravets and Chris Dhanaraj</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:block>no</itunes:block>
+	</item>
+	
 	
 	
 	<item>
