@@ -1,10 +1,10 @@
 ### CSS Frameworks / Systems
 
-- [Tachyon](tachyons.io)
+- [Tachyons](tachyons.io)
 - [Bootstrap](https://github.com/twbs/bootstrap)
-- [Foundation](https://github.com/zurb/foundation-sites)
-- [Pure](http://purecss.io/)
-- [Lightning](https://developer.salesforce.com/lightning)
+- [Zurb Foundation](https://github.com/zurb/foundation-sites)
+- [Pure CSS](http://purecss.io/)
+- [Lightning Design System](https://developer.salesforce.com/lightning)
 
 ### Other
 
