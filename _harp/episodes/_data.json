@@ -3,7 +3,7 @@
     "title": "CSS Frameworks",
     "date": "July 12, 2016",
     "description": "CSS frameworks / design systems/ pattern libraries — so many names, so little time! We revisit the topic with so much more knowledges.",
-    "audio": "audio/ep27-cssframeworks.mp3",
+    "audio": "ep27-cssframeworks.mp3",
     "duration": "0:31:06",
     "filesize": "44795753",
     "color": "#ff5050"
@@ -12,7 +12,7 @@
     "title": "Our Hardware!",
     "date": "June 21, 2016",
     "description": "We chat about how we use completely different hardware to do our work",
-    "audio": "audio/ep26-hardware.mp3",
+    "audio": "ep26-hardware.mp3",
     "duration": "0:20:53",
     "filesize": "30074871",
     "color": "#831D18"
@@ -21,7 +21,7 @@
     "title": "Firefox Dev Tools",
     "date": "June 15, 2016",
     "description": "We had Helen Holmes, UI designer of Firefox Dev tools to teach us some tricks we didn't know existed!",
-    "audio": "audio/ep25-firefoxdev.mp3",
+    "audio": "ep25-firefoxdev.mp3",
     "duration": "0:27:47",
     "filesize": "40037195",
     "color": "#ff9b35"
@@ -30,7 +30,7 @@
     "title": "The Variety Show",
     "date": "June 7, 2016",
     "description": "The tools we love and use that we forgot or just didn't fit into any other category.",
-    "audio": "audio/ep24-varietyshow.mp3",
+    "audio": "ep24-varietyshow.mp3",
     "duration": "0:18:55",
     "filesize": "27262501",
     "color": "#83D069"
@@ -39,7 +39,7 @@
     "title": "Service Workers",
     "date": "May 17, 2016",
     "description": "We poke around, ruminate, and explore Service Workers.",
-    "audio": "audio/ep23-serviceworker.mp3",
+    "audio": "ep23-serviceworker.mp3",
     "duration": "0:21:09",
     "filesize": "30470757",
     "color": "#AC3232"
@@ -48,7 +48,7 @@
     "title": "Offline-first",
     "date": "May 10, 2016",
     "description": "How can we make sure people are able to access data on poor connections? Hear about offline-first this week with Hoodie's Gregor Martynus.",
-    "audio": "audio/ep22-offlinetools.mp3",
+    "audio": "ep22-offlinetools.mp3",
     "duration": "0:26:02",
     "filesize": "37498349",
     "color": "#cd5fff"
@@ -57,7 +57,7 @@
     "title": "System Tools",
     "date": "May 4, 2016",
     "description": "Some of the things you'll need to set up a MacBook from scratch, and some fun quirks that will make your life easier day to day.",
-    "audio": "audio/ep21-systemtools.mp3",
+    "audio": "ep21-systemtools.mp3",
     "duration": "0:24:03",
     "filesize": "34637413",
     "color": "#FF5F5F"
@@ -66,7 +66,7 @@
     "title": "Top 10 Tools",
     "date": "April 19, 2016",
     "description": "For our 20th episode, we do a recap of our favourite tools that we use everyday.",
-    "audio": "audio/ep20-topten.mp3",
+    "audio": "ep20-topten.mp3",
     "duration": "0:27:16",
     "filesize": "39272297",
     "color": "#5F86FF"
@@ -75,7 +75,7 @@
     "title": "Web Accessibility",
     "date": "April 12, 2016",
     "description": "This week we talk about web accessibility concerns &mdash; what the heck all those acronyms are, and how to test for compliance.",
-    "audio": "audio/ep19-a11y.mp3",
+    "audio": "ep19-a11y.mp3",
     "duration": "0:25:08",
     "filesize": "36207159",
     "color": "#101808"
@@ -84,7 +84,7 @@
     "title": "(Mostly CSS) Animation",
     "date": "March 29, 2016",
     "description": "Animation brings the web to life! Today we talk about (mostly CSS) animation — how it works, tools, and resources.",
-    "audio": "audio/ep18-css-animation.mp3",
+    "audio": "ep18-css-animation.mp3",
     "duration": "0:24:47",
     "filesize": "35711627",
     "color": "#d0a808"
@@ -93,7 +93,7 @@
     "title": "Unit Testing",
     "date": "March 22, 2016",
     "description": "Today we discuss JavaScript unit testing with ColbyCheeze! Learn about spying, stubbing, and mocking this week.",
-    "audio": "audio/ep17-unit-testing.mp3",
+    "audio": "ep17-unit-testing.mp3",
     "duration": "0:25:29",
     "filesize": "36720955",
     "color": "#7899c1"
@@ -102,7 +102,7 @@
     "title": "Game Engines",
     "date": "March 8, 2016",
     "description": "Achieved in CryEngine 3 — wait no, Unity, wait no, Phaser?",
-    "audio": "audio/ep16-game-engine.mp3",
+    "audio": "ep16-game-engine.mp3",
     "duration": "0:26:23",
     "filesize": "38009099",
     "color": "#c36ca8"
@@ -111,7 +111,7 @@
     "title": "CSS Layout",
     "date": "March 1, 2016",
     "description": "This week we're talking CSS layout — from CSS 1 to current best practices to what's coming down the pipeline.",
-    "audio": "audio/ep15-css-layout.mp3",
+    "audio": "ep15-css-layout.mp3",
     "duration": "0:33:58",
     "filesize": "48931469",
     "color": "#1ed8a1"
@@ -120,7 +120,7 @@
     "title": "Performance Profiling",
     "date": "February 16, 2016",
     "description": "We all agree performance testing is important, but how do you track it over time? This week Taylor Jones tells us how.",
-    "audio": "audio/ep14-performance.mp3",
+    "audio": "ep14-performance.mp3",
     "duration": "0:20:33",
     "filesize": "29614641",
     "color": "#d81e67"
@@ -129,7 +129,7 @@
     "title": "Static Site Generators",
     "date": "February 9, 2016",
     "description": "There are 412 options for static site generators. This week we discuss (mostly three) of them.",
-    "audio": "audio/ep13-static-site.mp3",
+    "audio": "ep13-static-site.mp3",
     "duration": "0:23:14",
     "filesize": "33454267",
     "color": "#ec7400"
@@ -138,7 +138,7 @@
     "title": "Solved by ES6 (ES2015)",
     "date": "February 2, 2016",
     "description": "We picked our top five ES6/7/2015/2016 upgrades and talk about how they make our lives so much easier.",
-    "audio": "audio/ep12-solved-by-es6.mp3",
+    "audio": "ep12-solved-by-es6.mp3",
     "duration": "0:19:42",
     "filesize": "28372521",
     "color": "#b1987f"
@@ -147,7 +147,7 @@
     "title": "Express & Middleware",
     "date": "January 19, 2016",
     "description": "Our guest Jon Ballands chats with us about the IBM Swift Sandbox, and building it with Node & Express.",
-    "audio": "audio/ep11-express.mp3",
+    "audio": "ep11-express.mp3",
     "duration": "0:26:36",
     "filesize": "36658007",
     "color": "#af89d3"
@@ -156,7 +156,7 @@
     "title": "Ember",
     "date": "January 12, 2016",
     "description": "With frameworks being so hot right now, we talk to Iheanyi Ekechukwu about Ember",
-    "audio": "audio/ep10-ember.mp3",
+    "audio": "ep10-ember.mp3",
     "duration": "0:23:20",
     "filesize": "33599479",
     "color": "#0F3447"
@@ -165,7 +165,7 @@
     "title": "React",
     "date": "January 05, 2016",
     "description": "This week we talk about React and why it's so darn hard to get started with!",
-    "audio": "audio/ep09-react.mp3",
+    "audio": "ep09-react.mp3",
     "duration": "0:25:11",
     "filesize": "36292045",
     "color": "#4acacf"
@@ -174,7 +174,7 @@
     "title": "Chrome DevTools",
     "date": "December 22, 2015",
     "description": "Chrome DevTools is the topic of the week, which we've simply deemed \"awesome\".",
-    "audio": "audio/ep08-devtools.mp3",
+    "audio": "ep08-devtools.mp3",
     "duration": "0:19:39",
     "filesize": "28293651",
     "color": "#5a6872"
@@ -183,7 +183,7 @@
     "title": "CSS Processors",
     "date": "December 15, 2015",
     "description": "This week's episode is about the past, present and future of CSS Pre and Post-processors.",
-    "audio": "audio/ep07-preprocessors.mp3",
+    "audio": "ep07-preprocessors.mp3",
     "duration": "0:24:28",
     "filesize": "35233657",
     "color": "#eda035"
@@ -192,7 +192,7 @@
     "title": "Remote Collaboration",
     "date": "December 8, 2015",
     "description": "Absence makes the heart grow fonder? Let's talk about remote collaboration and the tools that make it possible. ",
-    "audio": "audio/ep06-remote-collaboration.mp3",
+    "audio": "ep06-remote-collaboration.mp3",
     "duration": "0:30:09",
     "filesize": "43417889",
     "color": "#7bb611"
@@ -201,7 +201,7 @@
     "title": "Developer Environment",
     "date": "November 24, 2015",
     "description": "Sublime or Atom? Wait, WEBSTORM? We talk about our favourite developer environment tips and tricks.",
-    "audio": "audio/ep05-dev-environment.mp3",
+    "audio": "ep05-dev-environment.mp3",
     "duration": "0:27:51",
     "filesize": "40110559",
     "color": "#5596E6"
@@ -210,7 +210,7 @@
     "title": "Styleguides at Scale",
     "date": "November 17, 2015",
     "description": "We discuss the challenges of creating scalable styleguides with guest Brian Han",
-    "audio": "audio/ep04-styleguides-at-scale.mp3",
+    "audio": "ep04-styleguides-at-scale.mp3",
     "duration": "0:30:21",
     "filesize": "43717843",
     "color": "#d74108"
@@ -219,7 +219,7 @@
     "title": "Learning Tools",
     "date": "November 3, 2015",
     "description": "College? Where we're going, we don't need college (or do we?).",
-    "audio": "audio/ep03-learning-tools.mp3",
+    "audio": "ep03-learning-tools.mp3",
     "duration" : "0:27:28",
     "filesize": "46118307",
     "color": "#00b4a0",
@@ -229,7 +229,7 @@
     "title": "Module Loaders",
     "date": "October 27, 2015",
     "description": "We'll talk about modules and module loaders! Everything from AMD to common.js and spend a bit of time going over Browserify and Webpack.",
-    "audio": "audio/ep02-module-loaders.mp3",
+    "audio": "ep02-module-loaders.mp3",
     "duration" : "0:27:28",
     "filesize": "39562297",
     "color": "#16a"
@@ -238,7 +238,7 @@
     "title": "Task Runners",
     "date": "October 20, 2015",
     "description": "Grunt, Gulp, Broccoli, Brunch, Mimosa, oh my! So many task runners, so little time. In this weeks episode, we explore each of these delectable breakfast items/task runners.",
-    "audio": "audio/ep01-task-runners.mp3",
+    "audio": "ep01-task-runners.mp3",
     "duration": "0:25:09",
     "filesize": 36219719,
     "color": "#c69"
