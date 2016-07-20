@@ -16,7 +16,7 @@
 	<atom:link href="http://toolsday.io/feeds/rss.xml" rel="self" type="application/rss+xml" />
 	<link>http://toolsday.io</link>
 	<description>Toolsday is a 20-minute podcast about the latest in tech tools, tips, and tricks on Tuesdays at 2! (Our alliteration game is so strong). The podast is brought to you by Chris Dhanaraj and Una Kravets, and recorded live on IBM radio. After the show, we collect resources and post our episodes here.</description>
-	<lastBuildDate>Wed, 13 Jul 2016 14:04:44 GMT</lastBuildDate>
+	<lastBuildDate>Wed, 20 Jul 2016 16:14:39 GMT</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -50,6 +50,25 @@
 	<itunes:image href="http://toolsday.io/img/logo-1400-1400.png" />
 	<itunes:new-feed-url>http://toolsday.libsyn.com/rss</itunes:new-feed-url>
 
+	
+	
+	<item>
+		<title>Standards and Linters</title>
+		<link>http://toolsday.io/episodes/standards.html</link>
+		<pubDate>Tue, 19 Jul 2016 05:00:00 GMT</pubDate>
+		<guid isPermaLink="true">http://toolsday.io/episodes/standards.html</guid>
+		<description>What’s the “correct” way to write code? We can’t say for sure, but these standards and linters can. This week we explore the options.</description>
+
+		<enclosure url="http://toolsday.io/ep28-standards.mp3" length="36535319" type="audio/mpeg" />
+
+		<itunes:summary><![CDATA[What’s the “correct” way to write code? We can’t say for sure, but these standards and linters can. This week we explore the options. See <a href="http://toolsday.io/episodes/standards">show notes link</a> for resources.]]></itunes:summary>
+		<itunes:duration>0:25:22</itunes:duration>
+		<itunes:subtitle>What’s the “correct” way to write code? We can’t say for sure, but these standards and linters can. This week we explore the options.</itunes:subtitle>
+		<itunes:author>Una Kravets and Chris Dhanaraj</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:block>no</itunes:block>
+	</item>
+	
 	
 	
 	<item>
