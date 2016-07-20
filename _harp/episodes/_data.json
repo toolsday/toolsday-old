@@ -1,4 +1,13 @@
 {
+  "standards": {
+    "title": "Standards and Linters",
+    "date": "July 19, 2016",
+    "description": "What’s the “correct” way to write code? We can’t say for sure, but these standards and linters can. This week we explore the options.",
+    "audio": "ep28-standards.mp3",
+    "duration": "0:25:22",
+    "filesize": "36535319",
+    "color": "#734098"
+  },
   "cssframeworks": {
     "title": "CSS Frameworks",
     "date": "July 12, 2016",
