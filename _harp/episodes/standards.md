@@ -17,7 +17,7 @@
 
 - [SCSS Lint](https://github.com/brigade/scss-lint)
 - [SASS Lint - node version](https://github.com/sasstools/sass-lint)
-- [SASS Guideliens](http://sass-guidelin.es/)
+- [SASS Guidelines](http://sass-guidelin.es/)
 - [CSS Comb](http://csscomb.com/)
 
 ### PostCSS
