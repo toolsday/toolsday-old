@@ -4,7 +4,7 @@
 - [Bootstrap](https://github.com/twbs/bootstrap)
 - [Zurb Foundation](https://github.com/zurb/foundation-sites)
 - [Pure CSS](http://purecss.io/)
-- [Lightning Design System](https://developer.salesforce.com/lightning)
+- [Lightning Design System](https://www.lightningdesignsystem.com/)
 
 ### Other
 
