@@ -1,4 +1,13 @@
 {
+  "travis": {
+    "title": "Travis CI",
+    "date": "August 3rd, 2016",
+    "description": "Mathias, CEO of Travis CI, comes on the show to give us an overview of what Travis CI is and how it can help your next project.",
+    "audio": "ep29-travis.mp3",
+    "duration": "0:27:38",
+    "filesize": "39811789",
+    "color": "#5aa700"
+  },
   "standards": {
     "title": "Standards and Linters",
     "date": "July 19, 2016",
