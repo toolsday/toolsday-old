@@ -1,4 +1,13 @@
 {
+  "travel": {
+    "title": "Travel Tools",
+    "date": "August 23rd, 2016",
+    "description": "After a short hiatus, Toolsday returns with CSS Wizardry himself, Harry Roberts, to talk about travel.",
+    "audio": "ep30-travel.mp3",
+    "duration": "0:30:31",
+    "filesize": "39811789",
+    "color": "#152935"
+  },
   "travis": {
     "title": "Travis CI",
     "date": "August 3rd, 2016",
