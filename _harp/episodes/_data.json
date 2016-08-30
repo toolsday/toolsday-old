@@ -1,4 +1,13 @@
 {
+  "conferencetalks": {
+    "title": "Conference Talks",
+    "date": "August 30th, 2016",
+    "description": "We highlight thirteen conference talks that dazzled us, inspired us, and drove our careers forward",
+    "audio": "ep31-conferencetalks.mp3",
+    "duration": "0:30:31",
+    "filesize": "39811789",
+    "color": "#97365D"
+  },
   "travel": {
     "title": "Travel Tools",
     "date": "August 23rd, 2016",
