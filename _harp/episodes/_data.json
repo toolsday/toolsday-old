@@ -1,4 +1,13 @@
 {
+  "stateofjs": {
+    "title": "State of Javascript",
+    "date": "October 18th, 2016",
+    "description" : "",
+    "audio": "ep32-stateofjavascript.mp3",
+    "duration": "0:34:31",
+    "filesize": "23423423",
+    "color": "#ff8100"
+  },
   "conferencetalks": {
     "title": "Conference Talks",
     "date": "August 30th, 2016",
