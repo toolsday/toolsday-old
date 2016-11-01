@@ -1,4 +1,13 @@
 {
+  "conferencespeaking": {
+    "title": "Speaking at Conferences",
+    "date": "November 1st, 2016",
+    "description" : "Chris interviews Una on her experience as a conference speaker and how you can become one too!",
+    "audio": "ep34-conferencespeaking.mp3",
+    "duration": "0:34:31",
+    "filesize": "23423423",
+    "color": "#ff5050"
+  },
   "vscode": {
     "title": "Visual Studio Code",
     "date": "October 25th, 2016",
