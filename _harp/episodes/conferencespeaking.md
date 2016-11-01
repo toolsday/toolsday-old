@@ -1,7 +1,8 @@
-# Tools for Conferences
+# Talk Tools
 
-- [reveal.js](https://github.com/hakimel/reveal.js/)
-- [caniuse component](https://github.com/una/caniuse-component)
+- [Reveal.js](https://github.com/hakimel/reveal.js/)
+- [Caniuse Component](https://github.com/una/caniuse-component)
+- [Code Mirror](https://codemirror.net/)
 
 # Resources
 
