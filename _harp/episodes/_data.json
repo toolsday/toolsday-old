@@ -1,4 +1,13 @@
 {
+  "chromeextensions": {
+    "title": "Our Favourite Chrome Extensions",
+    "date": "November 8th, 2016",
+    "description" : "We rapid fire through our favourite Chrome extensions",
+    "audio": "ep35-chromeextensions.mp3",
+    "duration": "0:34:31",
+    "filesize": "23423423",
+    "color": "#af6ee8"
+  },
   "conferencespeaking": {
     "title": "Tech Conference Speaking",
     "date": "November 1st, 2016",
