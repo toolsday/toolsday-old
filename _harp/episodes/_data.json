@@ -1,4 +1,13 @@
 {
+  "images": {
+    "title": "Images!",
+    "date": "November 15th, 2016",
+    "description": "This week's episode is full of image optimization tooks, formats, and some fun facts about images!",
+    "audio": "ep36-images.mp3",
+    "duration": "33:33:33",
+    "filesize": "23423423",
+    "color": "#ff7832"
+  },
   "chromeextensions": {
     "title": "Chrome Extensions",
     "date": "November 8th, 2016",
