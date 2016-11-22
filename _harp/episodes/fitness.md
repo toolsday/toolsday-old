@@ -1,0 +1,15 @@
+### Fitness Tools!
+
+- [FitBit Charge HR 2](https://www.fitbit.com/charge2)
+- [HeadSpace](https://www.headspace.com/headspace-meditation-app)
+- [Pzizz](http://pzizz.com/)
+- [MyFitnessPal](https://www.myfitnesspal.com/)
+- [MapMyRun](http://www.mapmyrun.com/us/)
+- [Nike Fitness Club](http://www.nike.com/us/en_us/c/nike-plus/training-app)
+- [Zombies Run](https://zombiesrungame.com/)
+- [SkyFit](https://www.aaptiv.com/)
+- [Pokemon GO](http://pokemongo.nianticlabs.com/en/)
+- [Couch to 5k](http://www.active.com/mobile/couch-to-5k-app)
+- [StrongLifts 5x5 Workout](https://stronglifts.com/apps/)
+- [Stand](https://getstandapp.com/)
+- [Instant Heart Rate](http://www.azumio.com/s/instantheartrate/index.html)
