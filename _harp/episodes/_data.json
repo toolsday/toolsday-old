@@ -1,4 +1,13 @@
 {
+  "animtiontools": {
+    "title": "Animation Tools with Sarah",
+    "date": "December 20th, 2016",
+    "description": "This week we learn about animation in UI: basics, libraries, performance considerations, and more with Sarah Drasner.",
+    "audio": "ep38-animation.mp3",
+    "duration": "33:33:33",
+    "filesize": "23423423",
+    "color": "#008571"
+  },
   "fitness": {
     "title": "Fitness Tools",
     "date": "November 22nd, 2016",
