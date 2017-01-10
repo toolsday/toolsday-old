@@ -1,10 +1,12 @@
-### New to Una in 2016
+### Discovered in 2016
+
+### Una
 - [Atom](https://atom.io/)
 - [VS Code](https://code.visualstudio.com/)
 - [Stylelint Format](http://stylelint.io/)
 - [IA Writer](https://ia.net/writer/)
 
-### New to Chris in 2016
+### Chris
 - [React Storybook](https://github.com/storybooks/react-storybook)
 - [Babel Preset Env](https://github.com/babel/babel-preset-env)
 - [Jest](https://facebook.github.io/jest/)
