@@ -1,4 +1,13 @@
 {
+  "newtous2016": {
+    "title": "New to Us in 2016",
+    "date": "January 10th, 2017",
+    "description": "This week we learn about animation in UI: basics, libraries, performance considerations, and more with Sarah Drasner.",
+    "audio": "ep39-newtous2016.mp3",
+    "duration": "33:33:33",
+    "filesize": "23423423",
+    "color": "#5596e6"
+  },
   "animationtools": {
     "title": "Animation Tools with Sarah",
     "date": "December 20th, 2016",
