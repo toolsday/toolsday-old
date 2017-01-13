@@ -6,8 +6,7 @@
   "scripts": {
     "serve": "harp server _harp",
     "build": "harp compile _harp --output ../www",
-    "deploy": "harp compile _harp --output ../www && gh-pages -d www",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "deploy": "harp compile _harp --output ../www && gh-pages -d www"
   },
   "dependencies": {
     "express": "^4.14.0"
