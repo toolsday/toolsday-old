@@ -1,4 +1,13 @@
 {
+  "cssinjs": {
+    "title": "CSS in JS",
+    "date": "January 24th, 2017",
+    "description": "CSS in JS: is it the next big thing? We break down some techniques with Glen Maddern",
+    "audio": "ep40-cssinjs.mp3",
+    "duration": "33:33:33",
+    "filesize": "23423423",
+    "color": "#734098"
+  },
   "newtous2016": {
     "title": "Discovered in 2016",
     "date": "January 10th, 2017",
