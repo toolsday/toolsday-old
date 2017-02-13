@@ -1,12 +1,12 @@
 {
   "webpack2": {
     "title": "Webpack 2",
-    "date": "February 7h, 2017",
+    "date": "February 7th, 2017",
     "description": "This week we sit down and talk with Sean Larkin about newly released Webpack 2! ES6 modules, tree-shaking, and more fun things in this episode.",
     "audio": "ep41-webpack2.mp3",
     "duration": "33:33:33",
     "filesize": "23423423",
-    "color": "#734098"
+    "color": "#bf3e8a"
   },
   "cssinjs": {
     "title": "CSS in JS",
