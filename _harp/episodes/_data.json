@@ -1,4 +1,13 @@
 {
+  "windows": {
+    "title": "Windows",
+    "date": "February 14th, 2017",
+    "description": "What is Windows up to these days? Una and Chris give you the down low of developing on this operating system in 2017!",
+    "audio": "ep42-windows2.mp3",
+    "duration": "33:33:33",
+    "filesize": "23423423",
+    "color": "#734098"
+  },
   "webpack2": {
     "title": "Webpack 2",
     "date": "February 7th, 2017",
@@ -6,7 +15,7 @@
     "audio": "ep41-webpack2.mp3",
     "duration": "33:33:33",
     "filesize": "23423423",
-    "color": "#bf3e8a"
+    "color": "#734098"
   },
   "cssinjs": {
     "title": "CSS in JS",
