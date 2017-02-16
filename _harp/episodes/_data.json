@@ -6,7 +6,7 @@
     "audio": "ep42-windows2.mp3",
     "duration": "33:33:33",
     "filesize": "23423423",
-    "color": "#734098"
+    "color": "#985840"
   },
   "webpack2": {
     "title": "Webpack 2",
@@ -15,7 +15,7 @@
     "audio": "ep41-webpack2.mp3",
     "duration": "33:33:33",
     "filesize": "23423423",
-    "color": "#734098"
+    "color": "#a70f63"
   },
   "cssinjs": {
     "title": "CSS in JS",
