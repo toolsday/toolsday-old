@@ -2,7 +2,7 @@
 
 - [WebPageTest](http://www.webpagetest.org/)
 - [Sublime Text](http://www.sublimetext.com/3)
-- [Una's list of Submlime plugins in our Developer Environment episode](http://toolsday.io/episodes/dev-environment.html)
+- [Una's list of Sublime plugins in our Developer Environment episode](http://toolsday.io/episodes/dev-environment.html)
 - [Harp](http://harpjs.com/)
 - [Surge](https://surge.sh/)
 - [Una's dotfiles](https://github.com/una/dotfiles)
