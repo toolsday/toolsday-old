@@ -2,7 +2,7 @@
 
 - [Apple Magic Keyboard](http://www.apple.com/shop/product/MLA22LL/A/magic-keyboard-us-english)
 - [HP Comfort Grip Wireless Mouse](https://www.amazon.com/HP-Comfort-Wireless-Mouse-H2L63UT/dp/B0084DFLTA)
-- Sony Bluetooth Over-Ear] - https://www.amazon.com/Sony-MDRXB950BT-Extra-Bluetooth-Headphones/dp/B00MCHE38O
+- [Sony Bluetooth Over-Ear](https://www.amazon.com/Sony-MDRXB950BT-Extra-Bluetooth-Headphones/dp/B00MCHE38O)
 - [Apple Cinema Display](http://www.apple.com/shop/product/MC914LL/B/apple-thunderbolt-display-27-inch?afid=p238%7Cs7YUJtKCj-dc_mtid_1870765e38482_pcrid_52243316770_&cid=aos-us-kwg-pla-btb-slid--product-MC914LL/B)
 - [Amazon Echo](https://www.amazon.com/Amazon-Echo-Bluetooth-Speaker-with-WiFi-Alexa/dp/B00X4WHP5E)
 
