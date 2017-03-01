@@ -1,4 +1,13 @@
 {
+  "git": {
+    "title": "Git Tools",
+    "date": "March 1st, 2017",
+    "description": "",
+    "audio": "ep43-git.mp3",
+    "duration": "33:33:33",
+    "filesize": "23423423",
+    "color": "#734098"
+  },
   "windows": {
     "title": "Windows",
     "date": "February 14th, 2017",
