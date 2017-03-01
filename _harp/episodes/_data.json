@@ -1,12 +1,12 @@
 {
   "git": {
     "title": "Git Tools",
-    "date": "March 1st, 2017",
+    "date": "February 28th, 2017",
     "description": "Git is something we use every day—this week we talk about some tools, tips, and tricks to make it better.",
     "audio": "ep43-git.mp3",
     "duration": "33:33:33",
     "filesize": "23423423",
-    "color": "#734098"
+    "color": "#f5a541"
   },
   "windows": {
     "title": "Windows",
