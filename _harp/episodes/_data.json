@@ -1,4 +1,13 @@
 {
+  "gifv": {
+    "title": ".gifv",
+    "date": "March 7th, 2017",
+    "description": "We talk to Jason Ormand about gifv! The latest in image performance technology. No but really, it's pretty cool.",
+    "audio": "ep44-gifv.mp3",
+    "duration": "33:33:33",
+    "filesize": "23423423",
+    "color": "#a2b566"
+  },
   "git": {
     "title": "Git Tools",
     "date": "February 28th, 2017",
