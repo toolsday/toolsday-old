@@ -6,12 +6,17 @@
     padding: 0 2em;
   }
 
-  &__logo {
-    max-width: 200px;
-    margin: -2.5em 0 0;
+  &__title {
+    border-bottom: none;
+  }
 
-    @include breakpoint(sm) {
-      max-width: 180px;
+  &__logo {
+    max-width: 160px;
+    margin: -3.1em 0 0;
+    display: inline-block;
+
+    @include breakpoint(md) {
+      max-width: 140px;
     }
 
     &:hover {
@@ -42,7 +47,7 @@
   position: absolute;
   display: block;
   right: 1em;
-  top: 3em;
+  top: 0;
 
   @include breakpoint(sm) {
     margin: 0 .5em;
@@ -72,5 +77,23 @@
         color: black;
       }
     }
+  }
+}
+
+.support-callout {
+  position: absolute;
+  font-style: italic;
+  transform: rotate(-14deg);
+  top: 2.4em;
+  left: 95px;
+  background: yellow;
+  font-size: 1.3em;
+  mix-blend-mode: multiply;
+
+  @include breakpoint(md) {
+    font-size: 1.1em;
+    top: 3em;
+    left: 75px;
+    transform: rotate(-12deg);
   }
 }
