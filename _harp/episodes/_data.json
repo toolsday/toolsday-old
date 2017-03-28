@@ -1,4 +1,13 @@
 {
+  "cssgrids": {
+    "title": "CSS Grid",
+    "date": "March 28th, 2017",
+    "description": "Everyone’s talking about CSS Grid—the latest spec to surface in modern browsers. Listen up on why its so great!",
+    "audio": "ep46-cssgrids.mp3",
+    "duration": "33:33:33",
+    "filesize": "23423423",
+    "color": "#831b4c"
+  },
   "vr": {
     "title": "Virtual Reality",
     "date": "March 14th, 2017",
