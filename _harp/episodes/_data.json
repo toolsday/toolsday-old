@@ -1,4 +1,13 @@
 {
+  "hardwarejs": {
+    "title": "Hardware",
+    "date": "April 25th, 2017",
+    "description": "We talk with Suz Hinton about how to write software interconnected with physical objects. How cool is that wizardry!?",
+    "audio": "ep47-hardware.mp3",
+    "duration": "33:33:33",
+    "filesize": "23423423",
+    "color": "#7824ff"
+  },
   "cssgrids": {
     "title": "CSS Grid",
     "date": "March 28th, 2017",
@@ -101,7 +110,7 @@
   "chromeextensions": {
     "title": "Chrome Extensions",
     "date": "November 8th, 2016",
-    "description" : "We rapid fire through our favourite Chrome extensions",
+    "description": "We rapid fire through our favourite Chrome extensions",
     "audio": "ep35-chromeextensions.mp3",
     "duration": "0:34:31",
     "filesize": "23423423",
@@ -110,7 +119,7 @@
   "conferencespeaking": {
     "title": "Tech Conference Speaking",
     "date": "November 1st, 2016",
-    "description" : "Chris interviews Una on her experience as a conference speaker and how you can become one too!",
+    "description": "Chris interviews Una on her experience as a conference speaker and how you can become one too!",
     "audio": "ep34-conferencespeaking.mp3",
     "duration": "0:34:31",
     "filesize": "23423423",
@@ -119,7 +128,7 @@
   "vscode": {
     "title": "Visual Studio Code",
     "date": "October 25th, 2016",
-    "description" : "We stray off the beaten road of Atom and Sublime, and instead discuss our new favourite editor, Visual Studio Code, and our top five extensions for it.",
+    "description": "We stray off the beaten road of Atom and Sublime, and instead discuss our new favourite editor, Visual Studio Code, and our top five extensions for it.",
     "audio": "ep32-vscode.mp3",
     "duration": "0:34:31",
     "filesize": "23423423",
@@ -128,7 +137,7 @@
   "stateofjs": {
     "title": "State of Javascript",
     "date": "October 18th, 2016",
-    "description" : "We’re back! With an overview of what people have been talking about lately: the abundance of tools in web development.",
+    "description": "We’re back! With an overview of what people have been talking about lately: the abundance of tools in web development.",
     "audio": "ep32-stateofjs.mp3",
     "duration": "0:34:31",
     "filesize": "23423423",
@@ -391,17 +400,17 @@
     "date": "November 3, 2015",
     "description": "College? Where we're going, we don't need college (or do we?).",
     "audio": "ep03-learning-tools.mp3",
-    "duration" : "0:27:28",
+    "duration": "0:27:28",
     "filesize": "46118307",
     "color": "#00b4a0",
     "image": "http://ruben.verborgh.org/images/blog/window-or-loader.jpg"
   },
-    "module-loaders": {
+  "module-loaders": {
     "title": "Module Loaders",
     "date": "October 27, 2015",
     "description": "We'll talk about modules and module loaders! Everything from AMD to common.js and spend a bit of time going over Browserify and Webpack.",
     "audio": "ep02-module-loaders.mp3",
-    "duration" : "0:27:28",
+    "duration": "0:27:28",
     "filesize": "39562297",
     "color": "#16a"
   },
