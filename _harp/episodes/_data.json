@@ -1,4 +1,13 @@
 {
+  "topperftools": {
+    "title": "Our Favorite Perf Tools",
+    "date": "May 2nd, 2017",
+    "description": "We go through our 8 favorite tools that we use to improve web performance.",
+    "audio": "ep48-performancetips.mp3",
+    "duration": "33:33:33",
+    "filesize": "23423423",
+    "color": "#24abff"
+  },
   "hardwarejs": {
     "title": "Hardware",
     "date": "April 25th, 2017",
@@ -15,7 +24,7 @@
     "audio": "ep46-cssgrids.mp3",
     "duration": "33:33:33",
     "filesize": "23423423",
-    "color": "#97365D"
+    "color": "#aa995D"
   },
   "vr": {
     "title": "Virtual Reality",
