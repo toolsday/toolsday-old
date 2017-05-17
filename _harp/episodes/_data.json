@@ -1,4 +1,13 @@
 {
+  "datasketches": {
+    "title": "Data Sketches",
+    "date": "May 16th, 2017",
+    "description": "Live from JSConf.EU, we speak with Nadieh Bremer & Shirley Wu about their incredible data sketches project and their experiences with data visualization.",
+    "audio": "ep49-datasketches.mp3",
+    "duration": "33:33:33",
+    "filesize": "23423423",
+    "color": "#FFAF91"
+  },
   "topperftools": {
     "title": "Our Favorite Perf Tools",
     "date": "May 2nd, 2017",
