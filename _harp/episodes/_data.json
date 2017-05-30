@@ -1,4 +1,13 @@
 {
+  "graphql": {
+    "title": "Data Sketches",
+    "date": "May 23rd, 2017",
+    "description": "Tune in this week to hear us ford through unfamiliar waters as we tackle GraphQL! We go through why you should get excited about this new way of dealing with APIs.",
+    "audio": "ep50-graphql.mp3",
+    "duration": "33:33:33",
+    "filesize": "23423423",
+    "color": "#5accc1"
+  },
   "datasketches": {
     "title": "Data Sketches",
     "date": "May 16th, 2017",
