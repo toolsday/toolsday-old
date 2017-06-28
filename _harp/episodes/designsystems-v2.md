@@ -1,0 +1,3 @@
+- [Carbon Design System](http://carbondesignsystem.com/)
+- [Post on DO Design System](https://blog.digitalocean.com/faster-and-more-accessible-the-new-digitaloceancom/)
+- [First Episode on Design Systems](/episodes/styleguides-at-scale.html)

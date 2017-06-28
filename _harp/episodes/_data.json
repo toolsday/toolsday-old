@@ -1,4 +1,13 @@
 {
+  "designsystems-v2": {
+    "title": "Continuing Design Systems",
+    "date": "June 27, 2017",
+    "description": "What happens when our shiny design system has its first birthday? Chris and Una discuss lessons learned from their years in the field.",
+    "audio": "ep51-design-systems.mp3",
+    "duration": "33:33:33",
+    "filesize": "23423423",
+    "color": "#8bcc5a"
+  },
   "graphql": {
     "title": "GraphQL",
     "date": "May 23rd, 2017",
