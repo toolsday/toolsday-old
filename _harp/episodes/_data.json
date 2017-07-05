@@ -1,4 +1,13 @@
 {
+  "css-variables": {
+    "title": "CSS Variables",
+    "date": "July 5th, 2017",
+    "description": "CSS variables are so freaking useful and their fast adoption has us more than excited. In this short episode, we discuss them and some of their uses. We discuss implementation and some use cases",
+    "audio": "ep52-css-variables.mp3",
+    "duration": "33:33:33",
+    "filesize": "23423423",
+    "color": "#5a90cc"
+  },
   "designsystems-v2": {
     "title": "Continuing Design Systems",
     "date": "June 27, 2017",
