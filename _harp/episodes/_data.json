@@ -1,4 +1,13 @@
 {
+  "writing": {
+    "title": "Writing",
+    "date": "July 18th, 2017",
+    "description": "This week we discuss writing! An essential tool to get your voice heard and work seen in the dev community.",
+    "audio": "ep53-writing.mp3",
+    "duration": "33:33:33",
+    "filesize": "23423423",
+    "color": "#980404"
+  },
   "css-variables": {
     "title": "CSS Variables",
     "date": "July 5th, 2017",
