@@ -1,0 +1,20 @@
+### RxJS with David Khourshid
+
+- [Twitter](https://twitter.com/DavidKPiano)
+- [Codepen](https://codepen.io/davidkpiano/)
+
+### Resources
+
+- [An Animated Intro to RxJS](https://css-tricks.com/animated-intro-rxjs/)
+- [The introduction to Reactive Programming you've been missing]
+- [Introduction to Reactive Programming - Egghead](https://egghead.io/courses/introduction-to-reactive-programming)(https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
+- [Cycle.js](https://cycle.js.org/)
+- [RxCSS](https://github.com/davidkpiano/RxCSS)
+- [Material Motion](https://github.com/material-motion)
+- [XStream](https://github.com/staltz/xstream)
+- [Bacon.js]()https://baconjs.github.io/
+
+### People
+
+- [Tracy Lee](https://twitter.com/ladyleet)
+- [Ben Lesh](https://twitter.com/BenLesh)

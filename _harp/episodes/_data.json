@@ -1,4 +1,13 @@
 {
+  "rxjs": {
+    "title": "RxJS",
+    "date": "July 18th, 2017",
+    "description": "This week we talk getting started with RxJS and its data streaming possibilities with David Khourshid.",
+    "audio": "ep54-rxjs.mp3",
+    "duration": "33:33:33",
+    "filesize": "23423423",
+    "color": "#980404"
+  },
   "writing": {
     "title": "Writing",
     "date": "July 18th, 2017",
