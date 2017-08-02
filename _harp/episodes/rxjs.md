@@ -16,9 +16,10 @@
 
 ### People
 
+- [André Staltz](https://staltz.com/)
 - [Tracy Lee](https://twitter.com/ladyleet)
 - [Ben Lesh](https://twitter.com/BenLesh)
 
 ### Sponsor
 
-- [Shade App](shade.cool)
+- [Shade App](http://shade.cool)
