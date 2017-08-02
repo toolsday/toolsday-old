@@ -6,13 +6,13 @@
 ### Resources
 
 - [An Animated Intro to RxJS](https://css-tricks.com/animated-intro-rxjs/)
-- [The introduction to Reactive Programming you've been missing]
-- [Introduction to Reactive Programming - Egghead](https://egghead.io/courses/introduction-to-reactive-programming)(https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
+- [The introduction to Reactive Programming you've been missing](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754)
+- [Introduction to Reactive Programming - Egghead](https://egghead.io/courses/introduction-to-reactive-programming)
 - [Cycle.js](https://cycle.js.org/)
 - [RxCSS](https://github.com/davidkpiano/RxCSS)
 - [Material Motion](https://github.com/material-motion)
 - [XStream](https://github.com/staltz/xstream)
-- [Bacon.js]()https://baconjs.github.io/
+- [Bacon.js](https://baconjs.github.io/)
 
 ### People
 

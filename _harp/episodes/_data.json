@@ -1,12 +1,12 @@
 {
   "rxjs": {
     "title": "RxJS",
-    "date": "July 18th, 2017",
-    "description": "This week we talk getting started with RxJS and its data streaming possibilities with David Khourshid.",
+    "date": "August 2nd, 2017",
+    "description": "This week we talk about getting started with RxJS and its data streaming possibilities with David Khourshid!",
     "audio": "ep54-rxjs.mp3",
     "duration": "33:33:33",
     "filesize": "23423423",
-    "color": "#980404"
+    "color": "#45951e"
   },
   "writing": {
     "title": "Writing",
@@ -20,7 +20,7 @@
   "css-variables": {
     "title": "CSS Variables",
     "date": "July 5th, 2017",
-    "description": "CSS variables are so freaking useful and their fast adoption has us more than excited. In this short episode, we discuss them and some of their uses. We discuss implementation and some use cases",
+    "description": "CSS variables are so freaking useful and their fast adoption has us more than excited. In this short episode, we discuss implementation and some use cases.",
     "audio": "ep52-css-variables.mp3",
     "duration": "33:33:33",
     "filesize": "23423423",
