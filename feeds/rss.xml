@@ -16,7 +16,7 @@
 	<atom:link href="http://toolsday.io/feeds/rss.xml" rel="self" type="application/rss+xml" />
 	<link>http://toolsday.io</link>
 	<description>Toolsday is a 20-minute podcast about the latest in tech tools, tips, and tricks on Tuesdays at 2! (Our alliteration game is so strong). The podast is brought to you by Chris Dhanaraj and Una Kravets, and recorded live on IBM radio. After the show, we collect resources and post our episodes here.</description>
-	<lastBuildDate>Wed, 20 Jul 2016 16:14:39 GMT</lastBuildDate>
+	<lastBuildDate>Wed, 02 Aug 2017 04:31:29 GMT</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -53,9 +53,503 @@
 	
 	
 	<item>
+		<title>RxJS</title>
+		<link>http://toolsday.io/episodes/rxjs.html</link>
+		<pubDate>Invalid Date</pubDate>
+		<guid isPermaLink="true">http://toolsday.io/episodes/rxjs.html</guid>
+		<description>This week we talk about getting started with RxJS and its data streaming possibilities with David Khourshid!</description>
+
+		<enclosure url="http://toolsday.io/ep54-rxjs.mp3" length="23423423" type="audio/mpeg" />
+
+		<itunes:summary><![CDATA[This week we talk about getting started with RxJS and its data streaming possibilities with David Khourshid! See <a href="http://toolsday.io/episodes/rxjs">show notes link</a> for resources.]]></itunes:summary>
+		<itunes:duration>33:33:33</itunes:duration>
+		<itunes:subtitle>This week we talk about getting started with RxJS and its data streaming possibilities with David Khourshid!</itunes:subtitle>
+		<itunes:author>Una Kravets and Chris Dhanaraj</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:block>no</itunes:block>
+	</item>
+	
+	
+	
+	<item>
+		<title>Writing</title>
+		<link>http://toolsday.io/episodes/writing.html</link>
+		<pubDate>Invalid Date</pubDate>
+		<guid isPermaLink="true">http://toolsday.io/episodes/writing.html</guid>
+		<description>This week we discuss writing! An essential tool to get your voice heard and work seen in the dev community.</description>
+
+		<enclosure url="http://toolsday.io/ep53-writing.mp3" length="23423423" type="audio/mpeg" />
+
+		<itunes:summary><![CDATA[This week we discuss writing! An essential tool to get your voice heard and work seen in the dev community. See <a href="http://toolsday.io/episodes/writing">show notes link</a> for resources.]]></itunes:summary>
+		<itunes:duration>33:33:33</itunes:duration>
+		<itunes:subtitle>This week we discuss writing! An essential tool to get your voice heard and work seen in the dev community.</itunes:subtitle>
+		<itunes:author>Una Kravets and Chris Dhanaraj</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:block>no</itunes:block>
+	</item>
+	
+	
+	
+	<item>
+		<title>CSS Variables</title>
+		<link>http://toolsday.io/episodes/css-variables.html</link>
+		<pubDate>Invalid Date</pubDate>
+		<guid isPermaLink="true">http://toolsday.io/episodes/css-variables.html</guid>
+		<description>CSS variables are so freaking useful and their fast adoption has us more than excited. In this short episode, we discuss implementation and some use cases.</description>
+
+		<enclosure url="http://toolsday.io/ep52-css-variables.mp3" length="23423423" type="audio/mpeg" />
+
+		<itunes:summary><![CDATA[CSS variables are so freaking useful and their fast adoption has us more than excited. In this short episode, we discuss implementation and some use cases. See <a href="http://toolsday.io/episodes/css-variables">show notes link</a> for resources.]]></itunes:summary>
+		<itunes:duration>33:33:33</itunes:duration>
+		<itunes:subtitle>CSS variables are so freaking useful and their fast adoption has us more than excited. In this short episode, we discuss implementation and some use cases.</itunes:subtitle>
+		<itunes:author>Una Kravets and Chris Dhanaraj</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:block>no</itunes:block>
+	</item>
+	
+	
+	
+	<item>
+		<title>Continuing Design Systems</title>
+		<link>http://toolsday.io/episodes/designsystems-v2.html</link>
+		<pubDate>Tue, 27 Jun 2017 04:00:00 GMT</pubDate>
+		<guid isPermaLink="true">http://toolsday.io/episodes/designsystems-v2.html</guid>
+		<description>What happens when our shiny design system has its first birthday? Chris and Una discuss lessons learned from their years in the field.</description>
+
+		<enclosure url="http://toolsday.io/ep51-design-systems.mp3" length="23423423" type="audio/mpeg" />
+
+		<itunes:summary><![CDATA[What happens when our shiny design system has its first birthday? Chris and Una discuss lessons learned from their years in the field. See <a href="http://toolsday.io/episodes/designsystems-v2">show notes link</a> for resources.]]></itunes:summary>
+		<itunes:duration>33:33:33</itunes:duration>
+		<itunes:subtitle>What happens when our shiny design system has its first birthday? Chris and Una discuss lessons learned from their years in the field.</itunes:subtitle>
+		<itunes:author>Una Kravets and Chris Dhanaraj</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:block>no</itunes:block>
+	</item>
+	
+	
+	
+	<item>
+		<title>GraphQL</title>
+		<link>http://toolsday.io/episodes/graphql.html</link>
+		<pubDate>Invalid Date</pubDate>
+		<guid isPermaLink="true">http://toolsday.io/episodes/graphql.html</guid>
+		<description>Tune in this week to hear us ford through unfamiliar waters as we tackle GraphQL! We go through why you should get excited about this new way of dealing with APIs.</description>
+
+		<enclosure url="http://toolsday.io/ep50-graphql.mp3" length="23423423" type="audio/mpeg" />
+
+		<itunes:summary><![CDATA[Tune in this week to hear us ford through unfamiliar waters as we tackle GraphQL! We go through why you should get excited about this new way of dealing with APIs. See <a href="http://toolsday.io/episodes/graphql">show notes link</a> for resources.]]></itunes:summary>
+		<itunes:duration>33:33:33</itunes:duration>
+		<itunes:subtitle>Tune in this week to hear us ford through unfamiliar waters as we tackle GraphQL! We go through why you should get excited about this new way of dealing with APIs.</itunes:subtitle>
+		<itunes:author>Una Kravets and Chris Dhanaraj</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:block>no</itunes:block>
+	</item>
+	
+	
+	
+	<item>
+		<title>Data Sketches</title>
+		<link>http://toolsday.io/episodes/datasketches.html</link>
+		<pubDate>Invalid Date</pubDate>
+		<guid isPermaLink="true">http://toolsday.io/episodes/datasketches.html</guid>
+		<description>Live from JSConf.EU, we speak with Nadieh Bremer &amp; Shirley Wu about their incredible data sketches project and their experiences with data visualization.</description>
+
+		<enclosure url="http://toolsday.io/ep49-datasketches.mp3" length="23423423" type="audio/mpeg" />
+
+		<itunes:summary><![CDATA[Live from JSConf.EU, we speak with Nadieh Bremer &amp; Shirley Wu about their incredible data sketches project and their experiences with data visualization. See <a href="http://toolsday.io/episodes/datasketches">show notes link</a> for resources.]]></itunes:summary>
+		<itunes:duration>33:33:33</itunes:duration>
+		<itunes:subtitle>Live from JSConf.EU, we speak with Nadieh Bremer &amp; Shirley Wu about their incredible data sketches project and their experiences with data visualization.</itunes:subtitle>
+		<itunes:author>Una Kravets and Chris Dhanaraj</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:block>no</itunes:block>
+	</item>
+	
+	
+	
+	<item>
+		<title>Our Favorite Perf Tools</title>
+		<link>http://toolsday.io/episodes/topperftools.html</link>
+		<pubDate>Invalid Date</pubDate>
+		<guid isPermaLink="true">http://toolsday.io/episodes/topperftools.html</guid>
+		<description>We go through our 8 favorite tools that we use to improve web performance.</description>
+
+		<enclosure url="http://toolsday.io/ep48-performancetips.mp3" length="23423423" type="audio/mpeg" />
+
+		<itunes:summary><![CDATA[We go through our 8 favorite tools that we use to improve web performance. See <a href="http://toolsday.io/episodes/topperftools">show notes link</a> for resources.]]></itunes:summary>
+		<itunes:duration>33:33:33</itunes:duration>
+		<itunes:subtitle>We go through our 8 favorite tools that we use to improve web performance.</itunes:subtitle>
+		<itunes:author>Una Kravets and Chris Dhanaraj</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:block>no</itunes:block>
+	</item>
+	
+	
+	
+	<item>
+		<title>Hardware</title>
+		<link>http://toolsday.io/episodes/hardwarejs.html</link>
+		<pubDate>Invalid Date</pubDate>
+		<guid isPermaLink="true">http://toolsday.io/episodes/hardwarejs.html</guid>
+		<description>We talk with Suz Hinton about how to write software interconnected with physical objects. How cool is that wizardry!?</description>
+
+		<enclosure url="http://toolsday.io/ep47-hardware.mp3" length="23423423" type="audio/mpeg" />
+
+		<itunes:summary><![CDATA[We talk with Suz Hinton about how to write software interconnected with physical objects. How cool is that wizardry!? See <a href="http://toolsday.io/episodes/hardwarejs">show notes link</a> for resources.]]></itunes:summary>
+		<itunes:duration>33:33:33</itunes:duration>
+		<itunes:subtitle>We talk with Suz Hinton about how to write software interconnected with physical objects. How cool is that wizardry!?</itunes:subtitle>
+		<itunes:author>Una Kravets and Chris Dhanaraj</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:block>no</itunes:block>
+	</item>
+	
+	
+	
+	<item>
+		<title>CSS Grid</title>
+		<link>http://toolsday.io/episodes/cssgrids.html</link>
+		<pubDate>Invalid Date</pubDate>
+		<guid isPermaLink="true">http://toolsday.io/episodes/cssgrids.html</guid>
+		<description>Everyone’s talking about CSS Grid—the latest spec to surface in modern browsers. Listen up on why its so great!</description>
+
+		<enclosure url="http://toolsday.io/ep46-cssgrids.mp3" length="23423423" type="audio/mpeg" />
+
+		<itunes:summary><![CDATA[Everyone’s talking about CSS Grid—the latest spec to surface in modern browsers. Listen up on why its so great! See <a href="http://toolsday.io/episodes/cssgrids">show notes link</a> for resources.]]></itunes:summary>
+		<itunes:duration>33:33:33</itunes:duration>
+		<itunes:subtitle>Everyone’s talking about CSS Grid—the latest spec to surface in modern browsers. Listen up on why its so great!</itunes:subtitle>
+		<itunes:author>Una Kravets and Chris Dhanaraj</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:block>no</itunes:block>
+	</item>
+	
+	
+	
+	<item>
+		<title>Virtual Reality</title>
+		<link>http://toolsday.io/episodes/vr.html</link>
+		<pubDate>Invalid Date</pubDate>
+		<guid isPermaLink="true">http://toolsday.io/episodes/vr.html</guid>
+		<description>What&#39;s super trendy in tech right now? Virtual Reality. We break it down this week at SXSW.</description>
+
+		<enclosure url="http://toolsday.io/ep45-vr.mp3" length="23423423" type="audio/mpeg" />
+
+		<itunes:summary><![CDATA[What&#39;s super trendy in tech right now? Virtual Reality. We break it down this week at SXSW. See <a href="http://toolsday.io/episodes/vr">show notes link</a> for resources.]]></itunes:summary>
+		<itunes:duration>33:33:33</itunes:duration>
+		<itunes:subtitle>What&#39;s super trendy in tech right now? Virtual Reality. We break it down this week at SXSW.</itunes:subtitle>
+		<itunes:author>Una Kravets and Chris Dhanaraj</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:block>no</itunes:block>
+	</item>
+	
+	
+	
+	<item>
+		<title>.gifv</title>
+		<link>http://toolsday.io/episodes/gifv.html</link>
+		<pubDate>Invalid Date</pubDate>
+		<guid isPermaLink="true">http://toolsday.io/episodes/gifv.html</guid>
+		<description>We talk to Jason Ormand about gifv! The latest in image performance technology. No but really, it&#39;s pretty cool.</description>
+
+		<enclosure url="http://toolsday.io/ep44-gifv.mp3" length="23423423" type="audio/mpeg" />
+
+		<itunes:summary><![CDATA[We talk to Jason Ormand about gifv! The latest in image performance technology. No but really, it&#39;s pretty cool. See <a href="http://toolsday.io/episodes/gifv">show notes link</a> for resources.]]></itunes:summary>
+		<itunes:duration>33:33:33</itunes:duration>
+		<itunes:subtitle>We talk to Jason Ormand about gifv! The latest in image performance technology. No but really, it&#39;s pretty cool.</itunes:subtitle>
+		<itunes:author>Una Kravets and Chris Dhanaraj</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:block>no</itunes:block>
+	</item>
+	
+	
+	
+	<item>
+		<title>Git Tools</title>
+		<link>http://toolsday.io/episodes/git.html</link>
+		<pubDate>Invalid Date</pubDate>
+		<guid isPermaLink="true">http://toolsday.io/episodes/git.html</guid>
+		<description>Git is something we use every day—this week we talk about some tools, tips, and tricks to make it better.</description>
+
+		<enclosure url="http://toolsday.io/ep43-git.mp3" length="23423423" type="audio/mpeg" />
+
+		<itunes:summary><![CDATA[Git is something we use every day—this week we talk about some tools, tips, and tricks to make it better. See <a href="http://toolsday.io/episodes/git">show notes link</a> for resources.]]></itunes:summary>
+		<itunes:duration>33:33:33</itunes:duration>
+		<itunes:subtitle>Git is something we use every day—this week we talk about some tools, tips, and tricks to make it better.</itunes:subtitle>
+		<itunes:author>Una Kravets and Chris Dhanaraj</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:block>no</itunes:block>
+	</item>
+	
+	
+	
+	<item>
+		<title>Windows</title>
+		<link>http://toolsday.io/episodes/windows.html</link>
+		<pubDate>Invalid Date</pubDate>
+		<guid isPermaLink="true">http://toolsday.io/episodes/windows.html</guid>
+		<description>What is Windows up to these days? Una and Chris give you the down low of developing on this operating system in 2017!</description>
+
+		<enclosure url="http://toolsday.io/ep42-windows2.mp3" length="23423423" type="audio/mpeg" />
+
+		<itunes:summary><![CDATA[What is Windows up to these days? Una and Chris give you the down low of developing on this operating system in 2017! See <a href="http://toolsday.io/episodes/windows">show notes link</a> for resources.]]></itunes:summary>
+		<itunes:duration>33:33:33</itunes:duration>
+		<itunes:subtitle>What is Windows up to these days? Una and Chris give you the down low of developing on this operating system in 2017!</itunes:subtitle>
+		<itunes:author>Una Kravets and Chris Dhanaraj</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:block>no</itunes:block>
+	</item>
+	
+	
+	
+	<item>
+		<title>Webpack 2</title>
+		<link>http://toolsday.io/episodes/webpack2.html</link>
+		<pubDate>Invalid Date</pubDate>
+		<guid isPermaLink="true">http://toolsday.io/episodes/webpack2.html</guid>
+		<description>This week we sit down and talk with Sean Larkin about newly released Webpack 2! ES6 modules, tree-shaking, and more fun things in this episode.</description>
+
+		<enclosure url="http://toolsday.io/ep41-webpack2.mp3" length="23423423" type="audio/mpeg" />
+
+		<itunes:summary><![CDATA[This week we sit down and talk with Sean Larkin about newly released Webpack 2! ES6 modules, tree-shaking, and more fun things in this episode. See <a href="http://toolsday.io/episodes/webpack2">show notes link</a> for resources.]]></itunes:summary>
+		<itunes:duration>33:33:33</itunes:duration>
+		<itunes:subtitle>This week we sit down and talk with Sean Larkin about newly released Webpack 2! ES6 modules, tree-shaking, and more fun things in this episode.</itunes:subtitle>
+		<itunes:author>Una Kravets and Chris Dhanaraj</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:block>no</itunes:block>
+	</item>
+	
+	
+	
+	<item>
+		<title>CSS in JS</title>
+		<link>http://toolsday.io/episodes/cssinjs.html</link>
+		<pubDate>Invalid Date</pubDate>
+		<guid isPermaLink="true">http://toolsday.io/episodes/cssinjs.html</guid>
+		<description>CSS in JS: is it the next big thing? We break down some techniques with Glen Maddern</description>
+
+		<enclosure url="http://toolsday.io/ep40-cssinjs.mp3" length="23423423" type="audio/mpeg" />
+
+		<itunes:summary><![CDATA[CSS in JS: is it the next big thing? We break down some techniques with Glen Maddern See <a href="http://toolsday.io/episodes/cssinjs">show notes link</a> for resources.]]></itunes:summary>
+		<itunes:duration>33:33:33</itunes:duration>
+		<itunes:subtitle>CSS in JS: is it the next big thing? We break down some techniques with Glen Maddern</itunes:subtitle>
+		<itunes:author>Una Kravets and Chris Dhanaraj</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:block>no</itunes:block>
+	</item>
+	
+	
+	
+	<item>
+		<title>Discovered in 2016</title>
+		<link>http://toolsday.io/episodes/newtous2016.html</link>
+		<pubDate>Invalid Date</pubDate>
+		<guid isPermaLink="true">http://toolsday.io/episodes/newtous2016.html</guid>
+		<description>Every year introduces new tools. We recount our favorite discoveries from 2016.</description>
+
+		<enclosure url="http://toolsday.io/ep39-newtous2016.mp3" length="23423423" type="audio/mpeg" />
+
+		<itunes:summary><![CDATA[Every year introduces new tools. We recount our favorite discoveries from 2016. See <a href="http://toolsday.io/episodes/newtous2016">show notes link</a> for resources.]]></itunes:summary>
+		<itunes:duration>33:33:33</itunes:duration>
+		<itunes:subtitle>Every year introduces new tools. We recount our favorite discoveries from 2016.</itunes:subtitle>
+		<itunes:author>Una Kravets and Chris Dhanaraj</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:block>no</itunes:block>
+	</item>
+	
+	
+	
+	<item>
+		<title>Animation Tools with Sarah</title>
+		<link>http://toolsday.io/episodes/animationtools.html</link>
+		<pubDate>Invalid Date</pubDate>
+		<guid isPermaLink="true">http://toolsday.io/episodes/animationtools.html</guid>
+		<description>This week we learn about animation in UI: basics, libraries, performance considerations, and more with Sarah Drasner.</description>
+
+		<enclosure url="http://toolsday.io/ep38-animation.mp3" length="23423423" type="audio/mpeg" />
+
+		<itunes:summary><![CDATA[This week we learn about animation in UI: basics, libraries, performance considerations, and more with Sarah Drasner. See <a href="http://toolsday.io/episodes/animationtools">show notes link</a> for resources.]]></itunes:summary>
+		<itunes:duration>33:33:33</itunes:duration>
+		<itunes:subtitle>This week we learn about animation in UI: basics, libraries, performance considerations, and more with Sarah Drasner.</itunes:subtitle>
+		<itunes:author>Una Kravets and Chris Dhanaraj</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:block>no</itunes:block>
+	</item>
+	
+	
+	
+	<item>
+		<title>Fitness Tools</title>
+		<link>http://toolsday.io/episodes/fitness.html</link>
+		<pubDate>Invalid Date</pubDate>
+		<guid isPermaLink="true">http://toolsday.io/episodes/fitness.html</guid>
+		<description>We care about you! This week we talk about tools that can help you stay healthy and productive.</description>
+
+		<enclosure url="http://toolsday.io/ep37-fitness.mp3" length="23423423" type="audio/mpeg" />
+
+		<itunes:summary><![CDATA[We care about you! This week we talk about tools that can help you stay healthy and productive. See <a href="http://toolsday.io/episodes/fitness">show notes link</a> for resources.]]></itunes:summary>
+		<itunes:duration>33:33:33</itunes:duration>
+		<itunes:subtitle>We care about you! This week we talk about tools that can help you stay healthy and productive.</itunes:subtitle>
+		<itunes:author>Una Kravets and Chris Dhanaraj</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:block>no</itunes:block>
+	</item>
+	
+	
+	
+	<item>
+		<title>Images!</title>
+		<link>http://toolsday.io/episodes/images.html</link>
+		<pubDate>Invalid Date</pubDate>
+		<guid isPermaLink="true">http://toolsday.io/episodes/images.html</guid>
+		<description>This week&#39;s episode is full of image optimization tooks, formats, and some fun facts about images!</description>
+
+		<enclosure url="http://toolsday.io/ep36-images.mp3" length="23423423" type="audio/mpeg" />
+
+		<itunes:summary><![CDATA[This week&#39;s episode is full of image optimization tooks, formats, and some fun facts about images! See <a href="http://toolsday.io/episodes/images">show notes link</a> for resources.]]></itunes:summary>
+		<itunes:duration>33:33:33</itunes:duration>
+		<itunes:subtitle>This week&#39;s episode is full of image optimization tooks, formats, and some fun facts about images!</itunes:subtitle>
+		<itunes:author>Una Kravets and Chris Dhanaraj</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:block>no</itunes:block>
+	</item>
+	
+	
+	
+	<item>
+		<title>Chrome Extensions</title>
+		<link>http://toolsday.io/episodes/chromeextensions.html</link>
+		<pubDate>Invalid Date</pubDate>
+		<guid isPermaLink="true">http://toolsday.io/episodes/chromeextensions.html</guid>
+		<description>We rapid fire through our favourite Chrome extensions</description>
+
+		<enclosure url="http://toolsday.io/ep35-chromeextensions.mp3" length="23423423" type="audio/mpeg" />
+
+		<itunes:summary><![CDATA[We rapid fire through our favourite Chrome extensions See <a href="http://toolsday.io/episodes/chromeextensions">show notes link</a> for resources.]]></itunes:summary>
+		<itunes:duration>0:34:31</itunes:duration>
+		<itunes:subtitle>We rapid fire through our favourite Chrome extensions</itunes:subtitle>
+		<itunes:author>Una Kravets and Chris Dhanaraj</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:block>no</itunes:block>
+	</item>
+	
+	
+	
+	<item>
+		<title>Tech Conference Speaking</title>
+		<link>http://toolsday.io/episodes/conferencespeaking.html</link>
+		<pubDate>Invalid Date</pubDate>
+		<guid isPermaLink="true">http://toolsday.io/episodes/conferencespeaking.html</guid>
+		<description>Chris interviews Una on her experience as a conference speaker and how you can become one too!</description>
+
+		<enclosure url="http://toolsday.io/ep34-conferencespeaking.mp3" length="23423423" type="audio/mpeg" />
+
+		<itunes:summary><![CDATA[Chris interviews Una on her experience as a conference speaker and how you can become one too! See <a href="http://toolsday.io/episodes/conferencespeaking">show notes link</a> for resources.]]></itunes:summary>
+		<itunes:duration>0:34:31</itunes:duration>
+		<itunes:subtitle>Chris interviews Una on her experience as a conference speaker and how you can become one too!</itunes:subtitle>
+		<itunes:author>Una Kravets and Chris Dhanaraj</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:block>no</itunes:block>
+	</item>
+	
+	
+	
+	<item>
+		<title>Visual Studio Code</title>
+		<link>http://toolsday.io/episodes/vscode.html</link>
+		<pubDate>Invalid Date</pubDate>
+		<guid isPermaLink="true">http://toolsday.io/episodes/vscode.html</guid>
+		<description>We stray off the beaten road of Atom and Sublime, and instead discuss our new favourite editor, Visual Studio Code, and our top five extensions for it.</description>
+
+		<enclosure url="http://toolsday.io/ep32-vscode.mp3" length="23423423" type="audio/mpeg" />
+
+		<itunes:summary><![CDATA[We stray off the beaten road of Atom and Sublime, and instead discuss our new favourite editor, Visual Studio Code, and our top five extensions for it. See <a href="http://toolsday.io/episodes/vscode">show notes link</a> for resources.]]></itunes:summary>
+		<itunes:duration>0:34:31</itunes:duration>
+		<itunes:subtitle>We stray off the beaten road of Atom and Sublime, and instead discuss our new favourite editor, Visual Studio Code, and our top five extensions for it.</itunes:subtitle>
+		<itunes:author>Una Kravets and Chris Dhanaraj</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:block>no</itunes:block>
+	</item>
+	
+	
+	
+	<item>
+		<title>State of Javascript</title>
+		<link>http://toolsday.io/episodes/stateofjs.html</link>
+		<pubDate>Invalid Date</pubDate>
+		<guid isPermaLink="true">http://toolsday.io/episodes/stateofjs.html</guid>
+		<description>We’re back! With an overview of what people have been talking about lately: the abundance of tools in web development.</description>
+
+		<enclosure url="http://toolsday.io/ep32-stateofjs.mp3" length="23423423" type="audio/mpeg" />
+
+		<itunes:summary><![CDATA[We’re back! With an overview of what people have been talking about lately: the abundance of tools in web development. See <a href="http://toolsday.io/episodes/stateofjs">show notes link</a> for resources.]]></itunes:summary>
+		<itunes:duration>0:34:31</itunes:duration>
+		<itunes:subtitle>We’re back! With an overview of what people have been talking about lately: the abundance of tools in web development.</itunes:subtitle>
+		<itunes:author>Una Kravets and Chris Dhanaraj</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:block>no</itunes:block>
+	</item>
+	
+	
+	
+	<item>
+		<title>Conference Talks</title>
+		<link>http://toolsday.io/episodes/conferencetalks.html</link>
+		<pubDate>Invalid Date</pubDate>
+		<guid isPermaLink="true">http://toolsday.io/episodes/conferencetalks.html</guid>
+		<description>We highlight thirteen conference talks that dazzled us, inspired us, and drove our careers forward</description>
+
+		<enclosure url="http://toolsday.io/ep31-conferencetalks.mp3" length="39811789" type="audio/mpeg" />
+
+		<itunes:summary><![CDATA[We highlight thirteen conference talks that dazzled us, inspired us, and drove our careers forward See <a href="http://toolsday.io/episodes/conferencetalks">show notes link</a> for resources.]]></itunes:summary>
+		<itunes:duration>0:30:31</itunes:duration>
+		<itunes:subtitle>We highlight thirteen conference talks that dazzled us, inspired us, and drove our careers forward</itunes:subtitle>
+		<itunes:author>Una Kravets and Chris Dhanaraj</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:block>no</itunes:block>
+	</item>
+	
+	
+	
+	<item>
+		<title>Travel Tools</title>
+		<link>http://toolsday.io/episodes/travel.html</link>
+		<pubDate>Invalid Date</pubDate>
+		<guid isPermaLink="true">http://toolsday.io/episodes/travel.html</guid>
+		<description>After a short hiatus, Toolsday returns with CSS Wizardry himself, Harry Roberts, to talk about travel.</description>
+
+		<enclosure url="http://toolsday.io/ep30-travel.mp3" length="39811789" type="audio/mpeg" />
+
+		<itunes:summary><![CDATA[After a short hiatus, Toolsday returns with CSS Wizardry himself, Harry Roberts, to talk about travel. See <a href="http://toolsday.io/episodes/travel">show notes link</a> for resources.]]></itunes:summary>
+		<itunes:duration>0:30:31</itunes:duration>
+		<itunes:subtitle>After a short hiatus, Toolsday returns with CSS Wizardry himself, Harry Roberts, to talk about travel.</itunes:subtitle>
+		<itunes:author>Una Kravets and Chris Dhanaraj</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:block>no</itunes:block>
+	</item>
+	
+	
+	
+	<item>
+		<title>Travis CI</title>
+		<link>http://toolsday.io/episodes/travis.html</link>
+		<pubDate>Invalid Date</pubDate>
+		<guid isPermaLink="true">http://toolsday.io/episodes/travis.html</guid>
+		<description>Mathias, CEO of Travis CI, comes on the show to give us an overview of what Travis CI is and how it can help your next project.</description>
+
+		<enclosure url="http://toolsday.io/ep29-travis.mp3" length="39811789" type="audio/mpeg" />
+
+		<itunes:summary><![CDATA[Mathias, CEO of Travis CI, comes on the show to give us an overview of what Travis CI is and how it can help your next project. See <a href="http://toolsday.io/episodes/travis">show notes link</a> for resources.]]></itunes:summary>
+		<itunes:duration>0:27:38</itunes:duration>
+		<itunes:subtitle>Mathias, CEO of Travis CI, comes on the show to give us an overview of what Travis CI is and how it can help your next project.</itunes:subtitle>
+		<itunes:author>Una Kravets and Chris Dhanaraj</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:block>no</itunes:block>
+	</item>
+	
+	
+	
+	<item>
 		<title>Standards and Linters</title>
 		<link>http://toolsday.io/episodes/standards.html</link>
-		<pubDate>Tue, 19 Jul 2016 05:00:00 GMT</pubDate>
+		<pubDate>Tue, 19 Jul 2016 04:00:00 GMT</pubDate>
 		<guid isPermaLink="true">http://toolsday.io/episodes/standards.html</guid>
 		<description>What’s the “correct” way to write code? We can’t say for sure, but these standards and linters can. This week we explore the options.</description>
 
@@ -74,7 +568,7 @@
 	<item>
 		<title>CSS Frameworks</title>
 		<link>http://toolsday.io/episodes/cssframeworks.html</link>
-		<pubDate>Tue, 12 Jul 2016 05:00:00 GMT</pubDate>
+		<pubDate>Tue, 12 Jul 2016 04:00:00 GMT</pubDate>
 		<guid isPermaLink="true">http://toolsday.io/episodes/cssframeworks.html</guid>
 		<description>CSS frameworks / design systems/ pattern libraries — so many names, so little time! We revisit the topic with so much more knowledges.</description>
 
@@ -93,7 +587,7 @@
 	<item>
 		<title>Our Hardware!</title>
 		<link>http://toolsday.io/episodes/hardware.html</link>
-		<pubDate>Tue, 21 Jun 2016 05:00:00 GMT</pubDate>
+		<pubDate>Tue, 21 Jun 2016 04:00:00 GMT</pubDate>
 		<guid isPermaLink="true">http://toolsday.io/episodes/hardware.html</guid>
 		<description>We chat about how we use completely different hardware to do our work</description>
 
@@ -112,7 +606,7 @@
 	<item>
 		<title>Firefox Dev Tools</title>
 		<link>http://toolsday.io/episodes/firefoxdev.html</link>
-		<pubDate>Wed, 15 Jun 2016 05:00:00 GMT</pubDate>
+		<pubDate>Wed, 15 Jun 2016 04:00:00 GMT</pubDate>
 		<guid isPermaLink="true">http://toolsday.io/episodes/firefoxdev.html</guid>
 		<description>We had Helen Holmes, UI designer of Firefox Dev tools to teach us some tricks we didn&#39;t know existed!</description>
 
@@ -131,7 +625,7 @@
 	<item>
 		<title>The Variety Show</title>
 		<link>http://toolsday.io/episodes/variety-show.html</link>
-		<pubDate>Tue, 07 Jun 2016 05:00:00 GMT</pubDate>
+		<pubDate>Tue, 07 Jun 2016 04:00:00 GMT</pubDate>
 		<guid isPermaLink="true">http://toolsday.io/episodes/variety-show.html</guid>
 		<description>The tools we love and use that we forgot or just didn&#39;t fit into any other category.</description>
 
@@ -150,7 +644,7 @@
 	<item>
 		<title>Service Workers</title>
 		<link>http://toolsday.io/episodes/serviceworkers.html</link>
-		<pubDate>Tue, 17 May 2016 05:00:00 GMT</pubDate>
+		<pubDate>Tue, 17 May 2016 04:00:00 GMT</pubDate>
 		<guid isPermaLink="true">http://toolsday.io/episodes/serviceworkers.html</guid>
 		<description>We poke around, ruminate, and explore Service Workers.</description>
 
@@ -169,7 +663,7 @@
 	<item>
 		<title>Offline-first</title>
 		<link>http://toolsday.io/episodes/offline-web.html</link>
-		<pubDate>Tue, 10 May 2016 05:00:00 GMT</pubDate>
+		<pubDate>Tue, 10 May 2016 04:00:00 GMT</pubDate>
 		<guid isPermaLink="true">http://toolsday.io/episodes/offline-web.html</guid>
 		<description>How can we make sure people are able to access data on poor connections? Hear about offline-first this week with Hoodie&#39;s Gregor Martynus.</description>
 
@@ -188,7 +682,7 @@
 	<item>
 		<title>System Tools</title>
 		<link>http://toolsday.io/episodes/systemtools.html</link>
-		<pubDate>Wed, 04 May 2016 05:00:00 GMT</pubDate>
+		<pubDate>Wed, 04 May 2016 04:00:00 GMT</pubDate>
 		<guid isPermaLink="true">http://toolsday.io/episodes/systemtools.html</guid>
 		<description>Some of the things you&#39;ll need to set up a MacBook from scratch, and some fun quirks that will make your life easier day to day.</description>
 
@@ -207,7 +701,7 @@
 	<item>
 		<title>Top 10 Tools</title>
 		<link>http://toolsday.io/episodes/topten.html</link>
-		<pubDate>Tue, 19 Apr 2016 05:00:00 GMT</pubDate>
+		<pubDate>Tue, 19 Apr 2016 04:00:00 GMT</pubDate>
 		<guid isPermaLink="true">http://toolsday.io/episodes/topten.html</guid>
 		<description>For our 20th episode, we do a recap of our favourite tools that we use everyday.</description>
 
@@ -226,7 +720,7 @@
 	<item>
 		<title>Web Accessibility</title>
 		<link>http://toolsday.io/episodes/accessibility.html</link>
-		<pubDate>Tue, 12 Apr 2016 05:00:00 GMT</pubDate>
+		<pubDate>Tue, 12 Apr 2016 04:00:00 GMT</pubDate>
 		<guid isPermaLink="true">http://toolsday.io/episodes/accessibility.html</guid>
 		<description>This week we talk about web accessibility concerns &amp;mdash; what the heck all those acronyms are, and how to test for compliance.</description>
 
@@ -245,7 +739,7 @@
 	<item>
 		<title>(Mostly CSS) Animation</title>
 		<link>http://toolsday.io/episodes/animation.html</link>
-		<pubDate>Tue, 29 Mar 2016 05:00:00 GMT</pubDate>
+		<pubDate>Tue, 29 Mar 2016 04:00:00 GMT</pubDate>
 		<guid isPermaLink="true">http://toolsday.io/episodes/animation.html</guid>
 		<description>Animation brings the web to life! Today we talk about (mostly CSS) animation — how it works, tools, and resources.</description>
 
@@ -264,7 +758,7 @@
 	<item>
 		<title>Unit Testing</title>
 		<link>http://toolsday.io/episodes/unittesting.html</link>
-		<pubDate>Tue, 22 Mar 2016 05:00:00 GMT</pubDate>
+		<pubDate>Tue, 22 Mar 2016 04:00:00 GMT</pubDate>
 		<guid isPermaLink="true">http://toolsday.io/episodes/unittesting.html</guid>
 		<description>Today we discuss JavaScript unit testing with ColbyCheeze! Learn about spying, stubbing, and mocking this week.</description>
 
@@ -283,7 +777,7 @@
 	<item>
 		<title>Game Engines</title>
 		<link>http://toolsday.io/episodes/gameengines.html</link>
-		<pubDate>Tue, 08 Mar 2016 06:00:00 GMT</pubDate>
+		<pubDate>Tue, 08 Mar 2016 05:00:00 GMT</pubDate>
 		<guid isPermaLink="true">http://toolsday.io/episodes/gameengines.html</guid>
 		<description>Achieved in CryEngine 3 — wait no, Unity, wait no, Phaser?</description>
 
@@ -302,7 +796,7 @@
 	<item>
 		<title>CSS Layout</title>
 		<link>http://toolsday.io/episodes/css-layout.html</link>
-		<pubDate>Tue, 01 Mar 2016 06:00:00 GMT</pubDate>
+		<pubDate>Tue, 01 Mar 2016 05:00:00 GMT</pubDate>
 		<guid isPermaLink="true">http://toolsday.io/episodes/css-layout.html</guid>
 		<description>This week we&#39;re talking CSS layout — from CSS 1 to current best practices to what&#39;s coming down the pipeline.</description>
 
@@ -321,7 +815,7 @@
 	<item>
 		<title>Performance Profiling</title>
 		<link>http://toolsday.io/episodes/performance.html</link>
-		<pubDate>Tue, 16 Feb 2016 06:00:00 GMT</pubDate>
+		<pubDate>Tue, 16 Feb 2016 05:00:00 GMT</pubDate>
 		<guid isPermaLink="true">http://toolsday.io/episodes/performance.html</guid>
 		<description>We all agree performance testing is important, but how do you track it over time? This week Taylor Jones tells us how.</description>
 
@@ -340,7 +834,7 @@
 	<item>
 		<title>Static Site Generators</title>
 		<link>http://toolsday.io/episodes/static-site-gens.html</link>
-		<pubDate>Tue, 09 Feb 2016 06:00:00 GMT</pubDate>
+		<pubDate>Tue, 09 Feb 2016 05:00:00 GMT</pubDate>
 		<guid isPermaLink="true">http://toolsday.io/episodes/static-site-gens.html</guid>
 		<description>There are 412 options for static site generators. This week we discuss (mostly three) of them.</description>
 
@@ -359,7 +853,7 @@
 	<item>
 		<title>Solved by ES6 (ES2015)</title>
 		<link>http://toolsday.io/episodes/es6.html</link>
-		<pubDate>Tue, 02 Feb 2016 06:00:00 GMT</pubDate>
+		<pubDate>Tue, 02 Feb 2016 05:00:00 GMT</pubDate>
 		<guid isPermaLink="true">http://toolsday.io/episodes/es6.html</guid>
 		<description>We picked our top five ES6/7/2015/2016 upgrades and talk about how they make our lives so much easier.</description>
 
@@ -378,7 +872,7 @@
 	<item>
 		<title>Express &amp; Middleware</title>
 		<link>http://toolsday.io/episodes/express.html</link>
-		<pubDate>Tue, 19 Jan 2016 06:00:00 GMT</pubDate>
+		<pubDate>Tue, 19 Jan 2016 05:00:00 GMT</pubDate>
 		<guid isPermaLink="true">http://toolsday.io/episodes/express.html</guid>
 		<description>Our guest Jon Ballands chats with us about the IBM Swift Sandbox, and building it with Node &amp; Express.</description>
 
@@ -397,7 +891,7 @@
 	<item>
 		<title>Ember</title>
 		<link>http://toolsday.io/episodes/ember.html</link>
-		<pubDate>Tue, 12 Jan 2016 06:00:00 GMT</pubDate>
+		<pubDate>Tue, 12 Jan 2016 05:00:00 GMT</pubDate>
 		<guid isPermaLink="true">http://toolsday.io/episodes/ember.html</guid>
 		<description>With frameworks being so hot right now, we talk to Iheanyi Ekechukwu about Ember</description>
 
@@ -416,7 +910,7 @@
 	<item>
 		<title>React</title>
 		<link>http://toolsday.io/episodes/react.html</link>
-		<pubDate>Tue, 05 Jan 2016 06:00:00 GMT</pubDate>
+		<pubDate>Tue, 05 Jan 2016 05:00:00 GMT</pubDate>
 		<guid isPermaLink="true">http://toolsday.io/episodes/react.html</guid>
 		<description>This week we talk about React and why it&#39;s so darn hard to get started with!</description>
 
@@ -435,7 +929,7 @@
 	<item>
 		<title>Chrome DevTools</title>
 		<link>http://toolsday.io/episodes/devtools.html</link>
-		<pubDate>Tue, 22 Dec 2015 06:00:00 GMT</pubDate>
+		<pubDate>Tue, 22 Dec 2015 05:00:00 GMT</pubDate>
 		<guid isPermaLink="true">http://toolsday.io/episodes/devtools.html</guid>
 		<description>Chrome DevTools is the topic of the week, which we&#39;ve simply deemed &#34;awesome&#34;.</description>
 
@@ -454,7 +948,7 @@
 	<item>
 		<title>CSS Processors</title>
 		<link>http://toolsday.io/episodes/preprocessors.html</link>
-		<pubDate>Tue, 15 Dec 2015 06:00:00 GMT</pubDate>
+		<pubDate>Tue, 15 Dec 2015 05:00:00 GMT</pubDate>
 		<guid isPermaLink="true">http://toolsday.io/episodes/preprocessors.html</guid>
 		<description>This week&#39;s episode is about the past, present and future of CSS Pre and Post-processors.</description>
 
@@ -473,7 +967,7 @@
 	<item>
 		<title>Remote Collaboration</title>
 		<link>http://toolsday.io/episodes/remote-collaboration.html</link>
-		<pubDate>Tue, 08 Dec 2015 06:00:00 GMT</pubDate>
+		<pubDate>Tue, 08 Dec 2015 05:00:00 GMT</pubDate>
 		<guid isPermaLink="true">http://toolsday.io/episodes/remote-collaboration.html</guid>
 		<description>Absence makes the heart grow fonder? Let&#39;s talk about remote collaboration and the tools that make it possible. </description>
 
@@ -492,7 +986,7 @@
 	<item>
 		<title>Developer Environment</title>
 		<link>http://toolsday.io/episodes/dev-environment.html</link>
-		<pubDate>Tue, 24 Nov 2015 06:00:00 GMT</pubDate>
+		<pubDate>Tue, 24 Nov 2015 05:00:00 GMT</pubDate>
 		<guid isPermaLink="true">http://toolsday.io/episodes/dev-environment.html</guid>
 		<description>Sublime or Atom? Wait, WEBSTORM? We talk about our favourite developer environment tips and tricks.</description>
 
@@ -511,7 +1005,7 @@
 	<item>
 		<title>Styleguides at Scale</title>
 		<link>http://toolsday.io/episodes/styleguides-at-scale.html</link>
-		<pubDate>Tue, 17 Nov 2015 06:00:00 GMT</pubDate>
+		<pubDate>Tue, 17 Nov 2015 05:00:00 GMT</pubDate>
 		<guid isPermaLink="true">http://toolsday.io/episodes/styleguides-at-scale.html</guid>
 		<description>We discuss the challenges of creating scalable styleguides with guest Brian Han</description>
 
@@ -530,7 +1024,7 @@
 	<item>
 		<title>Learning Tools</title>
 		<link>http://toolsday.io/episodes/learning-tools.html</link>
-		<pubDate>Tue, 03 Nov 2015 06:00:00 GMT</pubDate>
+		<pubDate>Tue, 03 Nov 2015 05:00:00 GMT</pubDate>
 		<guid isPermaLink="true">http://toolsday.io/episodes/learning-tools.html</guid>
 		<description>College? Where we&#39;re going, we don&#39;t need college (or do we?).</description>
 
@@ -549,7 +1043,7 @@
 	<item>
 		<title>Module Loaders</title>
 		<link>http://toolsday.io/episodes/module-loaders.html</link>
-		<pubDate>Tue, 27 Oct 2015 05:00:00 GMT</pubDate>
+		<pubDate>Tue, 27 Oct 2015 04:00:00 GMT</pubDate>
 		<guid isPermaLink="true">http://toolsday.io/episodes/module-loaders.html</guid>
 		<description>We&#39;ll talk about modules and module loaders! Everything from AMD to common.js and spend a bit of time going over Browserify and Webpack.</description>
 
@@ -568,7 +1062,7 @@
 	<item>
 		<title>Task Runners</title>
 		<link>http://toolsday.io/episodes/task-runners.html</link>
-		<pubDate>Tue, 20 Oct 2015 05:00:00 GMT</pubDate>
+		<pubDate>Tue, 20 Oct 2015 04:00:00 GMT</pubDate>
 		<guid isPermaLink="true">http://toolsday.io/episodes/task-runners.html</guid>
 		<description>Grunt, Gulp, Broccoli, Brunch, Mimosa, oh my! So many task runners, so little time. In this weeks episode, we explore each of these delectable breakfast items/task runners.</description>
 
