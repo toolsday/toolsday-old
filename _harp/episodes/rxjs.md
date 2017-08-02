@@ -20,6 +20,7 @@
 - [Tracy Lee](https://twitter.com/ladyleet)
 - [Ben Lesh](https://twitter.com/BenLesh)
 
-### Sponsor
+### Sponsors
 
 - [Shade App](http://shade.cool)
+- [Webflow](https://webflow.com/)
