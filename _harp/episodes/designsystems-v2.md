@@ -11,4 +11,4 @@
 - [React Storybook](https://github.com/storybooks/storybook)
 - [ESLint](http://eslint.org/)
 - [Stylelint](https://github.com/stylelint/stylelint)
-- [Prettier](http://eslint.org/)
+- [Prettier](https://prettier.io/)
