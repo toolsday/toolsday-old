@@ -18,3 +18,7 @@
 
 - [Tracy Lee](https://twitter.com/ladyleet)
 - [Ben Lesh](https://twitter.com/BenLesh)
+
+### Sponsor
+
+- [Shade App](shade.cool)
