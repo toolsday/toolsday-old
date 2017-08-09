@@ -1,4 +1,13 @@
 {
+  "npx": {
+    "title": "RxJS",
+    "date": "August 8th, 2017",
+    "description": "This week we talk with the awesome Kat Marchán about her new tool NPX and how it can improve your NPM workflow.",
+    "audio": "ep55-npx.mp3",
+    "duration": "33:33:33",
+    "filesize": "23423423",
+    "color": "#fb49e0"
+  },
   "rxjs": {
     "title": "RxJS",
     "date": "August 1st, 2017",
