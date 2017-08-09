@@ -12,7 +12,7 @@ https://medium.com/@maybekatz/introducing-npx-an-npm-package-runner-55f7d4bd282b
 - [Awesome npx](https://github.com/js-n/awesome-npx)
 
 ### People
-
+- [Rebecca Turner](https://twitter.com/ReBeccaOrg)
 - [Kate Miháliková](https://twitter.com/katemihalikova)
 - [Daijiro Wachi](https://twitter.com/watilde)
 
