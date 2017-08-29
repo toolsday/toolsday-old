@@ -1,8 +1,19 @@
 {
+  "webanimationapi": {
+    "title": "Web Animation API",
+    "date": "August 29th, 2017",
+    "description":
+      "This week we have Rachel Nabors teaching us all about the future of the Web Animations API!",
+    "audio": "ep58-webanimationapi",
+    "duration": "33:33:33",
+    "filesize": "23423423",
+    "color": "#8d50f0"
+  },
   "headlesschrome": {
     "title": "Headless Chrome",
     "date": "August 22nd, 2017",
-    "description": "This week, we’re wrapping our heads around Headless Chrome with Tim Holman!",
+    "description":
+      "This week, we’re wrapping our heads around Headless Chrome with Tim Holman!",
     "audio": "ep57-headlesschrome.mp3",
     "duration": "33:33:33",
     "filesize": "23423423",
@@ -11,7 +22,8 @@
   "digitalnomading": {
     "title": "Digital Nomading",
     "date": "August 15th, 2017",
-    "description": "If you’ve ever wondered what its like to live and work around the world, this is the show for you. This week we talk to Nicole Dominguez about running her own business as a digital nomad.",
+    "description":
+      "If you’ve ever wondered what its like to live and work around the world, this is the show for you. This week we talk to Nicole Dominguez about running her own business as a digital nomad.",
     "audio": "ep56-nomads.mp3",
     "duration": "33:33:33",
     "filesize": "23423423",
@@ -20,7 +32,8 @@
   "npx": {
     "title": "NPX",
     "date": "August 8th, 2017",
-    "description": "This week we talk with the awesome Kat Marchán about her new tool NPX and how it can improve your NPM workflow.",
+    "description":
+      "This week we talk with the awesome Kat Marchán about her new tool NPX and how it can improve your NPM workflow.",
     "audio": "ep55-npx.mp3",
     "duration": "33:33:33",
     "filesize": "23423423",
@@ -29,7 +42,8 @@
   "rxjs": {
     "title": "RxJS",
     "date": "August 1st, 2017",
-    "description": "This week we talk about getting started with RxJS and its data streaming possibilities with David Khourshid!",
+    "description":
+      "This week we talk about getting started with RxJS and its data streaming possibilities with David Khourshid!",
     "audio": "ep54-rxjs.mp3",
     "duration": "33:33:33",
     "filesize": "23423423",
@@ -38,7 +52,8 @@
   "writing": {
     "title": "Writing",
     "date": "July 18th, 2017",
-    "description": "This week we discuss writing! An essential tool to get your voice heard and work seen in the dev community.",
+    "description":
+      "This week we discuss writing! An essential tool to get your voice heard and work seen in the dev community.",
     "audio": "ep53-writing.mp3",
     "duration": "33:33:33",
     "filesize": "23423423",
@@ -47,7 +62,8 @@
   "css-variables": {
     "title": "CSS Variables",
     "date": "July 5th, 2017",
-    "description": "CSS variables are so freaking useful and their fast adoption has us more than excited. In this short episode, we discuss implementation and some use cases.",
+    "description":
+      "CSS variables are so freaking useful and their fast adoption has us more than excited. In this short episode, we discuss implementation and some use cases.",
     "audio": "ep52-css-variables.mp3",
     "duration": "33:33:33",
     "filesize": "23423423",
@@ -56,7 +72,8 @@
   "designsystems-v2": {
     "title": "Continuing Design Systems",
     "date": "June 27, 2017",
-    "description": "What happens when our shiny design system has its first birthday? Chris and Una discuss lessons learned from their years in the field.",
+    "description":
+      "What happens when our shiny design system has its first birthday? Chris and Una discuss lessons learned from their years in the field.",
     "audio": "ep51-design-systems.mp3",
     "duration": "33:33:33",
     "filesize": "23423423",
@@ -65,7 +82,8 @@
   "graphql": {
     "title": "GraphQL",
     "date": "May 23rd, 2017",
-    "description": "Tune in this week to hear us ford through unfamiliar waters as we tackle GraphQL! We go through why you should get excited about this new way of dealing with APIs.",
+    "description":
+      "Tune in this week to hear us ford through unfamiliar waters as we tackle GraphQL! We go through why you should get excited about this new way of dealing with APIs.",
     "audio": "ep50-graphql.mp3",
     "duration": "33:33:33",
     "filesize": "23423423",
@@ -74,7 +92,8 @@
   "datasketches": {
     "title": "Data Sketches",
     "date": "May 16th, 2017",
-    "description": "Live from JSConf.EU, we speak with Nadieh Bremer & Shirley Wu about their incredible data sketches project and their experiences with data visualization.",
+    "description":
+      "Live from JSConf.EU, we speak with Nadieh Bremer & Shirley Wu about their incredible data sketches project and their experiences with data visualization.",
     "audio": "ep49-datasketches.mp3",
     "duration": "33:33:33",
     "filesize": "23423423",
@@ -83,7 +102,8 @@
   "topperftools": {
     "title": "Our Favorite Perf Tools",
     "date": "May 2nd, 2017",
-    "description": "We go through our 8 favorite tools that we use to improve web performance.",
+    "description":
+      "We go through our 8 favorite tools that we use to improve web performance.",
     "audio": "ep48-performancetips.mp3",
     "duration": "33:33:33",
     "filesize": "23423423",
@@ -92,7 +112,8 @@
   "hardwarejs": {
     "title": "Hardware",
     "date": "April 25th, 2017",
-    "description": "We talk with Suz Hinton about how to write software interconnected with physical objects. How cool is that wizardry!?",
+    "description":
+      "We talk with Suz Hinton about how to write software interconnected with physical objects. How cool is that wizardry!?",
     "audio": "ep47-hardware.mp3",
     "duration": "33:33:33",
     "filesize": "23423423",
@@ -101,7 +122,8 @@
   "cssgrids": {
     "title": "CSS Grid",
     "date": "March 28th, 2017",
-    "description": "Everyone’s talking about CSS Grid—the latest spec to surface in modern browsers. Listen up on why its so great!",
+    "description":
+      "Everyone’s talking about CSS Grid—the latest spec to surface in modern browsers. Listen up on why its so great!",
     "audio": "ep46-cssgrids.mp3",
     "duration": "33:33:33",
     "filesize": "23423423",
@@ -110,7 +132,8 @@
   "vr": {
     "title": "Virtual Reality",
     "date": "March 14th, 2017",
-    "description": "What's super trendy in tech right now? Virtual Reality. We break it down this week at SXSW.",
+    "description":
+      "What's super trendy in tech right now? Virtual Reality. We break it down this week at SXSW.",
     "audio": "ep45-vr.mp3",
     "duration": "33:33:33",
     "filesize": "23423423",
@@ -119,7 +142,8 @@
   "gifv": {
     "title": ".gifv",
     "date": "March 7th, 2017",
-    "description": "We talk to Jason Ormand about gifv! The latest in image performance technology. No but really, it's pretty cool.",
+    "description":
+      "We talk to Jason Ormand about gifv! The latest in image performance technology. No but really, it's pretty cool.",
     "audio": "ep44-gifv.mp3",
     "duration": "33:33:33",
     "filesize": "23423423",
@@ -128,7 +152,8 @@
   "git": {
     "title": "Git Tools",
     "date": "February 28th, 2017",
-    "description": "Git is something we use every day—this week we talk about some tools, tips, and tricks to make it better.",
+    "description":
+      "Git is something we use every day—this week we talk about some tools, tips, and tricks to make it better.",
     "audio": "ep43-git.mp3",
     "duration": "33:33:33",
     "filesize": "23423423",
@@ -137,7 +162,8 @@
   "windows": {
     "title": "Windows",
     "date": "February 14th, 2017",
-    "description": "What is Windows up to these days? Una and Chris give you the down low of developing on this operating system in 2017!",
+    "description":
+      "What is Windows up to these days? Una and Chris give you the down low of developing on this operating system in 2017!",
     "audio": "ep42-windows2.mp3",
     "duration": "33:33:33",
     "filesize": "23423423",
@@ -146,7 +172,8 @@
   "webpack2": {
     "title": "Webpack 2",
     "date": "February 7th, 2017",
-    "description": "This week we sit down and talk with Sean Larkin about newly released Webpack 2! ES6 modules, tree-shaking, and more fun things in this episode.",
+    "description":
+      "This week we sit down and talk with Sean Larkin about newly released Webpack 2! ES6 modules, tree-shaking, and more fun things in this episode.",
     "audio": "ep41-webpack2.mp3",
     "duration": "33:33:33",
     "filesize": "23423423",
@@ -155,7 +182,8 @@
   "cssinjs": {
     "title": "CSS in JS",
     "date": "January 24th, 2017",
-    "description": "CSS in JS: is it the next big thing? We break down some techniques with Glen Maddern",
+    "description":
+      "CSS in JS: is it the next big thing? We break down some techniques with Glen Maddern",
     "audio": "ep40-cssinjs.mp3",
     "duration": "33:33:33",
     "filesize": "23423423",
@@ -164,7 +192,8 @@
   "newtous2016": {
     "title": "Discovered in 2016",
     "date": "January 10th, 2017",
-    "description": "Every year introduces new tools. We recount our favorite discoveries from 2016.",
+    "description":
+      "Every year introduces new tools. We recount our favorite discoveries from 2016.",
     "audio": "ep39-newtous2016.mp3",
     "duration": "33:33:33",
     "filesize": "23423423",
@@ -173,7 +202,8 @@
   "animationtools": {
     "title": "Animation Tools with Sarah",
     "date": "December 20th, 2016",
-    "description": "This week we learn about animation in UI: basics, libraries, performance considerations, and more with Sarah Drasner.",
+    "description":
+      "This week we learn about animation in UI: basics, libraries, performance considerations, and more with Sarah Drasner.",
     "audio": "ep38-animation.mp3",
     "duration": "33:33:33",
     "filesize": "23423423",
@@ -182,7 +212,8 @@
   "fitness": {
     "title": "Fitness Tools",
     "date": "November 22nd, 2016",
-    "description": "We care about you! This week we talk about tools that can help you stay healthy and productive.",
+    "description":
+      "We care about you! This week we talk about tools that can help you stay healthy and productive.",
     "audio": "ep37-fitness.mp3",
     "duration": "33:33:33",
     "filesize": "23423423",
@@ -191,7 +222,8 @@
   "images": {
     "title": "Images!",
     "date": "November 15th, 2016",
-    "description": "This week's episode is full of image optimization tooks, formats, and some fun facts about images!",
+    "description":
+      "This week's episode is full of image optimization tooks, formats, and some fun facts about images!",
     "audio": "ep36-images.mp3",
     "duration": "33:33:33",
     "filesize": "23423423",
@@ -209,7 +241,8 @@
   "conferencespeaking": {
     "title": "Tech Conference Speaking",
     "date": "November 1st, 2016",
-    "description": "Chris interviews Una on her experience as a conference speaker and how you can become one too!",
+    "description":
+      "Chris interviews Una on her experience as a conference speaker and how you can become one too!",
     "audio": "ep34-conferencespeaking.mp3",
     "duration": "0:34:31",
     "filesize": "23423423",
@@ -218,7 +251,8 @@
   "vscode": {
     "title": "Visual Studio Code",
     "date": "October 25th, 2016",
-    "description": "We stray off the beaten road of Atom and Sublime, and instead discuss our new favourite editor, Visual Studio Code, and our top five extensions for it.",
+    "description":
+      "We stray off the beaten road of Atom and Sublime, and instead discuss our new favourite editor, Visual Studio Code, and our top five extensions for it.",
     "audio": "ep32-vscode.mp3",
     "duration": "0:34:31",
     "filesize": "23423423",
@@ -227,7 +261,8 @@
   "stateofjs": {
     "title": "State of Javascript",
     "date": "October 18th, 2016",
-    "description": "We’re back! With an overview of what people have been talking about lately: the abundance of tools in web development.",
+    "description":
+      "We’re back! With an overview of what people have been talking about lately: the abundance of tools in web development.",
     "audio": "ep32-stateofjs.mp3",
     "duration": "0:34:31",
     "filesize": "23423423",
@@ -236,7 +271,8 @@
   "conferencetalks": {
     "title": "Conference Talks",
     "date": "August 30th, 2016",
-    "description": "We highlight thirteen conference talks that dazzled us, inspired us, and drove our careers forward",
+    "description":
+      "We highlight thirteen conference talks that dazzled us, inspired us, and drove our careers forward",
     "audio": "ep31-conferencetalks.mp3",
     "duration": "0:30:31",
     "filesize": "39811789",
@@ -245,7 +281,8 @@
   "travel": {
     "title": "Travel Tools",
     "date": "August 23rd, 2016",
-    "description": "After a short hiatus, Toolsday returns with CSS Wizardry himself, Harry Roberts, to talk about travel.",
+    "description":
+      "After a short hiatus, Toolsday returns with CSS Wizardry himself, Harry Roberts, to talk about travel.",
     "audio": "ep30-travel.mp3",
     "duration": "0:30:31",
     "filesize": "39811789",
@@ -254,7 +291,8 @@
   "travis": {
     "title": "Travis CI",
     "date": "August 3rd, 2016",
-    "description": "Mathias, CEO of Travis CI, comes on the show to give us an overview of what Travis CI is and how it can help your next project.",
+    "description":
+      "Mathias, CEO of Travis CI, comes on the show to give us an overview of what Travis CI is and how it can help your next project.",
     "audio": "ep29-travis.mp3",
     "duration": "0:27:38",
     "filesize": "39811789",
@@ -263,7 +301,8 @@
   "standards": {
     "title": "Standards and Linters",
     "date": "July 19, 2016",
-    "description": "What’s the “correct” way to write code? We can’t say for sure, but these standards and linters can. This week we explore the options.",
+    "description":
+      "What’s the “correct” way to write code? We can’t say for sure, but these standards and linters can. This week we explore the options.",
     "audio": "ep28-standards.mp3",
     "duration": "0:25:22",
     "filesize": "36535319",
@@ -272,7 +311,8 @@
   "cssframeworks": {
     "title": "CSS Frameworks",
     "date": "July 12, 2016",
-    "description": "CSS frameworks / design systems/ pattern libraries — so many names, so little time! We revisit the topic with so much more knowledges.",
+    "description":
+      "CSS frameworks / design systems/ pattern libraries — so many names, so little time! We revisit the topic with so much more knowledges.",
     "audio": "ep27-cssframeworks.mp3",
     "duration": "0:31:06",
     "filesize": "44795753",
@@ -281,7 +321,8 @@
   "hardware": {
     "title": "Our Hardware!",
     "date": "June 21, 2016",
-    "description": "We chat about how we use completely different hardware to do our work",
+    "description":
+      "We chat about how we use completely different hardware to do our work",
     "audio": "ep26-hardware.mp3",
     "duration": "0:20:53",
     "filesize": "30074871",
@@ -290,7 +331,8 @@
   "firefoxdev": {
     "title": "Firefox Dev Tools",
     "date": "June 15, 2016",
-    "description": "We had Helen Holmes, UI designer of Firefox Dev tools to teach us some tricks we didn't know existed!",
+    "description":
+      "We had Helen Holmes, UI designer of Firefox Dev tools to teach us some tricks we didn't know existed!",
     "audio": "ep25-firefoxdev.mp3",
     "duration": "0:27:47",
     "filesize": "40037195",
@@ -299,7 +341,8 @@
   "variety-show": {
     "title": "The Variety Show",
     "date": "June 7, 2016",
-    "description": "The tools we love and use that we forgot or just didn't fit into any other category.",
+    "description":
+      "The tools we love and use that we forgot or just didn't fit into any other category.",
     "audio": "ep24-varietyshow.mp3",
     "duration": "0:18:55",
     "filesize": "27262501",
@@ -317,7 +360,8 @@
   "offline-web": {
     "title": "Offline-first",
     "date": "May 10, 2016",
-    "description": "How can we make sure people are able to access data on poor connections? Hear about offline-first this week with Hoodie's Gregor Martynus.",
+    "description":
+      "How can we make sure people are able to access data on poor connections? Hear about offline-first this week with Hoodie's Gregor Martynus.",
     "audio": "ep22-offlinetools.mp3",
     "duration": "0:26:02",
     "filesize": "37498349",
@@ -326,7 +370,8 @@
   "systemtools": {
     "title": "System Tools",
     "date": "May 4, 2016",
-    "description": "Some of the things you'll need to set up a MacBook from scratch, and some fun quirks that will make your life easier day to day.",
+    "description":
+      "Some of the things you'll need to set up a MacBook from scratch, and some fun quirks that will make your life easier day to day.",
     "audio": "ep21-systemtools.mp3",
     "duration": "0:24:03",
     "filesize": "34637413",
@@ -335,7 +380,8 @@
   "topten": {
     "title": "Top 10 Tools",
     "date": "April 19, 2016",
-    "description": "For our 20th episode, we do a recap of our favourite tools that we use everyday.",
+    "description":
+      "For our 20th episode, we do a recap of our favourite tools that we use everyday.",
     "audio": "ep20-topten.mp3",
     "duration": "0:27:16",
     "filesize": "39272297",
@@ -344,7 +390,8 @@
   "accessibility": {
     "title": "Web Accessibility",
     "date": "April 12, 2016",
-    "description": "This week we talk about web accessibility concerns &mdash; what the heck all those acronyms are, and how to test for compliance.",
+    "description":
+      "This week we talk about web accessibility concerns &mdash; what the heck all those acronyms are, and how to test for compliance.",
     "audio": "ep19-a11y.mp3",
     "duration": "0:25:08",
     "filesize": "36207159",
@@ -353,7 +400,8 @@
   "animation": {
     "title": "(Mostly CSS) Animation",
     "date": "March 29, 2016",
-    "description": "Animation brings the web to life! Today we talk about (mostly CSS) animation — how it works, tools, and resources.",
+    "description":
+      "Animation brings the web to life! Today we talk about (mostly CSS) animation — how it works, tools, and resources.",
     "audio": "ep18-css-animation.mp3",
     "duration": "0:24:47",
     "filesize": "35711627",
@@ -362,7 +410,8 @@
   "unittesting": {
     "title": "Unit Testing",
     "date": "March 22, 2016",
-    "description": "Today we discuss JavaScript unit testing with ColbyCheeze! Learn about spying, stubbing, and mocking this week.",
+    "description":
+      "Today we discuss JavaScript unit testing with ColbyCheeze! Learn about spying, stubbing, and mocking this week.",
     "audio": "ep17-unit-testing.mp3",
     "duration": "0:25:29",
     "filesize": "36720955",
@@ -380,7 +429,8 @@
   "css-layout": {
     "title": "CSS Layout",
     "date": "March 1, 2016",
-    "description": "This week we're talking CSS layout — from CSS 1 to current best practices to what's coming down the pipeline.",
+    "description":
+      "This week we're talking CSS layout — from CSS 1 to current best practices to what's coming down the pipeline.",
     "audio": "ep15-css-layout.mp3",
     "duration": "0:33:58",
     "filesize": "48931469",
@@ -389,7 +439,8 @@
   "performance": {
     "title": "Performance Profiling",
     "date": "February 16, 2016",
-    "description": "We all agree performance testing is important, but how do you track it over time? This week Taylor Jones tells us how.",
+    "description":
+      "We all agree performance testing is important, but how do you track it over time? This week Taylor Jones tells us how.",
     "audio": "ep14-performance.mp3",
     "duration": "0:20:33",
     "filesize": "29614641",
@@ -398,7 +449,8 @@
   "static-site-gens": {
     "title": "Static Site Generators",
     "date": "February 9, 2016",
-    "description": "There are 412 options for static site generators. This week we discuss (mostly three) of them.",
+    "description":
+      "There are 412 options for static site generators. This week we discuss (mostly three) of them.",
     "audio": "ep13-static-site.mp3",
     "duration": "0:23:14",
     "filesize": "33454267",
@@ -407,7 +459,8 @@
   "es6": {
     "title": "Solved by ES6 (ES2015)",
     "date": "February 2, 2016",
-    "description": "We picked our top five ES6/7/2015/2016 upgrades and talk about how they make our lives so much easier.",
+    "description":
+      "We picked our top five ES6/7/2015/2016 upgrades and talk about how they make our lives so much easier.",
     "audio": "ep12-solved-by-es6.mp3",
     "duration": "0:19:42",
     "filesize": "28372521",
@@ -416,7 +469,8 @@
   "express": {
     "title": "Express & Middleware",
     "date": "January 19, 2016",
-    "description": "Our guest Jon Ballands chats with us about the IBM Swift Sandbox, and building it with Node & Express.",
+    "description":
+      "Our guest Jon Ballands chats with us about the IBM Swift Sandbox, and building it with Node & Express.",
     "audio": "ep11-express.mp3",
     "duration": "0:26:36",
     "filesize": "36658007",
@@ -425,7 +479,8 @@
   "ember": {
     "title": "Ember",
     "date": "January 12, 2016",
-    "description": "With frameworks being so hot right now, we talk to Iheanyi Ekechukwu about Ember",
+    "description":
+      "With frameworks being so hot right now, we talk to Iheanyi Ekechukwu about Ember",
     "audio": "ep10-ember.mp3",
     "duration": "0:23:20",
     "filesize": "33599479",
@@ -434,7 +489,8 @@
   "react": {
     "title": "React",
     "date": "January 05, 2016",
-    "description": "This week we talk about React and why it's so darn hard to get started with!",
+    "description":
+      "This week we talk about React and why it's so darn hard to get started with!",
     "audio": "ep09-react.mp3",
     "duration": "0:25:11",
     "filesize": "36292045",
@@ -443,7 +499,8 @@
   "devtools": {
     "title": "Chrome DevTools",
     "date": "December 22, 2015",
-    "description": "Chrome DevTools is the topic of the week, which we've simply deemed \"awesome\".",
+    "description":
+      "Chrome DevTools is the topic of the week, which we've simply deemed \"awesome\".",
     "audio": "ep08-devtools.mp3",
     "duration": "0:19:39",
     "filesize": "28293651",
@@ -452,7 +509,8 @@
   "preprocessors": {
     "title": "CSS Processors",
     "date": "December 15, 2015",
-    "description": "This week's episode is about the past, present and future of CSS Pre and Post-processors.",
+    "description":
+      "This week's episode is about the past, present and future of CSS Pre and Post-processors.",
     "audio": "ep07-preprocessors.mp3",
     "duration": "0:24:28",
     "filesize": "35233657",
@@ -461,7 +519,8 @@
   "remote-collaboration": {
     "title": "Remote Collaboration",
     "date": "December 8, 2015",
-    "description": "Absence makes the heart grow fonder? Let's talk about remote collaboration and the tools that make it possible. ",
+    "description":
+      "Absence makes the heart grow fonder? Let's talk about remote collaboration and the tools that make it possible. ",
     "audio": "ep06-remote-collaboration.mp3",
     "duration": "0:30:09",
     "filesize": "43417889",
@@ -470,7 +529,8 @@
   "dev-environment": {
     "title": "Developer Environment",
     "date": "November 24, 2015",
-    "description": "Sublime or Atom? Wait, WEBSTORM? We talk about our favourite developer environment tips and tricks.",
+    "description":
+      "Sublime or Atom? Wait, WEBSTORM? We talk about our favourite developer environment tips and tricks.",
     "audio": "ep05-dev-environment.mp3",
     "duration": "0:27:51",
     "filesize": "40110559",
@@ -479,7 +539,8 @@
   "styleguides-at-scale": {
     "title": "Styleguides at Scale",
     "date": "November 17, 2015",
-    "description": "We discuss the challenges of creating scalable styleguides with guest Brian Han",
+    "description":
+      "We discuss the challenges of creating scalable styleguides with guest Brian Han",
     "audio": "ep04-styleguides-at-scale.mp3",
     "duration": "0:30:21",
     "filesize": "43717843",
@@ -488,7 +549,8 @@
   "learning-tools": {
     "title": "Learning Tools",
     "date": "November 3, 2015",
-    "description": "College? Where we're going, we don't need college (or do we?).",
+    "description":
+      "College? Where we're going, we don't need college (or do we?).",
     "audio": "ep03-learning-tools.mp3",
     "duration": "0:27:28",
     "filesize": "46118307",
@@ -498,7 +560,8 @@
   "module-loaders": {
     "title": "Module Loaders",
     "date": "October 27, 2015",
-    "description": "We'll talk about modules and module loaders! Everything from AMD to common.js and spend a bit of time going over Browserify and Webpack.",
+    "description":
+      "We'll talk about modules and module loaders! Everything from AMD to common.js and spend a bit of time going over Browserify and Webpack.",
     "audio": "ep02-module-loaders.mp3",
     "duration": "0:27:28",
     "filesize": "39562297",
@@ -507,7 +570,8 @@
   "task-runners": {
     "title": "Task Runners",
     "date": "October 20, 2015",
-    "description": "Grunt, Gulp, Broccoli, Brunch, Mimosa, oh my! So many task runners, so little time. In this weeks episode, we explore each of these delectable breakfast items/task runners.",
+    "description":
+      "Grunt, Gulp, Broccoli, Brunch, Mimosa, oh my! So many task runners, so little time. In this weeks episode, we explore each of these delectable breakfast items/task runners.",
     "audio": "ep01-task-runners.mp3",
     "duration": "0:25:09",
     "filesize": 36219719,
