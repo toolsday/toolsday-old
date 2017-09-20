@@ -1,4 +1,14 @@
 {
+  "electron": {
+    "title": "CUBS: Electron",
+    "date": "September 19th, 2017",
+    "description":
+      "Electron.js lets you build desktop apps using web technologies. It’s pretty rad! In the first episode of our new CUBS series, we explore Electron ourselves!",
+    "audio": "ep59-electron.mp3",
+    "duration": "33:33:33",
+    "filesize": "23423423",
+    "color": "#f0509f"
+  },
   "webanimationapi": {
     "title": "Web Animation API",
     "date": "August 29th, 2017",
