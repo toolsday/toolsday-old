@@ -16,7 +16,7 @@
 	<atom:link href="http://toolsday.io/feeds/rss.xml" rel="self" type="application/rss+xml" />
 	<link>http://toolsday.io</link>
 	<description>Toolsday is a 20-minute podcast about the latest in tech tools, tips, and tricks on Tuesdays at 2! (Our alliteration game is so strong). The podast is brought to you by Chris Dhanaraj and Una Kravets, and recorded live on IBM radio. After the show, we collect resources and post our episodes here.</description>
-	<lastBuildDate>Wed, 02 Aug 2017 04:34:27 GMT</lastBuildDate>
+	<lastBuildDate>Wed, 20 Sep 2017 14:59:23 GMT</lastBuildDate>
 	<language>en-US</language>
 	<sy:updatePeriod>hourly</sy:updatePeriod>
 	<sy:updateFrequency>1</sy:updateFrequency>
@@ -50,6 +50,101 @@
 	<itunes:image href="http://toolsday.io/img/logo-1400-1400.png" />
 	<itunes:new-feed-url>http://toolsday.libsyn.com/rss</itunes:new-feed-url>
 
+	
+	
+	<item>
+		<title>CUBS #1: Electron</title>
+		<link>http://toolsday.io/episodes/electron.html</link>
+		<pubDate>Invalid Date</pubDate>
+		<guid isPermaLink="true">http://toolsday.io/episodes/electron.html</guid>
+		<description>Electron.js lets you build desktop apps using web technologies. It’s pretty rad! In the first episode of our new CUBS series, we explore Electron ourselves!</description>
+
+		<enclosure url="http://toolsday.io/ep59-electron.mp3" length="23423423" type="audio/mpeg" />
+
+		<itunes:summary><![CDATA[Electron.js lets you build desktop apps using web technologies. It’s pretty rad! In the first episode of our new CUBS series, we explore Electron ourselves! See <a href="http://toolsday.io/episodes/electron">show notes link</a> for resources.]]></itunes:summary>
+		<itunes:duration>33:33:33</itunes:duration>
+		<itunes:subtitle>Electron.js lets you build desktop apps using web technologies. It’s pretty rad! In the first episode of our new CUBS series, we explore Electron ourselves!</itunes:subtitle>
+		<itunes:author>Una Kravets and Chris Dhanaraj</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:block>no</itunes:block>
+	</item>
+	
+	
+	
+	<item>
+		<title>Web Animation API</title>
+		<link>http://toolsday.io/episodes/webanimationapi.html</link>
+		<pubDate>Invalid Date</pubDate>
+		<guid isPermaLink="true">http://toolsday.io/episodes/webanimationapi.html</guid>
+		<description>This week we have Rachel Nabors teaching us all about the future of the Web Animations API!</description>
+
+		<enclosure url="http://toolsday.io/ep58-webanimationapi.mp3" length="23423423" type="audio/mpeg" />
+
+		<itunes:summary><![CDATA[This week we have Rachel Nabors teaching us all about the future of the Web Animations API! See <a href="http://toolsday.io/episodes/webanimationapi">show notes link</a> for resources.]]></itunes:summary>
+		<itunes:duration>33:33:33</itunes:duration>
+		<itunes:subtitle>This week we have Rachel Nabors teaching us all about the future of the Web Animations API!</itunes:subtitle>
+		<itunes:author>Una Kravets and Chris Dhanaraj</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:block>no</itunes:block>
+	</item>
+	
+	
+	
+	<item>
+		<title>Headless Chrome</title>
+		<link>http://toolsday.io/episodes/headlesschrome.html</link>
+		<pubDate>Invalid Date</pubDate>
+		<guid isPermaLink="true">http://toolsday.io/episodes/headlesschrome.html</guid>
+		<description>This week, we’re wrapping our heads around Headless Chrome with Tim Holman!</description>
+
+		<enclosure url="http://toolsday.io/ep57-headlesschrome.mp3" length="23423423" type="audio/mpeg" />
+
+		<itunes:summary><![CDATA[This week, we’re wrapping our heads around Headless Chrome with Tim Holman! See <a href="http://toolsday.io/episodes/headlesschrome">show notes link</a> for resources.]]></itunes:summary>
+		<itunes:duration>33:33:33</itunes:duration>
+		<itunes:subtitle>This week, we’re wrapping our heads around Headless Chrome with Tim Holman!</itunes:subtitle>
+		<itunes:author>Una Kravets and Chris Dhanaraj</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:block>no</itunes:block>
+	</item>
+	
+	
+	
+	<item>
+		<title>Digital Nomading</title>
+		<link>http://toolsday.io/episodes/digitalnomading.html</link>
+		<pubDate>Invalid Date</pubDate>
+		<guid isPermaLink="true">http://toolsday.io/episodes/digitalnomading.html</guid>
+		<description>If you’ve ever wondered what its like to live and work around the world, this is the show for you. This week we talk to Nicole Dominguez about running her own business as a digital nomad.</description>
+
+		<enclosure url="http://toolsday.io/ep56-nomads.mp3" length="23423423" type="audio/mpeg" />
+
+		<itunes:summary><![CDATA[If you’ve ever wondered what its like to live and work around the world, this is the show for you. This week we talk to Nicole Dominguez about running her own business as a digital nomad. See <a href="http://toolsday.io/episodes/digitalnomading">show notes link</a> for resources.]]></itunes:summary>
+		<itunes:duration>33:33:33</itunes:duration>
+		<itunes:subtitle>If you’ve ever wondered what its like to live and work around the world, this is the show for you. This week we talk to Nicole Dominguez about running her own business as a digital nomad.</itunes:subtitle>
+		<itunes:author>Una Kravets and Chris Dhanaraj</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:block>no</itunes:block>
+	</item>
+	
+	
+	
+	<item>
+		<title>NPX</title>
+		<link>http://toolsday.io/episodes/npx.html</link>
+		<pubDate>Invalid Date</pubDate>
+		<guid isPermaLink="true">http://toolsday.io/episodes/npx.html</guid>
+		<description>This week we talk with the awesome Kat Marchán about her new tool NPX and how it can improve your NPM workflow.</description>
+
+		<enclosure url="http://toolsday.io/ep55-npx.mp3" length="23423423" type="audio/mpeg" />
+
+		<itunes:summary><![CDATA[This week we talk with the awesome Kat Marchán about her new tool NPX and how it can improve your NPM workflow. See <a href="http://toolsday.io/episodes/npx">show notes link</a> for resources.]]></itunes:summary>
+		<itunes:duration>33:33:33</itunes:duration>
+		<itunes:subtitle>This week we talk with the awesome Kat Marchán about her new tool NPX and how it can improve your NPM workflow.</itunes:subtitle>
+		<itunes:author>Una Kravets and Chris Dhanaraj</itunes:author>
+		<itunes:explicit>no</itunes:explicit>
+		<itunes:block>no</itunes:block>
+	</item>
+	
 	
 	
 	<item>
