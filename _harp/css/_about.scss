@@ -1,8 +1,4 @@
 .about {
-  &-section {
-    @extend %max-1100;
-  }
-
   &__main-img {
     width: 100%;
     min-height: 250px;
@@ -34,7 +30,7 @@
   &__main-desc {
     position: absolute;
     bottom: -8em;
-    right: -4em;
+    right: -1em;
     max-width: 40em;
     padding: 2em;
     background-color: $lightgrey;

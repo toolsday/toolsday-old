@@ -1,5 +1,4 @@
 .episodes {
-  @extend %max-1100;
   margin-bottom: 4em;
   display: block;
   overflow: hidden;
@@ -11,13 +10,13 @@
 }
 
 .home {
-  &__ep {
-    display: block;
-    width: 30%;
-    float: left;
-    overflow: hidden;
-    margin-bottom: 2em;
+  &__post-list {
+    display: grid;
+    grid-gap: 2em 1em;
+    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  }
 
+  &__ep {
     p {
       color: black;
     }
@@ -26,31 +25,6 @@
       width: 100%;
       margin-top: -.5em;
     }
-
-    &:not(:nth-child(3n)) {
-      margin-right: 5%;
-    }
-
-    @include breakpoint(md) {
-      width: 45%;
-
-      &:not(:nth-child(3n)) {
-        margin-right: 0;
-      }
-
-      &:nth-child(2n-1) {
-        margin-right: 5%;
-      }
-    }
-
-    @include breakpoint(sm) {
-      width: 100%;
-
-      &:nth-child(2n-1) {
-        margin-right: 0;
-      }
-    }
-
 
     &--color {
       display: block;
