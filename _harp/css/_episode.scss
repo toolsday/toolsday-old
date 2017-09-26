@@ -1,16 +1,22 @@
 .episode {
   &-page {
     min-height: 72vh;
+    max-width: 960px;
+    margin: 0 auto;
+
+    h1 {
+      font-size: 3.5em;
+    }
 
     p {
       color: $black;
+      font-size: 1.5em;
     }
 
     .date {
       font-weight: 800;
-      font-size: 1.25em;
-      color: $black;
-      margin-bottom: 1em;
+      color: $dimgrey;
+      margin: -1em 0 2em;
       display: block;
     }
 
@@ -46,8 +52,16 @@
   }
 
   &--resources {
+    display: block;
     -webkit-column-count: 2;
     -webkit-column-gap: 4em;
+    margin: 1em 0 2em;
+
+    p {
+      font-size: 1em;
+      color: currentColor;
+      @extend %type--headers;
+    }
 
     @include breakpoint(md) {
       -webkit-column-count: 1;
@@ -56,9 +70,6 @@
     h2 {
       color: $dimgrey;
     }
-
-    display: block;
-    margin-top: 1em;
   }
 
   &--info {

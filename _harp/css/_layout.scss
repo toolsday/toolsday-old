@@ -5,6 +5,10 @@ $breakpoints: (
   sm: 500px
 );
 
+%transition {
+  transition-duration: .5s;
+}
+
 // Mixins
 @mixin breakpoint($name) {
   @if not map-has-key($breakpoints, $name) {
