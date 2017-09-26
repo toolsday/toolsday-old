@@ -10,10 +10,31 @@
 }
 
 .home {
-  &__post-list {
-    display: grid;
-    grid-gap: 2em 1em;
-    grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  // Fallback for Edge
+  // *Not* will be ignored by non-supporting
+  // Browsers anyway
+  @supports not (display: grid) {
+    &__post-list {
+      display: flex;
+      flex-wrap: wrap;
+    }
+
+    &__ep {
+      width: calc(96% / 3);
+      
+      &:not(:nth-child(3n)) {
+        margin-right: 2%;
+      }
+    }
+  }
+
+  // Grid things
+  @supports (display: grid) {
+    &__post-list {
+      display: grid;
+      grid-gap: 2em 1em;
+      grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+    }
   }
 
   &__ep {
