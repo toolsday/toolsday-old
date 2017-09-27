@@ -1,4 +1,14 @@
 {
+  "slackbots": {
+    "title": "CUBS #2: Slackbots",
+    "date": "September 19th, 2017",
+    "description":
+      "This week, Chris and Una take on the challenge of extending Slack (the messaging system) with their own bots!",
+    "audio": "ep60-slackbots.mp3",
+    "duration": "33:33:33",
+    "filesize": "23423423",
+    "color": "#f0509f"
+  },
   "electron": {
     "title": "CUBS #1: Electron",
     "date": "September 19th, 2017",
