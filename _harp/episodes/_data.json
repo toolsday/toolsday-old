@@ -1,4 +1,14 @@
 {
+  "dataviz": {
+    "title": "Data Visualization",
+    "date": "November 7th, 2017",
+    "description":
+      "We go back to data visualization tools! And talk about our experiences and thoughts.",
+    "audio": "ep61-datavisualizations.mp3",
+    "duration": "33:33:33",
+    "filesize": "23423423",
+    "color": "#42d88e"
+  },
   "slackbots": {
     "title": "CUBS #2: Slackbots",
     "date": "September 19th, 2017",
@@ -17,7 +27,7 @@
     "audio": "ep59-electron.mp3",
     "duration": "33:33:33",
     "filesize": "23423423",
-    "color": "#f0509f"
+    "color": "#902158"
   },
   "webanimationapi": {
     "title": "Web Animation API",
