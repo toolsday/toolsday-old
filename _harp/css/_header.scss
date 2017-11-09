@@ -1,6 +1,5 @@
 .header {
   &__container {
-    @extend %max-1200;
     position: relative;
     display: block;
     padding: 0 2em;
@@ -87,8 +86,7 @@
   top: 2.4em;
   left: 95px;
   background: yellow;
-  font-size: 1.3em;
-  mix-blend-mode: multiply;
+  font-size: 1.5em;
 
   @include breakpoint(md) {
     font-size: 1.1em;

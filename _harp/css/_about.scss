@@ -1,25 +1,16 @@
 .about {
-  &-section {
-    @extend %max-1100;
-  }
-
   &__main-img {
-    width: 100%;
-    min-height: 250px;
+    width: 108%;
+    margin: -3em -4% 0;
+    min-height: 320px;
     background-image: url('../img/in-studio.jpg');
     background-size: cover;
     background-position: 50%;
-    margin: 0;
-
-    @include breakpoint(lg) {
-      // height: auto;
-      margin-bottom: 8em;
-    }
   }
 
   &__intro {
+    z-index: -2;
     position: relative;
-    margin-bottom: 4em;
 
     @include breakpoint(md) {
       width: 120%;
@@ -33,9 +24,10 @@
 
   &__main-desc {
     position: absolute;
-    bottom: -8em;
-    right: -4em;
+    bottom: -5em;
+    right: 0;
     max-width: 40em;
+    font-size: 1.2em;
     padding: 2em;
     background-color: $lightgrey;
 
