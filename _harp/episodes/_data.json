@@ -1,4 +1,14 @@
 {
+  "preact": {
+    "title": "CUBS #3: Preact CLI",
+    "date": "December 12th, 2017",
+    "description":
+      "CUBS is back with an episode on the Preact CLI! Chris and Una try it out for their own projects and discuss.",
+    "audio": "ep62-preact.mp3",
+    "duration": "33:33:33",
+    "filesize": "23423423",
+    "color": "#d8aa42"
+  },
   "dataviz": {
     "title": "Data Visualization",
     "date": "November 7th, 2017",
