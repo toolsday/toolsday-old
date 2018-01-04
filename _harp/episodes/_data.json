@@ -1,4 +1,14 @@
 {
+  "2017": {
+    "title": "2017",
+    "date": "December 31st, 2017",
+    "description":
+      "It's time to wrap up the year and welcome 2018. So in this episode, Chris and Una go over their favorite tools and apps from 2017!",
+    "audio": "ep63-2017.mp3",
+    "duration": "33:33:33",
+    "filesize": "23423423",
+    "color": "#f9a5a5"
+  },
   "preact": {
     "title": "CUBS #3: Preact CLI",
     "date": "December 12th, 2017",
